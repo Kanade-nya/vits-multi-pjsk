@@ -1,6 +1,7 @@
 DUMMY1
 DUMMY2
 DUMMY3
+models
 logs
 __pycache__
 .ipynb_checkpoints
