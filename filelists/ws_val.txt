@@ -1,1000 +1,1000 @@
-data_ws/rui/voice_card_fes_202112_16_4a_51_16.wav|2|ん？　これは……
-data_ws/rui/voice_ev_wonder_08_02_73_16.wav|2|……いや。やっぱりもう少し考えたいな
-data_ws/emu/voice_ev_wonder_07_04_62_14.wav|0|あ！　これもメモメモしなくっちゃ！
-data_ws/rui/voice_card_ev_night_06_20_4b_52_16.wav|2|お互い、望む自分であり続けることはなかなか大変かもしれない
-data_ws/rui/voice_card_14_02b_41_16.wav|2|フフ、いい反応をしてくれるからつい腕を振るってしまったよ
-data_ws/tsukasa/voice_ev_shuffle_05_04_13_13.wav|3|ふっ、これはすべて、ひな祭りのパーティーグッズだ！
-data_ws/tsukasa/voice_ev_wonder_08_06_19_13.wav|3|（となると、何かヒントを得られるかもしれないぞ……！）
-data_ws/tsukasa/voice_ev_wonder_08_03_66_13.wav|3|『いや……それならば慣れるまでやるべきだ！よし、人前でピアノの練習を——』
-data_ws/rui/voice_card_ev_wonder_03_15_4b_33_16.wav|2|……ここならうまく身を隠せるかな
-data_ws/rui/voice_card_ev_wonder_06_16_4a_05_16.wav|2|……ああ、あの話かい？聞いて気持ちのいい話ではなかったと思うけど……
-data_ws/rui/voice_card_bd_202111_11_4a_34_16.wav|2|フフ。それより司くん、アレを渡さなくていいのかい？
-data_ws/tsukasa/voice_ev_wonder_01_2_62_13.wav|3|『ポテトゴースト』？
-data_ws/emu/voice_card_ev_wonder_08_14_3a_50_14.wav|0|やったー！　ありがとう、類くん！
-data_ws/rui/voice_ev_shuffle_02_7_02_16.wav|2|やあ瑞希くん。今日は遅いじゃないか。もう３時間目だよ
-data_ws/emu/voice_card_ev_wonder_05_14_2a_51_14.wav|0|う～み♪　う～み♪みんなでう～み♪
-data_ws/emu/voice_ms_wonder16_64_14.wav|0|わ～いっ！またよろしくね、寧々ちゃん！　ネネロボちゃん！
-data_ws/tsukasa/voice_card_ev_wonder_08_15_4b_28_13.wav|3|しかし……。そうか、なるほどな
-data_ws/tsukasa/voice_ev_wonder_07_02_59_13.wav|3|わ、わわわ、わかったー！
-data_ws/tsukasa/voice_card_02_3a_37_13.wav|3|ふむ。久しぶりの再会で、照れ隠しでもしているんじゃないか？
-data_ws/tsukasa/voice_card_bd_202203_09_4b_70_13.wav|3|宮女のみならず、神高にも知りあいが大勢いるとはな！これからも、その友情を大切に仲良くするんだぞ！もちろん、オレ達のこともよろしく頼む
-data_ws/tsukasa/voice_card_ev_wonder_07_14_4b_55_13.wav|3|ん？
-data_ws/emu/voice_card_ev_shuffle_12_13_4a_75_14.wav|0|あははっ
-data_ws/emu/voice_card_ev_wonder_02_14_2b_14_14.wav|0|あれ？　あははっ、ほんとだー！
-data_ws/emu/voice_card_ev_wonder_03_15_4a_56_14.wav|0|ねーねーちゃ～ん♪
-data_ws/tsukasa/voice_card_ev_wonder_05_15_4b_41_13.wav|3|（あの合図は……！）
-data_ws/emu/voice_card_ev_shuffle_16_14_4a_48_14.wav|0|——じゃーん！　名付けて、『わんだほい☆セカイケーキ』！
-data_ws/tsukasa/voice_card_13_02a_20_13.wav|3|おい、それでどう掃除するつもりだ？
-data_ws/tsukasa/voice_ev_shuffle_05_04_30_13.wav|3|ハッハッハ！　咲希の驚く顔が楽しみだな！
-data_ws/rui/voice_card_fes_202112_16_4b_29_16.wav|2|——じゃあみんな、用意はいいかい？
-data_ws/emu/voice_sc_ev_shuffle_10_03_78_14.wav|0|うん！　みんなでわんだほーいな演奏にしようね！
-data_ws/emu/voice_ev_shuffle_22_02_44_14.wav|0|はーい、あたしが書いちゃうね！さらさらさら～っと！
-data_ws/rui/voice_ev_wonder_06_02_53_16.wav|2|そうして将校の部屋に行くべく木に登るものの、窓まで伸びていた木の枝は切られてしまっている
-data_ws/tsukasa/voice_ms_wonder9_57_13.wav|3|じゃあこれで……どうだっ！
-data_ws/rui/areatalk_2_205_005.wav|2|おや、そうかい？せっかくいい案が浮かんだのに
-data_ws/nene/voice_card_ev_shuffle_22_15_4a_01_15.wav|1|（……遊びに来ちゃった）
-data_ws/tsukasa/voice_ev_shuffle_05_05_63_13.wav|3|今朝、新しい人形と古い人形を交換したんだが、咲希に、古いもののほうがいいと言われてしまってな……
-data_ws/tsukasa/voice_ev_wonder_01_1_82_13.wav|3|ショーコンテスト……だと！？
-data_ws/tsukasa/voice_card_ev_shuffle_04_13_3b_17_13.wav|3|なぁに。ワンダーランズ×ショウタイムを結成したばかりの頃は、わけあって１日に５公演もしていたからな
-data_ws/nene/voice_ev_wonder_06_07_77_15.wav|1|…………
-data_ws/rui/voice_sc_ev_wonder_05_08_51_16.wav|2|というわけで、初の宣伝大使の成功を祝して、コレをやろうと思うんだ
-data_ws/rui/voice_card_fes_202112_16_4b_32_16.wav|2|（こんな不思議な場所でも、君達は君達なんだね……）
-data_ws/tsukasa/voice_card_ev_shuffle_04_13_3a_26_13.wav|3|まあ、一晩寝たらすぐよくなったし、ごく普通の風邪だったんだが……
-data_ws/tsukasa/voice_card_ev_shuffle_02_15_3b_24_13.wav|3|お、何かひらめいたか！？
-data_ws/nene/voice_card_15_02a_40_15.wav|1|でも変な機能つけたら、怒るからね？
-data_ws/emu/voice_card_13_3a_25_14.wav|0|王子なんて、ここでぺっちゃんこにしちゃうぞ～！
-data_ws/emu/voice_ev_shuffle_03_07_08_14.wav|0|よいしょっ！
-data_ws/tsukasa/voice_card_ev_band_04_02_4a_28_13.wav|3|それはわからんな
-data_ws/rui/voice_card_ev_wonder_04_13_4b_65_16.wav|2|なるほど。僕達の名前がそれなりに広まっている今なら、いい話題性を作れそうだね
-data_ws/emu/voice_card_ev_shuffle_04_03_4a_21_14.wav|0|すっごく楽しんでくれてるみたいだね！あたしも、このおばけ屋敷お気に入りだから嬉しいなっ☆
-data_ws/tsukasa/voice_ev_shuffle_17_07_10_13.wav|3|（何があったかはわからんが、せめて浜野さんも納得できる形で——）
-data_ws/rui/voice_card_ev_wonder_04_13_4b_04_16.wav|2|多分、ショーコンテストのおかげじゃないかな。第１回、第２回ともに上位に食いこんでいたからね
-data_ws/rui/voice_ev_shuffle_08_07_45_16.wav|2|しかし、それは今まさに、名も知らぬ誰かに奪われようとしている
-data_ws/tsukasa/voice_card_ev_wonder_09_13_4b_05_13.wav|3|あ、そうだ！スマホ、一瞬でもいいからつかんだろうか……
-data_ws/rui/voice_ev_wonder_02_1_34_16.wav|2|具体的には……『スマイリング・クリスマス』なんてどうだい？
-data_ws/tsukasa/voice_card_ev_shuffle_07_16_3b_71_13.wav|3|なんだ、笑わせたいヤツがいるのか？
-data_ws/emu/voice_ev_wonder_03_04_58_14.wav|0|……うん
-data_ws/tsukasa/voice_card_ev_shuffle_04_13_3b_35_13.wav|3|その答えをくれたのが、あのミュージカルショーだった
-data_ws/nene/area3_211_002.wav|1|練習してるし、それにコントローラーの操作ならゲームで慣れてるから
-data_ws/tsukasa/voice_card_bd_202206_16_4a_35_13.wav|3|……なるほど、本当にど定番でいいんだな
-data_ws/nene/voice_card_bd_202207_15_4a_53_15.wav|1|え……まあ、振り回されることもあるけど、類に比べれば全然ましだし……
-data_ws/nene/voice_card_15_01a_38_15.wav|1|……ふう
-data_ws/tsukasa/voice_ev_shuffle_04_08_40_13.wav|3|見とらんぞ！！寧々がひとりでニヤニヤしている姿なんぞ……
-data_ws/rui/voice_card_16_3a_14_16.wav|2|キャストとして扱ってもらえるとは言っても、おとがめなしだなんてありえないんじゃないかと思ってね
-data_ws/nene/voice_ev_shuffle_02_8_37_15.wav|1|どうせまたロクなこと考えてないんでしょ……
-data_ws/emu/voice_card_ev_wonder_01_14_3a_23_14.wav|0|でも、ちゃんと司くんを見つけて、話もしたんだよ♪
-data_ws/tsukasa/voice_card_ev_wonder_06_13_3a_22_13.wav|3|苦手なものは仕方がないだろう
-data_ws/emu/voice_ev_wonder_07_02_29_14.wav|0|あれれ？司くんどこだろー？
-data_ws/rui/voice_card_ev_wonder_01_16_4a_34_16.wav|2|よし。これでネネロボのメンテナンスはおしまいだよ
-data_ws/tsukasa/voice_ev_wonder_08_01_28_13.wav|3|ああ、世に羽ばたいた多くのスターが無名の時代にショーをしたという歴史ある場所……！
-data_ws/emu/voice_card_ev_wonder_02_14_2a_61_14.wav|0|よーし！　この調子でどんどんいっちゃうよー！とう！　てやーっ！
-data_ws/emu/voice_ev_wonder_03_03_51_14.wav|0|今あるアトラクションを壊さないままお客さんを集める方法、他にもいっぱい考えてきたの！だから——
-data_ws/rui/voice_ev_wonder_08_04_06_16.wav|2|そうだね。その点は僕も同意だ
-data_ws/nene/voice_ev_shuffle_16_08_20_15.wav|1|うん、すごく嬉しい。ありがとう、えむ
-data_ws/tsukasa/voice_card_13_3b_03_13.wav|3|……よし！
-data_ws/nene/voice_ev_shuffle_04_06_10_15.wav|1|あ、うん……。さっき、星乃さん達が深刻な雰囲気だったから気になって
-data_ws/tsukasa/voice_card_ev_wonder_01_13_4a_37_13.wav|3|やはりな。そう何度も驚くと思うなよ
-data_ws/nene/voice_ev_wonder_06_06_29_15.wav|1|……あれ？　えむ
-data_ws/nene/voice_ev_wonder_03_05_28_15.wav|1|…………わたし、着替えてくる
-data_ws/tsukasa/voice_card_02_3a_28_13.wav|3|それくらい、兄として当然だ。もっともっとドドーンと頼ってもいいぞ！
-data_ws/emu/voice_ms_wonder3_51_14.wav|0|ミクちゃん達と！？　楽しそう～！
-data_ws/nene/voice_card_ev_wonder_07_14_4b_46_15.wav|1|いろんな世界観や、いろんな動物とかがたくさん登場するよって感じを、ひゅるるんって言ってる的な？
-data_ws/rui/voice_card_ev_wonder_04_13_4b_51_16.wav|2|フフフ。そのとおりだね。さすがは司くんだ
-data_ws/emu/area3_233_005.wav|0|わぁ！　そうだったんだ！
-data_ws/nene/voice_card_ev_wonder_06_15_4a_32_15.wav|1|（壁に絵画が飾ってあるんだけど！？ていうか、何あの照明！あんな形の照明、ホテルとかでしか見たことないんだけど！）
-data_ws/tsukasa/voice_card_ev_wonder_03_13_2a_23_13.wav|3|だろう！？　もはやどんな理由があろうと、あれは兄としてあるまじき行為だ！
-data_ws/nene/voice_card_ev_shuffle_22_15_4b_04_15.wav|1|ひゃっ！
-data_ws/tsukasa/voice_card_16_3b_30_13.wav|3|よし！　しばらくはそれで行くぞ！
-data_ws/nene/voice_card_15_3b_19_15.wav|1|……ここって、おじいさんとの思い出の場所、なんだよね
-data_ws/tsukasa/voice_ev_wonder_01_3_40_13.wav|3|うわっ！　服を掴むな！バランスが崩れて……！
-data_ws/nene/voice_ms_wonder11_44_15.wav|1|……でも、失敗、したくないから
-data_ws/tsukasa/voice_card_ev_wonder_09_13_4b_06_13.wav|3|昨日の夕方以降、カイト達と話せていないし、せめて救助が来たことを伝えたいんだが……
-data_ws/tsukasa/voice_ev_wonder_07_05_53_13.wav|3|しかし……これはテコでも動かない顔をしているな。咲希も昔はこうだったから、よくわかるぞ
-data_ws/rui/voice_card_ev_shuffle_10_14_4a_60_16.wav|2|貝殻を探すついでに、海辺にしかないものを探してみるのもいいんじゃないかな？
-data_ws/nene/voice_card_21_wonder_02b_09_15.wav|1|……それは、そうなんだけど
-data_ws/rui/voice_ev_shuffle_08_05_52_16.wav|2|……本当に、と言われると、どうかな
-data_ws/emu/voice_card_14_01b_26_14.wav|0|あ、２－Aはっけーんっ☆
-data_ws/emu/voice_ev_wonder_04_02_28_14.wav|0|あっ、そっか！あたしも言いそうになっちゃった！
-data_ws/nene/voice_ev_shuffle_22_03_84_15.wav|1|そ、そこまでしなくてもいいでしょ！
-data_ws/rui/voice_ev_wonder_06_02_27_16.wav|2|少女は、館のすぐ脇に立っている木によじのぼって、２階にある将校の部屋を訪ねるんだ
-data_ws/emu/voice_ev_wonder_09_07_140_14.wav|0|みんなで一緒にショーができなくなるのは、やっぱり……ちょっとだけ、さみしいなあ
-data_ws/emu/voice_ev_wonder_03_04_42_14.wav|0|あ……うん
-data_ws/emu/voice_card_13_02b_52_14.wav|0|わー、すごいすごい！ホントに宇宙にいるみたい！
-data_ws/tsukasa/voice_card_ev_shuffle_04_13_3b_01_13.wav|3|衣装に、台本……よし、忘れ物はないな！
-data_ws/emu/voice_ev_wonder_06_08_32_14.wav|0|あっ！もしかして、あたしどこか間違えちゃったかな！？
-data_ws/tsukasa/voice_ms_wonder20_39_13.wav|3|だからまたお前達とショーをしたい。ここで一緒に、もっとショーをやらないか？
-data_ws/tsukasa/voice_ev_wonder_08_03_47_13.wav|3|感謝するぞ、類！必ずやこの役を、オレのものにしてみせよう！
-data_ws/rui/area3_225_007.wav|2|今日はステージの練習ももう終えているし、時間は気にしなくても問題ないよ
-data_ws/emu/voice_ev_wonder_01_4_67_14.wav|0|うん……。なんだか、いつもの類くんっぽくないなぁって思ったの
-data_ws/tsukasa/voice_ev_shuffle_05_03_09_13.wav|3|ああ、よくぞ聞いてくれた！
-data_ws/nene/voice_ev_shuffle_22_01_08_15.wav|1|えっ、あっ……！　ど、どうも……
-data_ws/emu/voice_ev_shuffle_01_5_61_14.wav|0|おっけーですっ！！
-data_ws/emu/voice_ev_shuffle_22_06_04_14.wav|0|どういうことっ！？冬弥くん、ぷよぷよのプロなの！？
-data_ws/nene/voice_ev_wonder_07_05_36_15.wav|1|森？あ、あっちは『ミュージックオブジャングル』のエリア……？
-data_ws/emu/voice_ev_wonder_07_06_78_14.wav|0|でも……みんなが来るまで、どうしたらいいのか全然わからなかったんだ
-data_ws/tsukasa/voice_ev_wonder_09_01_82_13.wav|3|この声は……ミクか？
-data_ws/tsukasa/voice_card_ev_shuffle_05_13_3b_14_13.wav|3|実は、ルカが倒れたと思って慌てて声をかけたんだが……
-data_ws/tsukasa/voice_card_13_02a_05_13.wav|3|くっ……これでは練習の前に掃除をしなくては……！
-data_ws/emu/voice_ev_wonder_03_06_13_14.wav|0|（みんなに笑顔になってほしいなら、あたしが笑顔にならなくっちゃ！）
-data_ws/nene/voice_sc_ev_wonder_05_05_06_15.wav|1|どこに行ったんだろ？　さっきまでここにいたのに
-data_ws/nene/voice_ev_wonder_07_08_74_15.wav|1|別にふとんに入らなくてもいいけど……
-data_ws/tsukasa/voice_card_ev_wonder_06_13_3b_07_13.wav|3|休憩すると言ったばかりだというのに
-data_ws/rui/voice_card_ev_wonder_06_16_4b_70_16.wav|2|…………
-data_ws/rui/voice_ev_wonder_03_03_64_16.wav|2|ではあなたがたは——えむくんのお兄さん達ということですか？
-data_ws/rui/voice_card_ev_wonder_09_16_2a_10_16.wav|2|いや、子供の頃に図鑑で見たような簡単な知識しかないよ
-data_ws/nene/voice_ev_wonder_02_4_68_15.wav|1|あ、フェニックスステージの青龍院……さん
-data_ws/tsukasa/voice_ms_wonder1_46_13.wav|3|…………は？
-data_ws/rui/voice_card_16_01b_10_16.wav|2|……僕が雑草を抜いているだけでそこまで騒げるなんてねえ
-data_ws/emu/voice_card_ev_shuffle_16_07_4a_40_14.wav|0|えへへっ。あたしはケーキのステージに、いっぱいショーの飾りつけしちゃおうかなっ☆
-data_ws/rui/areatalk_2_205_003.wav|2|フフフ。たくさんのネネロボのバルーン。その中に実は本物が……
-data_ws/emu/voice_card_bd_202110_03_4a_28_14.wav|0|……わっ！　穂波ちゃん、目がうるうるしてるよ！？大丈夫！？
-data_ws/rui/voice_sc_ev_wonder_05_02_110_16.wav|2|それじゃあ早速大道具を設置していこうか。朝のリハーサルが済んだら、すぐ本番だからね。テンポよくやっていこう
-data_ws/nene/voice_ev_shuffle_19_03_19_15.wav|1|え、みんなも見に来るの？
-data_ws/nene/voice_card_ev_shuffle_12_13_4a_10_15.wav|1|ちょっと、頼みたいことがあるんだけど……
-data_ws/tsukasa/voice_card_ev_wonder_06_13_3a_14_13.wav|3|この、虫よけスプレーだ……！！
-data_ws/emu/voice_ev_wonder_03_01_68_14.wav|0|…………
-data_ws/rui/voice_card_ev_wonder_01_15_2a_46_16.wav|2|でも、そのフレンドとはゲームのアイテムのことや、周回効率のことしか話さないんだろう？
-data_ws/emu/voice_ms_wonder4_34_14.wav|0|ケンカしちゃだめだよ～っ！
-data_ws/tsukasa/voice_card_ev_wonder_03_13_2b_46_13.wav|3|……！
-data_ws/nene/voice_ev_wonder_07_05_70_15.wav|1|本当だ！早く行こう、えむ。この子のお母さん達が待ってるかも
-data_ws/nene/voice_ev_shuffle_22_08_14_15.wav|1|店長……
-data_ws/emu/voice_ev_shuffle_12_06_50_14.wav|0|さすが類くんだね☆
-data_ws/tsukasa/voice_ev_shuffle_03_07_30_13.wav|3|オレと……？まあ、どうしてもと言うなら遊んでやらんこともないが……
-data_ws/rui/area3_239_007.wav|2|ああ、そうとも。彼等の生態はいまだ謎に包まれている
-data_ws/emu/voice_card_ev_wonder_06_15_4a_46_14.wav|0|あたしが見た劇とちょっとセリフが違ってたり、演出とかも違って違う劇を見てるみたいだった！
-data_ws/rui/voice_ev_wonder_02_3_13_16.wav|2|だからこの屈辱は、素晴らしいショーをすることで晴らそうじゃないか
-data_ws/tsukasa/voice_ev_shuffle_12_08_39_13.wav|3|だが、それでも緊張するというのなら声を出せ！いくぞ！　まずは大きく息を吸って——
-data_ws/nene/voice_ev_wonder_09_03_02_15.wav|1|（森っていうよりジャングルって感じ……。こんな場所で食料を探すなんて、本当に——）
-data_ws/rui/voice_ev_wonder_04_01_81_16.wav|2|正直、手伝ってもらうのは相当難しいだろう。このショー自体、かなり突拍子もない話だしね
-data_ws/nene/voice_ev_wonder_04_05_20_15.wav|1|……別に、えむのためってだけじゃないよ
-data_ws/nene/voice_card_ev_wonder_09_15_4a_45_15.wav|1|（それで、いろんなことに挑戦して、発見とかもして……）
-data_ws/rui/voice_card_ev_shuffle_07_16_3b_23_16.wav|2|使い道の候補はいろいろあるけれど……。たとえば、瞬間移動なんて面白いかもね
-data_ws/nene/voice_card_bd_202206_16_4b_65_15.wav|1|わたしも。——っていうことだから、何かあったらちゃんと言ってよね
-data_ws/emu/voice_card_ev_shuffle_01_02_2b_29_14.wav|0|……あ！　あたしと穂波ちゃんがアップルパイ食べてた時のだ！
-data_ws/tsukasa/voice_ev_wonder_08_08_47_13.wav|3|（トルペにとって、ピアノは、生きるためにどうしたって必要なものだ）
-data_ws/emu/voice_card_ev_wonder_07_16_2b_16_14.wav|0|あれれ、類くんいないね？
-data_ws/tsukasa/voice_card_16_01a_34_13.wav|3|ああ。たしかに！
-data_ws/tsukasa/voice_card_fes_202109_21_piapro_4a_34_13.wav|3|よし！　今度改めて、感謝の意を伝えねば……！
-data_ws/tsukasa/voice_card_ev_shuffle_05_12_4a_14_13.wav|3|そんなお前に笑顔をくれた彰人に、感謝せねばな
-data_ws/emu/voice_card_ev_shuffle_10_02_4b_11_14.wav|0|ねえねえ！　みんなと行きたいところがあるんだ～っ☆
-data_ws/rui/voice_ms_wonder17_17_16.wav|2|――ひとりぼっちの錬金術師は、ショーを見て思いました
-data_ws/rui/voice_card_ev_wonder_01_16_4b_08_16.wav|2|（それに、ハロウィンショーで使った奈落のように、あるのに使われていない設備がまだあるかもしれないしね）
-data_ws/tsukasa/voice_card_ev_shuffle_02_13_3b_65_13.wav|3|まあ、実はまだオレのサインは開発途中だからな。完成したら、きちんと贈ってやろう！
-data_ws/tsukasa/voice_selfep_wonder_15_13.wav|3|フハハハハハッ！どうだ、完璧だろう！
-data_ws/nene/voice_ev_wonder_02_7_33_15.wav|1|……ありがとう、ふたりとも。ミク、このあいだは誘ってくれたのに、断っちゃってごめんね
-data_ws/nene/voice_card_ev_wonder_06_15_4a_02_15.wav|1|うん。終わったよ。そっちも？
-data_ws/rui/voice_card_ev_wonder_05_16_4b_43_16.wav|2|（変わってきているのは人々からの認識だけじゃなくて、僕達自身もだ）
-data_ws/nene/voice_sc_ev_wonder_05_03_79_15.wav|1|綺麗な歌声……。なんだか、すごくジーンとする……
-data_ws/emu/voice_sc_ev_wonder_05_04_52_14.wav|0|あっ、いたいた～！！寧々ちゃん、こっちの片づけ終わったからお手伝いに……
-data_ws/emu/voice_card_ev_wonder_05_16_4b_09_14.wav|0|あたしとしては今から練習してもいいと思いまーす！
-data_ws/rui/voice_ev_wonder_01_1_58_16.wav|2|フフ、もちろんだよ
-data_ws/tsukasa/voice_ev_wonder_09_06_30_13.wav|3|せっかく食料をわけてやったのに、恩知らずなヤツらめ。まあ、野生動物だし仕方ないが……
-data_ws/nene/voice_card_ev_wonder_05_15_4a_15_15.wav|1|人魚姫を提案したのわたしだし、脚本の案出しのためにも、アイディアをまとめておこうかな
-data_ws/nene/area3_203_009.wav|1|もうっ……！　本当にびっくりしたんだからね。今度やったら、ネネロボビームの的にするから
-data_ws/nene/voice_ev_wonder_09_04_95_15.wav|1|う、嘘でしょ……！？
-data_ws/tsukasa/voice_card_02_3a_32_13.wav|3|そうか？　まあ、学校生活が順調なのはいいことだ。幼馴染みの一歌や穂波、志歩とも会えたんだろう？
-data_ws/tsukasa/voice_card_ev_wonder_04_13_4a_24_13.wav|3|（下手に誤魔化して、無用な心配をかけさせるわけにはいかんな）
-data_ws/emu/voice_card_14_01a_52_14.wav|0|わっはっはっはっはー！
-data_ws/tsukasa/voice_card_26_wonder_02a_11_13.wav|3|そ、そんな恐ろしいことが……！？
-data_ws/rui/voice_card_ev_wonder_04_26_2b_21_16.wav|2|フフ、宇宙を舞台にするどころか、宇宙での公演となれば、演出家としても腕がなるねえ
-data_ws/emu/voice_sc_ev_shuffle_10_02_01_14.wav|0|ミクちゃーん、おまたせっ！
-data_ws/emu/voice_card_ev_wonder_07_16_2b_55_14.wav|0|次のショーで使えそう！？
-data_ws/tsukasa/voice_card_ev_wonder_06_13_3b_39_13.wav|3|う……いや、これは別に……
-data_ws/nene/voice_card_ev_wonder_02_21_4b_05_15.wav|1|今回のショーはライバルに勝てたみたい
-data_ws/emu/voice_ev_shuffle_01_3_16_14.wav|0|あーーーー！！！！
-data_ws/nene/voice_ev_shuffle_22_05_56_15.wav|1|あ、ううん。なんでもない
-data_ws/emu/voice_ev_wonder_03_02_48_14.wav|0|でも、今までここに来てくれてたお客さんは、トランポリンドームにもお化け屋敷にもいっぱい思い出があって、大事に思ってて……！
-data_ws/tsukasa/voice_ev_shuffle_22_01_35_13.wav|3|しかし……ゲームエキスポ内のショーがそんなに人気なのか？
-data_ws/emu/voice_card_ev_shuffle_10_14_4b_03_14.wav|0|ミクちゃん、おまたせー！
-data_ws/nene/area1_043_001.wav|1|ふーん、新作対戦ゲーム設置しました、か
-data_ws/nene/voice_ev_shuffle_16_08_04_15.wav|1|えむのことだし何かしてるとは思ったけど……何このケーキ、すごすぎでしょ。しかも手作り……
-data_ws/rui/voice_sc_ev_wonder_05_08_99_16.wav|2|ああ。『ネネロボ着火ファイヤー！』と言えば、ネネロボの口から火炎放射が——
-data_ws/nene/voice_card_fes_202112_15_4a_25_15.wav|1|それに、ほとんどの劇場で毎日ミュージカルをやってるの。全部見て回ろうとしたら、ひと月かかっちゃうかもね
-data_ws/nene/voice_card_ev_band_03_01_3b_38_15.wav|1|あ……それ、どうなったの？
-data_ws/emu/voice_card_ev_wonder_06_16_4a_13_14.wav|0|えへへへっ、そうだった～♪
-data_ws/rui/voice_card_ev_shuffle_17_13_4a_06_16.wav|2|それなら、今週末にやるのはどうかな？
-data_ws/rui/voice_ev_shuffle_16_03_67_16.wav|2|今やっているショーの公演期間も折り返しの頃合いだし……案出しを始めるにはいいタイミングだね
-data_ws/emu/voice_card_ev_band_06_03_4a_01_14.wav|0|——ええっ！？ほ、穂波ちゃんが！？
-data_ws/nene/voice_card_bd_202207_15_4a_10_15.wav|1|……あ、あの、星乃さん。よかったら、次はいつできそうとか、予定見ておかない……？
-data_ws/rui/voice_ev_shuffle_07_03_70_16.wav|2|負荷をかけるためのウェイトジャケットだよ。安全のためにいろいろつけていったら思ったより重くなってしまったけどね
-data_ws/rui/voice_card_20_01b_06_16.wav|2|フフ、いい具合だね
-data_ws/emu/voice_card_ev_wonder_08_15_4a_20_14.wav|0|じゃあ……！
-data_ws/rui/voice_ev_wonder_01_7_77_16.wav|2|それはよかった。ちょうど追加したい演出があったんだ
-data_ws/tsukasa/voice_ev_shuffle_17_05_80_13.wav|3|彰人は浜野さん——チョコ太を、あそこのドアから控え室に連れ出してほしい
-data_ws/nene/voice_ev_wonder_09_07_161_15.wav|1|ずっと大切なものになるんだろうな、って思う。うまく言葉にできないんだけど……なんか、そう思う
-data_ws/rui/voice_card_ev_shuffle_08_16_4b_48_16.wav|2|やれやれ。また根拠のない数字が出たね。しかも、以前より増えていないかい？
-data_ws/tsukasa/voice_card_ev_shuffle_07_16_3b_49_13.wav|3|ぜぇはぁ……こ、これで全部録れたか？
-data_ws/emu/voice_card_ev_wonder_03_16_4b_36_14.wav|0|おおー！　なんだか楽しそう♪どうやって阻止するの？
-data_ws/nene/voice_card_ev_wonder_04_13_4b_36_15.wav|1|うそ、類まで！？
-data_ws/emu/areatalk_2_253_005.wav|0|ほえ、手作りすごーい！　いいなぁ。お料理できると、好きな時に好きな物を好きなだけ食べられて
-data_ws/rui/voice_ev_shuffle_08_07_64_16.wav|2|うん。いい感じだ。あとは、レンくんにアイディアをもらったあれを——
-data_ws/rui/voice_ev_shuffle_19_03_63_16.wav|2|……では、みんなの動きを見ながら構成の細かいところを詰めさせてもらいますね
-data_ws/nene/area3_218_007.wav|1|えっ、べ、別にいつも通りだけど……
-data_ws/nene/voice_ms_wonder17_59_15.wav|1|これから……どうする……？
-data_ws/rui/voice_card_ev_wonder_05_16_4a_27_16.wav|2|ああ。横幅も奥行きも、本番のステージとは異なるから、そのことは軽く頭に置いておいたほうがいいね
-data_ws/emu/voice_card_ev_wonder_06_16_4b_67_14.wav|0|わーい、お菓子♪　お菓子♪
-data_ws/rui/voice_card_13_3a_05_16.wav|2|ああ、その前にひとついいかい？昨日相談していた演出の件なんだけれど
-data_ws/nene/voice_ev_wonder_01_3_44_15.wav|1|マットはあるけど……大丈夫！？
-data_ws/nene/voice_ev_wonder_03_05_49_15.wav|1|でも、どうやって伝えたらいいのか、わからないよ……
-data_ws/tsukasa/voice_card_ev_wonder_02_14_2a_24_13.wav|3|だいぶいい感じになってきたな！だが、えむが持ってきた飾りが２箱もまだ残ってるな
-data_ws/rui/voice_ev_shuffle_19_04_09_16.wav|2|赤組の応援団もなかなか賑やかだね
-data_ws/tsukasa/voice_card_13_01b_39_13.wav|3|まあ、万が一自信をなくしたとしても、安心しろ！
-data_ws/nene/voice_card_ev_shuffle_22_14_4b_12_15.wav|1|うん。ていうか、えむ、すごいね
-data_ws/nene/voice_ev_wonder_09_05_43_15.wav|1|怖いこと……？
-data_ws/tsukasa/voice_card_ev_shuffle_22_15_4b_49_13.wav|3|うーん、オレも少しそのゲームが気になってきたな
-data_ws/tsukasa/voice_ev_wonder_07_03_26_13.wav|3|——お、見つけたぞ！あそこがショーステージだ！
-data_ws/nene/voice_ev_shuffle_22_07_104_15.wav|1|……考えてることは一緒みたいだね
-data_ws/tsukasa/voice_card_ev_band_04_02_4a_14_13.wav|3|実際、オレも普段はあまり進んで口にしない、グレープフルーツのゼリーを食べてみたんだが——
-data_ws/nene/voice_ev_wonder_06_06_28_15.wav|1|……ならいいけど。熱中してると、すぐに周り見えなくなるから
-data_ws/emu/voice_card_ev_wonder_04_14_4a_21_14.wav|0|……よかった
-data_ws/tsukasa/voice_ev_wonder_06_06_98_13.wav|3|よし！　じゃあもう一度木に登って最初からだ！
-data_ws/rui/voice_ev_shuffle_12_06_11_16.wav|2|そうだね。星乃くんは以前僕達のショーを見にきたことがあるし、小豆沢くんは僕達のファン１号だしねえ
-data_ws/emu/voice_ev_wonder_07_01_33_14.wav|0|ううん！そっちのショーは、ナイトショーとは違うショーなの！
-data_ws/tsukasa/voice_card_bd_202205_13_4b_07_13.wav|3|（いや、咲希のわけがないか。果たし状を書く理由も、差出人に協力する理由もないはずだ）
-data_ws/nene/voice_sc_ev_wonder_05_01_95_15.wav|1|その俳優さんがきっかけで、わたしはショーをやりたいって思うようになったしね
-data_ws/rui/voice_ev_wonder_02_1_69_16.wav|2|えむくんは、プレゼントを待つ子供の役だよ。僕はその他の役をやるつもりさ
-data_ws/nene/voice_ms_wonder15_47_15.wav|1|（ステージに立つ勇気がないからってコソコソ隠れて、ネネロボに全部やらせて……また全部台無しにして……）
-data_ws/emu/area3_214_007.wav|0|幽霊！？　幽霊の部員がいるの！？
-data_ws/rui/voice_card_ev_shuffle_07_20_4b_25_16.wav|2|特に、青柳くんには興味を持ってもらえると思うんだけどね
-data_ws/emu/voice_ev_wonder_07_08_113_14.wav|0|（世界中の人を笑顔に——）
-data_ws/tsukasa/voice_ms_wonder17_70_13.wav|3|ああ。そうだな。よし……作戦会議だ！！
-data_ws/emu/voice_ev_wonder_03_06_17_14.wav|0|……レンくん？
-data_ws/rui/voice_ev_shuffle_07_02_100_16.wav|2|ただランニングをするより楽しく運動できるだろう？景色もいいし、空気も美味しいし——
-data_ws/emu/voice_card_16_02b_21_14.wav|0|うん！　どんどこどんどこー♪
-data_ws/tsukasa/voice_card_ev_shuffle_12_13_4b_26_13.wav|3|笑顔というのは、本当にすごいな
-data_ws/nene/voice_card_ev_wonder_09_15_4a_40_15.wav|1|しないから。ていうか、いいなって言ったのはそうじゃなくて……
-data_ws/emu/voice_ev_wonder_04_04_88_14.wav|0|（でも、みんなのおかげで、同じ気持ちの人がいっぱいいてくれるってわかっちゃった）
-data_ws/emu/voice_card_ev_wonder_08_15_4b_07_14.wav|0|うんっ♪
-data_ws/emu/voice_card_ev_wonder_03_14_4a_07_14.wav|0|そっか……
-data_ws/nene/voice_card_ev_wonder_06_16_4b_29_15.wav|1|類が家に人を呼んだ！？
-data_ws/emu/voice_ev_wonder_01_8_02_14.wav|0|みんなとーってもびっくりして笑ってくれたね～！
-data_ws/nene/voice_card_ev_wonder_06_15_4b_37_15.wav|1|今まで、体力とか運動神経とかが必要なシーンは、司やえむに任せてきちゃったけど……
-data_ws/rui/voice_ev_wonder_01_1_66_16.wav|2|寧々？
-data_ws/emu/voice_sc_ev_shuffle_10_03_43_14.wav|0|らじゃーっ！
-data_ws/nene/voice_ev_shuffle_22_07_86_15.wav|1|甘すぎると思うけど。……でも、ありがと
-data_ws/rui/voice_card_ev_shuffle_12_13_4a_47_16.wav|2|別にかまわないよ。それよりさっきのモアモアなんとかっていう名前、どこかで聞いたような……
-data_ws/emu/voice_ev_wonder_03_02_23_14.wav|0|いるもん！　あたしの友達に、大好きな子が——
-data_ws/nene/voice_card_ev_shuffle_10_14_4a_25_15.wav|1|ふーん？ちなみに、臨海学校では何をする予定なの？
-data_ws/emu/voice_ev_wonder_02_1_07_14.wav|0|…………
-data_ws/nene/voice_card_ev_shuffle_04_22_4b_24_15.wav|1|あ……ほ、星乃、さん……！
-data_ws/emu/voice_ev_wonder_03_02_108_14.wav|0|もっとちゃんと話さなくっちゃ……！
-data_ws/rui/voice_ev_wonder_06_08_37_16.wav|2|ん？どうしたんだい、えむくん
-data_ws/rui/voice_ev_wonder_02_1_32_16.wav|2|うん、歌がメインとなるミュージカルがいいと思うんだ。華やかで、クリスマスらしいだろう？
-data_ws/rui/voice_card_ev_wonder_02_16_3a_36_16.wav|2|…………
-data_ws/emu/voice_card_ev_shuffle_22_14_4a_17_14.wav|0|そーだっ☆　あたしにおヒゲつけちゃおーっと！
-data_ws/emu/voice_card_ev_wonder_09_14_4b_52_14.wav|0|でも、ネネロボちゃんが目をビカーーーってして追い払ってくれて、おいしいサンドイッチをみんなで食べられたんだー！
-data_ws/nene/voice_ev_wonder_04_04_21_15.wav|1|（やっぱり、ここにいるみんなも——同じ気持ちだったんだ）
-data_ws/tsukasa/voice_card_bd_202112_22_4a_32_13.wav|3|そうだな！　では、やるか！
-data_ws/rui/voice_ev_wonder_04_01_57_16.wav|2|……そうだね、難しい問題だと思う
-data_ws/rui/voice_card_ev_shuffle_08_12_4a_05_16.wav|2|さぁ胸を張って！　指先の意識も忘れずに！すべての指が人格を持っていると考えるんだ！
-data_ws/tsukasa/voice_card_ev_band_08_02_4a_45_13.wav|3|ああ！
-data_ws/tsukasa/voice_card_ev_wonder_07_15_3b_25_13.wav|3|ん？　スマホが光ってる……。ということは……！
-data_ws/emu/voice_card_ev_wonder_04_22_3b_01_14.wav|0|あ、リンちゃん達、見ーつっけた♪やっほっほーい！
-data_ws/tsukasa/voice_ev_wonder_06_08_66_13.wav|3|それで？　一体どうしたんだ？
-data_ws/nene/voice_card_ev_wonder_05_15_4a_19_15.wav|1|えっと……あ、あったあった！DVDをセットして、再生、っと
-data_ws/emu/voice_card_ev_wonder_07_14_4b_06_14.wav|0|あのね、学校でアメリカのお土産をみんなに渡すの！
-data_ws/emu/voice_card_ev_shuffle_01_18_3a_31_14.wav|0|…………
-data_ws/rui/voice_ev_shuffle_07_03_68_16.wav|2|ああ——もちろん、これを着て走るんだよ
-data_ws/tsukasa/voice_card_13_01b_40_13.wav|3|類の演出は斬新でありながら王道！スターが出る最高のショーにふさわしいと、他でもないこのオレが認めているんだからな！
-data_ws/nene/voice_card_ev_wonder_05_15_4a_16_15.wav|1|んー、まずは……
-data_ws/nene/voice_card_ev_wonder_05_16_4b_58_15.wav|1|そっか。まあ、でもしょうがないよね。わたしも、もう眠くて仕方がないし
-data_ws/rui/voice_ev_wonder_03_03_88b_16.wav|2|すみません。ただ、夢想家が愚かという発言に少し疑問を感じてしまいまして
-data_ws/rui/voice_card_ev_shuffle_18_26_4a_25_16.wav|2|ソメちゃんとの出会いをきっかけに、少女はだんだんおじさん夫婦にも心を開いていくんだ
-data_ws/nene/voice_card_ev_wonder_06_15_4a_23_15.wav|1|……！いいよ。DVDあるし貸すのは全然大丈夫
-data_ws/emu/voice_card_ev_shuffle_01_18_3a_18_14.wav|0|はひっ！　な、なんでしょうか！
-data_ws/tsukasa/voice_ms_wonder2_51_13.wav|3|悪いがオレは、ここの人事担当者に電話するぞ。人事を通して、正式に辞退させてもらう
-data_ws/tsukasa/voice_card_ev_shuffle_17_13_4a_53_13.wav|3|その想いと努力に見合うだけのお返しができないものかと思ってな
-data_ws/tsukasa/voice_card_10_01b_20_13.wav|3|（おお。こんな明らかに怪しいヤツに真っ向からいくとは。この１年、度胸があるな！）
-data_ws/emu/voice_ev_wonder_03_06_14_14.wav|0|（だから笑って……）
-data_ws/rui/voice_card_ev_wonder_03_15_4b_17_16.wav|2|そうだね。でも大丈夫だよ。えむくんの行き先はほぼ２択だからね
-data_ws/emu/voice_card_ev_wonder_08_13_4b_07_14.wav|0|あれれ？　なんでなんで？
-data_ws/nene/area3_213_005.wav|1|こ……国会図書館！？
-data_ws/emu/voice_card_ev_wonder_05_14_2b_38_14.wav|0|ねえねえ、みんなは？家族で海とか行ったりした？
-data_ws/nene/voice_card_15_02b_23_15.wav|1|ネネロボを今、類が改良してくれてる
-data_ws/nene/voice_card_ev_wonder_09_13_4b_33_15.wav|1|うん……
-data_ws/rui/voice_card_16_01a_30_16.wav|2|ロボットのバッテリーで動くから電源は必要ない。あとは、挿入部分にチラシをセットすれば……
-data_ws/tsukasa/voice_ev_wonder_09_03_104_13.wav|3|おおっ、さすがえむ！見事な三段ジャンプだ！
-data_ws/rui/voice_card_bd_202207_10_4a_37_16.wav|2|特に僕は、体育祭でお世話になったしね
-data_ws/rui/area3_198_007.wav|2|そうだね。万が一にも転んで頭がぱかっとはずれてしまったら、目も当てられないね
-data_ws/rui/voice_card_ev_shuffle_07_16_3a_11_16.wav|2|へぇ、そうだったんだね
-data_ws/emu/voice_card_ev_wonder_01_14_3a_01_14.wav|0|ふんふふ～ん、ふふふ～ん♪
-data_ws/tsukasa/voice_card_14_01b_35_13.wav|3|い、いや～！　見てませんね～！これっぽっちも見てません！
-data_ws/tsukasa/voice_card_bd_202205_13_4b_107_13.wav|3|オレの誕生日を祝ってくれて、ありがとう！
-data_ws/tsukasa/voice_ev_shuffle_16_06_85_13.wav|3|ええい！　悩んでいてもらちがあかん！連絡してみよう！
-data_ws/rui/voice_card_ev_wonder_03_16_4b_08_16.wav|2|フフ……
-data_ws/emu/voice_ev_wonder_04_01_105_14.wav|0|あ……！ねえねえ、類くん！
-data_ws/nene/voice_ev_shuffle_12_05_45_15.wav|1|う、うん……！
-data_ws/tsukasa/area3_226_003.wav|3|警備って……お前、人さまに迷惑かけるようなことをしてるんじゃないだろうな
-data_ws/rui/voice_ev_wonder_09_07_133_16.wav|2|……そうだね
-data_ws/tsukasa/voice_card_ev_wonder_09_13_4a_35_13.wav|3|むう……想像以上に難しいな。類なら、クルーザーをどう表現するんだ？
-data_ws/emu/voice_ev_shuffle_01_2_15_14.wav|0|でも、そんな子達にも『楽しかった』って言ってもらえるような、そんな体育祭にしたいですっ！
-data_ws/tsukasa/voice_card_bd_202205_12_4a_75_13.wav|3|では冬弥、思う存分楽しんでいってくれ！
-data_ws/emu/voice_card_03_01a_33_14.wav|0|う？
-data_ws/rui/voice_ev_wonder_08_03_09_16.wav|2|だから僕はいつも、司くんが合わせやすい、司くんに似たタイプの役をお願いするようにしていたんだよ
-data_ws/rui/voice_sc_ev_wonder_05_08_104_16.wav|2|なるほど、司くんに花火を背負わせて……。いや、司くんを花火として打ち出すのもいいね
-data_ws/tsukasa/voice_card_13_01b_36_13.wav|3|……まあ、お前に限ってそれはないか……
-data_ws/emu/voice_ev_shuffle_01_6_60_14.wav|0|絶対、負けないっ！！
-data_ws/rui/voice_ev_wonder_02_1_64_16.wav|2|今の寧々ならきっとできるさ。司くんもえむくんも、そう思っているしね
-data_ws/nene/voice_ms_wonder20_30_15.wav|1|……もっとステージに立って……。いつか……プロの役者になりたいな……
-data_ws/tsukasa/voice_ev_wonder_04_05_16_13.wav|3|ついに明日は本番だな。各自、しっかりと休息をとるように！
-data_ws/tsukasa/voice_card_ev_wonder_07_13_4a_03_13.wav|3|さっきアメリカに着いたことを写真つきで咲希に知らせたんだが、その返事だ
-data_ws/rui/voice_card_fes_202112_16_4b_19_16.wav|2|（ここにある建物やオブジェは、僕が読んだあのSF小説の中で描かれていたものだ）
-data_ws/nene/voice_ev_wonder_08_01_22_15.wav|1|なんか、このやりとりも恒例になってきたな
-data_ws/emu/areatalk_2_196_003.wav|0|あたしはおじいちゃんだよっ！
-data_ws/rui/voice_card_ev_wonder_01_16_4b_23_16.wav|2|以前、観客席を修繕した時は、イスを動かすのは難しいと言われてしまったが……
-data_ws/emu/voice_card_ev_shuffle_10_14_4b_10_14.wav|0|えへへっ、ちゃーんと楽しんでるよ♪でも自由時間になったから、ちょっと抜けてきたの
-data_ws/rui/voice_ev_wonder_04_03_47_16.wav|2|ワンダーランズ×ショウタイムの座長として君がやるべきこと、わかるだろう？
-data_ws/tsukasa/voice_card_ev_shuffle_02_13_3b_01_13.wav|3|お、いたいた！おーい、冬弥！
-data_ws/nene/voice_ev_wonder_09_05_15_15.wav|1|うっ……。わ、わかってる……
-data_ws/rui/voice_selfep_wonder_01_16.wav|2|さて、開演前の挨拶の練習だったねえ
-data_ws/nene/voice_sc_ev_wonder_05_04_46_15.wav|1|く、草薙です！草薙寧々っていいます
-data_ws/emu/voice_ev_wonder_03_01_93_14.wav|0|あのね、あたしも考えてみたんだけど、子供向けのアトラクションで大人も遊べる日を作ってみたらどうかな？
-data_ws/emu/voice_card_ev_shuffle_10_03_4a_51_14.wav|0|でも……お肉なしじゃしょんぼりカレーになっちゃうよー
-data_ws/rui/voice_card_ev_shuffle_07_16_3b_26_16.wav|2|ああ。今考えているのは古典的でシンプルな仕掛けだからね
-data_ws/nene/voice_ev_shuffle_02_8_04_15.wav|1|はあ……コイツと一緒に探すの、ほんと恥ずかしかった……
-data_ws/nene/voice_card_ev_wonder_02_15_4a_48_15.wav|1|うん。その調子で、虫のおもちゃが飛んできたらはじいて
-data_ws/emu/voice_ev_wonder_07_03_44_14.wav|0|うんっ！ドキドキワクワクポポポポ～ってなっちゃったー！
-data_ws/rui/voice_sc_ev_wonder_05_01_10_16.wav|2|やあ、思ったより早かったね。部活はもう終わったのかい？
-data_ws/tsukasa/voice_card_21_wonder_02a_05_13.wav|3|たしかにオレは、お前と屋上で相談中に、次のショーのインスピレーションが欲しいと言った……
-data_ws/rui/voice_card_ev_wonder_09_13_4b_13_16.wav|2|……わかった。——ネネロボ
-data_ws/tsukasa/voice_ev_wonder_02_7_02_13.wav|3|……今は準備を進めて待つしかあるまい
-data_ws/tsukasa/voice_card_bd_202207_15_4b_22_13.wav|3|はははっ！　なんのことだ？
-data_ws/tsukasa/voice_card_ev_wonder_09_14_4a_11_13.wav|3|ふむ……。公演のあとならともかく、やる前に遊ぶのはどうかと思うが……
-data_ws/tsukasa/area3_182_001.wav|3|今日も素晴らしいミュージカルを見て優雅な休日を過ごしてしまったな！
-data_ws/emu/voice_card_21_wonder_02b_06_14.wav|0|クッキーと、チョコレートと、マシュマロと、おせんべいと……
-data_ws/tsukasa/voice_card_ev_wonder_08_16_4b_18_13.wav|3|黒騎士だと？
-data_ws/emu/voice_card_15_02b_08_14.wav|0|ドッパーン！ってなったらきっとすごく派手で目立つよ！煙に色とかつけて……
-data_ws/emu/voice_card_14_01b_51_14.wav|0|やったー！　それじゃあみんなでファミレスにゴー♪
-data_ws/nene/voice_ev_shuffle_22_04_59_15.wav|1|うん。プリントシール勝負での獲得ポイント数は、わたし達がトップで、その次が青柳くんのチーム……
-data_ws/rui/voice_ev_wonder_02_3_03_16.wav|2|おやおや。目的が変わってしまっているよ、司くん
-data_ws/tsukasa/voice_op_wonder0_73_13.wav|3|そうしたら、ショーを見に来たみんなが……
-data_ws/nene/voice_ev_wonder_09_04_04_15.wav|1|う、うん。今のとこ……。でも、立つ時はゆっくりお願い……
-data_ws/tsukasa/voice_card_ev_wonder_09_14_4a_19_13.wav|3|ダメなのか！あ、いや、たしかに公演前にやるのはリスクがあるな……
-data_ws/emu/voice_ms_wonder9_31_14.wav|0|お客さん、いーっぱい集まっちゃうかもしれないよ！
-data_ws/rui/voice_card_ev_wonder_04_14_4b_35_16.wav|2|着ぐるみくん達は、立場上えむくんを支援できないことを気に病んでいたからね
-data_ws/tsukasa/voice_ev_wonder_08_08_81_13.wav|3|ああ、はい！もちろんですとも！
-data_ws/emu/voice_card_bd_202206_16_4b_28_14.wav|0|ふっふっふっ。寧々ちゃん、あ～そ～ぼ～♪
-data_ws/tsukasa/voice_card_11_3b_34_13.wav|3|特別に、チケットをさらに２枚プレゼントしよう！
-data_ws/tsukasa/voice_card_13_01b_21_13.wav|3|当然だ！　それと、主役であるオレが今以上にカッコよく見えるようにしてもらわなくてはな！
-data_ws/emu/voice_card_ev_shuffle_01_18_3a_12_14.wav|0|うん♪　買ったおやつに当たりがついてて……ハッ！！
-data_ws/emu/voice_ev_shuffle_22_02_39_14.wav|0|あっ、そうだった！
-data_ws/rui/area3_213_004.wav|2|それなら、国会図書館に行けばいい
-data_ws/nene/voice_ev_shuffle_15_03_78_15.wav|1|う…………。……わかったってば、行けばいいんでしょ
-data_ws/tsukasa/voice_card_ev_wonder_03_13_2a_55_13.wav|3|無論だ！　天翔けるペガサスと書き、天馬！世界を司ると書き、司！その名も——天馬司！
-data_ws/rui/voice_ev_shuffle_19_01_47_16.wav|2|ああ、今日なら少し時間があるからね。みんなが集まっている場所まで、案内をお願いできるかい？
-data_ws/tsukasa/voice_card_ev_wonder_06_16_4b_08_13.wav|3|それにしても、あのジャンプは見事だったな
-data_ws/tsukasa/voice_card_15_02b_19_13.wav|3|（アイツ今、目にもとまらぬ速さでえむの口にドーナツを押し込まなかったか！？）
-data_ws/rui/voice_card_fes_202112_16_4a_33_16.wav|2|フフ、冗談だよ
-data_ws/rui/voice_ev_wonder_04_03_32_16.wav|2|それに、実力派のフェニックスステージが味方についてくれたと聞けば、もう少し話を聞いてくれそうだしね
-data_ws/emu/voice_card_14_01b_24_14.wav|0|むむ……？　あの子、ネネロボちゃんに似てたような……
-data_ws/nene/voice_sc_ev_wonder_05_04_72_15.wav|1|…………ふふ
-data_ws/tsukasa/voice_ev_wonder_08_04_57_13.wav|3|（……困った。役の性格や考えかたについて、この１週間考えに考えたが……、未だに掴みきれん）
-data_ws/emu/voice_ev_shuffle_22_04_37_14.wav|0|やった～っ！寧々ちゃん、わんだほいだよ～っ！
-data_ws/tsukasa/voice_ev_wonder_08_04_17_13.wav|3|……いいや、違うな。こいつは自信がないはずだから、こういう時は口ごもってしまうような気も……
-data_ws/tsukasa/voice_ms_wonder1_08_13.wav|3|な、何ぃ！？　まずい、時間がない！間に合ええー！！
-data_ws/tsukasa/voice_ev_shuffle_04_03_23_13.wav|3|ハーッハッハッハ！今日のオレは、いつもよりノッているぞ！
-data_ws/emu/voice_card_ev_wonder_04_22_3b_11_14.wav|0|うん！　みんなが歌ってるシーンも……ほら！
-data_ws/emu/voice_ms_wonder2_12a_14.wav|0|でもでも、司くんと一緒ならきっと昔みたいにお客さんでいっぱいにできるはずっ！
-data_ws/rui/voice_card_14_02b_10_16.wav|2|よくよく思い出すと……。あの少女の反応が微妙だったステージは、あまり盛況ではない気がするね
-data_ws/rui/voice_card_ev_shuffle_01_14_4b_43_16.wav|2|やっぱり、疲れがたまっていたんだね
-data_ws/rui/voice_ev_shuffle_08_05_88_16.wav|2|マジも大マジさ！さあ、早く練習を始めようじゃないか、東雲くん！衣装もそろっているよ！
-data_ws/emu/voice_card_ev_wonder_05_26_3a_23_14.wav|0|それでどうかな！？ざぶーんで、うわードドドッ！っていうお話！
-data_ws/tsukasa/voice_sc_ev_wonder_05_02_63_13.wav|3|台本ができたぞー！お前達との話しあいを元に、類と試行錯誤した自信作だ！
-data_ws/tsukasa/voice_card_ev_wonder_07_15_3a_23_13.wav|3|たしかに楽しみだな。日本語版は知っているが、原曲はまた違った雰囲気があるという話だしな
-data_ws/emu/voice_ev_shuffle_01_6_04_14.wav|0|よかった～！ありがとう！　取ってくるね！
-data_ws/rui/areatalk_2_294_001.wav|2|ぎゅぎゅっばばばーん……ああ、司くんをポップアップで打ち上げたアレかな
-data_ws/nene/voice_ev_wonder_02_6_41_15.wav|1|……うん、ありがとう
-data_ws/tsukasa/voice_card_16_02b_14_13.wav|3|……フン、まあ、見てやってもいいだろう！
-data_ws/rui/voice_card_ev_wonder_03_15_4b_10_16.wav|2|おや、まだ教室にいたんだね。もうすぐ時間だよ
-data_ws/emu/voice_ev_wonder_01_7_05_14.wav|0|ううん！　あたしは全然だいじょーぶっ！でも……
-data_ws/nene/voice_card_ev_wonder_06_14_4b_03_15.wav|1|何度もジャンプを練習してたから、疲れたんじゃない？
-data_ws/tsukasa/voice_ms_wonder17_53_13.wav|3|……！
-data_ws/emu/voice_card_ev_shuffle_16_14_4a_38_14.wav|0|すごーい！
-data_ws/emu/voice_ev_band_02_07_38_14.wav|0|あたしはさんせーい！
-data_ws/emu/voice_card_ev_wonder_03_14_4a_28_14.wav|0|あ……あの子達、もしかしてきょうだいかな
-data_ws/rui/voice_card_16_02a_33_16.wav|2|ああ、忙しくなりそうだ！
-data_ws/emu/voice_ev_shuffle_22_07_13_14.wav|0|おー！それじゃ、このまま優勝までビューンってできるかも！？
-data_ws/nene/areatalk_2_375_004.wav|1|う、歌？もう……芝居がかった顔するから何かと思った
-data_ws/emu/voice_card_ev_shuffle_22_14_4b_11_14.wav|0|いろいろできたねっ☆車のゲームに格闘ゲームに、クレーンゲーム！
-data_ws/tsukasa/voice_card_ev_wonder_02_25_3b_11_13.wav|3|ああ。ちなみに妹は、イブに幼馴染みと念願のクリスマスパーティーをしたらしくてな
-data_ws/nene/voice_card_ev_wonder_04_22_3b_09_15.wav|1|あ、そうだ。もうひとつ用事があるの。これなんだけど……
-data_ws/tsukasa/voice_card_bd_202205_13_4b_16_13.wav|3|ワンダーステージだと！？
-data_ws/emu/voice_ev_wonder_01_2_50_14.wav|0|えーっと、だから……
-data_ws/emu/voice_card_ev_shuffle_16_14_4a_03_14.wav|0|これこれ！　愛莉ちゃんセンパイが、チョコレートケーキがいいよって教えてくれたんだよね！
-data_ws/nene/voice_card_ev_shuffle_22_15_4b_27_15.wav|1|え……ほ、ほんと？
-data_ws/nene/voice_ms_wonder16_26_15.wav|1|あ……
-data_ws/rui/voice_card_ev_shuffle_18_26_4a_23_16.wav|2|ソメちゃんの正体については、仲良くなっていく中で少女も察していく感じになると思う
-data_ws/rui/voice_card_ev_wonder_03_16_4a_06_16.wav|2|ちょっと忘れ物をしてしまってね。探すのを手伝ってくれないかな？
-data_ws/rui/voice_card_ev_wonder_08_16_4b_04_16.wav|2|（特に、最も腑に落ちていなかった星を見るトルペの気持ちも、しっかりと理解して表現してくれた）
-data_ws/rui/voice_ev_shuffle_08_08_40_16.wav|2|それじゃあ僕はこれで。……ああ、そうそう
-data_ws/nene/voice_card_ev_shuffle_05_03_2a_23_15.wav|1|（み、宮女の女の子が来てるって話してる人いたから、どうせまたえむかと思って来たけど……。ええっ！？）
-data_ws/rui/voice_card_fes_202112_16_4a_34_16.wav|2|でも、そうか。僕自身、あの話を意識したわけではなかったけれど……
-data_ws/tsukasa/voice_ms_wonder16_35_13.wav|3|だから……寧々。また、オレと一緒にショーをやってくれないか？
-data_ws/emu/voice_ev_wonder_07_04_11_14.wav|0|おおっ！司くん、かっこいい～☆
-data_ws/emu/voice_ev_shuffle_03_13_2b_08_14.wav|0|うん、なかなかピカピカにならないねー。寧々ちゃんのほうはー？
-data_ws/emu/area3_200_003.wav|0|そうなんだ！　じゃあ、ここが舞台のショーもあるのかな？
-data_ws/nene/voice_ev_wonder_01_2_57_15.wav|1|いいんじゃない？いつもと違う感じだし、面白そう
-data_ws/emu/voice_card_ev_wonder_08_14_3b_48_14.wav|0|寧々ちゃん、類くん！協力してくれてありがとう！
-data_ws/emu/voice_ev_shuffle_01_3_27_14.wav|0|あれ？　言ってなかったっけ
-data_ws/nene/voice_ev_wonder_03_04_05_15.wav|1|うん。わたしもそう思う
-data_ws/rui/voice_ev_shuffle_08_05_89_16.wav|2|ところで青柳くん、空から颯爽と登場したい、と思ったことはないかい？
-data_ws/tsukasa/voice_unit_piapro16_22_13.wav|3|なっ！？　まさか、お、落ち……！？
-data_ws/emu/voice_card_ev_shuffle_10_21_3a_15_14.wav|0|……どうかな？　海の中、見えた？
-data_ws/tsukasa/voice_card_ev_wonder_02_14_2b_13_13.wav|3|ん？　あっ、おいえむ！片づけた飾りをまた飾るんじゃない！
-data_ws/nene/voice_ev_wonder_02_3_45_15.wav|1|……わたしの歌が、アイツに負けてる気がして
-data_ws/nene/voice_ev_shuffle_12_06_48_15.wav|1|いつもは、最初類が形を作っちゃって、みんなで合わせながら直していくのが多いんだけどね
-data_ws/rui/voice_ev_wonder_02_4_23_16.wav|2|ああ。フェニックスステージの彼女とはもちろん、司くんやえむくんとも真逆だ
-data_ws/tsukasa/voice_card_ev_wonder_09_15_4b_32_13.wav|3|オレはさっさと聞いてしまえばいいのにとやきもきしていた気がするな
-data_ws/rui/voice_card_ev_wonder_05_24_4b_69_16.wav|2|フフフ。司くん、先程までの余裕はどうしたんだい？
-data_ws/rui/voice_card_ev_wonder_06_22_2a_09_16.wav|2|……あのショーをかい？
-data_ws/nene/areatalk_2_062_003.wav|1|……！！　う、うるさい、何これ
-data_ws/rui/voice_ev_wonder_06_01_73_16.wav|2|え？
-data_ws/nene/voice_card_ev_wonder_08_15_4b_52_15.wav|1|え？　意味わかんないけどそれおもしろそう
-data_ws/nene/voice_ev_wonder_07_03_64_15.wav|1|えーっと、他のエリアのショーは……、今からだとちょっと時間があくみたい
-data_ws/rui/voice_ev_wonder_08_01_54_16.wav|2|ふふ、ありがとう
-data_ws/nene/voice_sc_ev_wonder_05_08_81_15.wav|1|わたしは、わたしにとって一番いい答えをだせるように考えていこうと思う
-data_ws/emu/voice_card_ev_wonder_03_16_4b_73_14.wav|0|るんるーん♪お水バッシャーするボタンはどぉ～れっかなっ☆
-data_ws/tsukasa/areatalk_2_189_005.wav|3|なっ！　ぐわー、やめろー！毎度毎度オレを巻き込むんじゃない！
-data_ws/tsukasa/voice_ev_wonder_04_02_73_13.wav|3|な、なんだと！？
-data_ws/nene/voice_ev_wonder_09_06_14_15.wav|1|あ……
-data_ws/nene/voice_ev_shuffle_06_01_25_15.wav|1|その時は、歌っても歌っても、何かが足りないって思ってた。多分、今の星乃さんと同じ感覚だと思う
-data_ws/nene/voice_sc_ev_wonder_05_08_11_15.wav|1|（だけど——）
-data_ws/tsukasa/voice_card_ev_wonder_02_14_2a_51_13.wav|3|ああ……うん。お前はそういうヤツだったな
-data_ws/nene/voice_ev_shuffle_07_06_38_15.wav|1|……なんだか嫌な感じ
-data_ws/emu/voice_ev_wonder_03_04_40_14.wav|0|こんなにおっきなこと話したら……困らせちゃうよ……
-data_ws/emu/voice_card_ev_shuffle_16_14_4b_13_14.wav|0|わあっ！　クマさんの包装紙かわいい！ありがとうお姉ちゃん！
-data_ws/tsukasa/voice_card_ev_wonder_09_13_4a_10_13.wav|3|……おかしいな。さっきまで一緒にいたはずなんだが……
-data_ws/emu/voice_card_ev_wonder_05_15_4b_03_14.wav|0|あのショーのあと、フェニックスワンダーランドのチケットの売り上げがまたちょっと良くなったってお兄ちゃん達が言ってたの！
-data_ws/tsukasa/voice_ev_wonder_01_2_44_13.wav|3|観客に選んでもらうとなると、やはり派手で心に残る、楽しいものがいいだろう！
-data_ws/tsukasa/voice_card_16_02b_20_13.wav|3|まったく……オレが見本を見せてやる。いいか？　こうだ！ドゥルドゥルドゥルドゥルドゥルドゥル……！……見てないでお前らもやれ！
-data_ws/tsukasa/voice_ev_wonder_01_1_12_13.wav|3|ハーッハッハッハッ！　そうだろうとも！
-data_ws/emu/voice_ev_wonder_07_08_69_14.wav|0|（あたしの夢もちゃんと、みんなの笑顔につながってたんだね……）
-data_ws/emu/voice_card_fes_202112_16_4a_05_14.wav|0|うん！　新しい演出やなんかすっごいのができると、いっつも丁寧に説明してくれるし！
-data_ws/rui/voice_card_ev_wonder_08_16_4a_33_16.wav|2|そしてあのショーは、えむくんのお祖父さんがフェニックスワンダーランドを造った時の出来事をモチーフとしている——
-data_ws/nene/voice_sc_ev_wonder_05_07_83_15.wav|1|でも……今は人もあんまりいないし、ちょっと浜辺を見てからみんなの所に戻ろっか
-data_ws/tsukasa/voice_card_ev_wonder_08_13_4b_06_13.wav|3|カイト、ミク、本当にありがとう！おかげでショーも大成功だった！
-data_ws/tsukasa/voice_card_26_01a_23_13.wav|3|ん？　お前も何か発見したのか？せっかくだし言ってみろ
-data_ws/tsukasa/voice_ev_wonder_07_02_08_13.wav|3|フッフッフ……そうか……ついに世界か……！
-data_ws/emu/voice_sc_ev_shuffle_10_02_105_14.wav|0|う～～～～、わんだほーい！じゃあみんなで、その曲やろーよ☆
-data_ws/tsukasa/voice_ev_shuffle_05_06_39_13.wav|3|あ、ああ……すまない。ちょっと考えごとをしてしまってな
-data_ws/emu/voice_sc_ev_shuffle_10_01_82_14.wav|0|えへへ♪ダッシュで取ってくるから待ってて～！
-data_ws/emu/voice_card_15_02b_14_14.wav|0|はいはーい！煙はなくして、みんなで爆発する！
-data_ws/emu/areatalk_2_379_002.wav|0|うん！　あと、バク宙の練習も一緒にして楽しかったよ♪
-data_ws/tsukasa/voice_unit_piapro16_02_13.wav|3|無論、大成功だったぞ！スターたるオレがいるのだから当然と言えば当然の結果――
-data_ws/nene/voice_card_bd_202206_16_4b_15_15.wav|1|そうそう。小さい頃はオンライン対戦の機能、使わせてもらえなかったしね
-data_ws/tsukasa/voice_card_bd_202207_15_4b_36_13.wav|3|何を言う！　かっこいいポーズほどのレパートリーはないがまだまだできるぞ！
-data_ws/emu/voice_card_ev_shuffle_10_09_2a_11_14.wav|0|うん、それそれ！
-data_ws/nene/voice_ev_shuffle_07_04_51_15.wav|1|も、もう無理……脱ぐ……休憩する……
-data_ws/nene/voice_card_ev_shuffle_07_16_3b_10_15.wav|1|あ……まさか、例のパワードスーツを試すつもり？
-data_ws/emu/voice_ev_wonder_08_04_10_14.wav|0|むー？　表面的って、どんな感じ？
-data_ws/tsukasa/voice_ev_wonder_09_08_11_13.wav|3|いつ本番が来ても大丈夫なように万全の準備をしておきたいと思ってな
-data_ws/nene/voice_card_ev_shuffle_12_05_4a_20_15.wav|1|そういう意味じゃ、青柳くんってかなり耳いいんだね。もともと音楽やってたとか？
-data_ws/rui/voice_card_15_01b_44_16.wav|2|おや、そう見えるかい？……と、あれは……
-data_ws/rui/areatalk_2_065_005.wav|2|フフフ、それはどうも
-data_ws/nene/voice_ev_shuffle_19_07_35_15.wav|1|足速っ……！すごい勢い……！
-data_ws/tsukasa/voice_ev_shuffle_12_06_15_13.wav|3|それよりも寧々！イベントに出るなら出るでどうして言わない！
-data_ws/rui/voice_card_bd_202206_16_4a_44_16.wav|2|『期待を裏切るようで悪いけれど、学校では何もしないよ』
-data_ws/emu/voice_card_ev_band_06_03_4a_19_14.wav|0|うん。穂波ちゃんも、志歩ちゃんも、バンドに一生懸命だもんね
-data_ws/rui/voice_card_fes_202112_16_4a_35_16.wav|2|たしかに小さい頃、本がバラバラになるまで読んだから、あの小説の登場人物達のように、司くんを月まで届かせたかったのかもしれないね
-data_ws/rui/voice_ms_wonder6_04_16.wav|2|すまないが、僕は、ひとりで気ままにやるのが好きなんだ
-data_ws/tsukasa/voice_selfep_wonder_17_13.wav|3|……ああ、咲希というのは妹だ
-data_ws/rui/areatalk_aprilfool2022_009_022.wav|2|では、スタート！
-data_ws/emu/voice_ev_shuffle_01_2_12_14.wav|0|さっきからずっとずっとずーっと『例年通り』ばっかりで……
-data_ws/tsukasa/voice_ev_shuffle_02_8_32_13.wav|3|ふふふ……学校中にオレの美声を響かせてやるぞ！
-data_ws/nene/voice_card_ev_wonder_08_15_4b_14_15.wav|1|そっか。３人で集まった時、青柳くん、教室にいたもんね
-data_ws/rui/voice_ev_wonder_09_02_57_16.wav|2|それは僕も一度考えたのだけれど……。晶介さんを置いていくわけにはいかないからね
-data_ws/tsukasa/voice_ev_shuffle_17_05_85_13.wav|3|ただできれば、このショーをハッピーエンドで——笑顔で終わらせたいとも思う。それは観客だけでなく、キャストも含めてだ
-data_ws/nene/areatalk_2_008_006.wav|1|……うん、すごい動くようになった
-data_ws/rui/voice_ev_shuffle_19_08_34_16.wav|2|（次で最後のシーンだ。最大になった兵力で敵の本陣に攻めこむ）
-data_ws/rui/voice_card_bd_202206_16_4a_04_16.wav|2|ああ。あとは裏に持って行くだけだろう？こっちはもう大丈夫だから、司くん達を手伝ってあげてくれ
-data_ws/rui/voice_ev_shuffle_07_05_83_16.wav|2|そうだね。あとで下の管理事務所に看板のことを伝えておこう。じゃあ寧々、先に進もうか
-data_ws/rui/voice_ev_wonder_06_08_70_16.wav|2|ああ。そうだよ
-data_ws/rui/voice_ev_shuffle_19_03_41_16.wav|2|それより、今悩んでいるのは構成の整理かな。ベースの案は無数にあるから、それを可能な限り盛りこみつつ精査していきたいんだけど……うまく嚙み合わなくてね
-data_ws/rui/voice_card_ev_wonder_08_15_4b_54_16.wav|2|フフ。大丈夫、本当にまっぷたつになるわけじゃないよ。実は、こんな演出を考えていてね——
-data_ws/rui/voice_card_14_01b_45_16.wav|2|……たしかにそうだね
-data_ws/nene/voice_card_15_02a_20_15.wav|1|何それ
-data_ws/nene/voice_card_ev_wonder_02_15_4a_16_15.wav|1|そもそも、カラをやぶるって簡単に言うけど、具体的にはどうするわけ？
-data_ws/tsukasa/voice_ev_wonder_01_7_19_13.wav|3|オレは未来のスター！　天馬司だぞ！
-data_ws/tsukasa/voice_card_14_3a_33_13.wav|3|なんだ今のは！？　めちゃくちゃ危ないわ！
-data_ws/nene/voice_ms_wonder16_28_15.wav|1|…………
-data_ws/emu/voice_card_ev_shuffle_10_14_4a_13_14.wav|0|なんと来週、臨海学校があるんだよーーーっ♪
-data_ws/emu/voice_ev_wonder_09_08_68_14.wav|0|明日……って
-data_ws/rui/voice_card_16_01b_36_16.wav|2|……いや構わないよ。ただ、僕は単に好きだというより……
-data_ws/tsukasa/voice_ev_wonder_08_01_09_13.wav|3|『どうして僕達が争わなくちゃいけないんだ！』
-data_ws/nene/voice_ev_wonder_01_7_56_15.wav|1|ちゃんと着地した……！
-data_ws/emu/voice_ev_shuffle_15_07_35_14.wav|0|わっはっはー！全部大吉大吉～！
-data_ws/emu/voice_card_ev_wonder_08_16_4a_41_14.wav|0|うん！　ばいばーい！
-data_ws/nene/voice_ev_wonder_03_05_76_15.wav|1|なんか事情があって、話せないのかもしれないけど……
-data_ws/tsukasa/voice_card_bd_202205_13_4b_63_13.wav|3|わっ、すまん！
-data_ws/emu/voice_card_ev_wonder_05_16_4a_25_14.wav|0|はーい！
-data_ws/nene/voice_card_ev_shuffle_02_15_3a_05_15.wav|1|（接客がなければ、そう思えたんだけど……。ていうか、もっと楽なものにしてくれればよかったのに）
-data_ws/nene/voice_sc_ev_wonder_05_07_69_15.wav|1|……はい
-data_ws/rui/voice_ev_shuffle_12_06_39_16.wav|2|……そして、王子と会っていたことが露見した寧々演じる姫は地下牢に閉じこめられてしまう
-data_ws/nene/voice_card_fes_202112_15_4b_33_15.wav|1|……なんで？なんでこのタイミングで、それなの？
-data_ws/rui/voice_ev_wonder_09_04_69_16.wav|2|さて、主食も無事手に入れられたことだし、そろそろ晶介さんとネネロボの元へ戻ろうか
-data_ws/tsukasa/voice_card_14_01b_52_13.wav|3|こら！　うかつに出ていくんじゃない！先生に見つかったらどうするんだ！
-data_ws/rui/voice_ev_wonder_06_06_68_16.wav|2|……！
-data_ws/tsukasa/voice_card_ev_wonder_09_13_4a_21_13.wav|3|……たしかに、なんとなく性格の違いがわかるな
-data_ws/nene/voice_ev_wonder_02_7_67_15.wav|1|（だから、失敗するかもなんて考えないで、勝てないかもなんて悩まないで――）
-data_ws/rui/voice_ev_wonder_06_02_41_16.wav|2|さらに、彼らは本当にお互いを信頼している証として、それぞれが大事にしている宝物を交換することで、より一層仲を深めようとした
-data_ws/emu/voice_ev_wonder_03_02_20_14.wav|0|お客さん集めるために新しいアトラクションがいるってことはわかるよ！　でも……！
-data_ws/rui/voice_ev_wonder_02_3_12_16.wav|2|フフ、そうだね。それは僕も許せないな
-data_ws/nene/voice_sc_ev_wonder_05_07_03_15.wav|1|あ、ありがとうございます！
-data_ws/rui/voice_card_ev_shuffle_17_13_4a_10_16.wav|2|ただ、もともと休みにしていた日だから、予定がある人もいると思うし、自由参加という感じでやろうか
-data_ws/nene/voice_ev_wonder_08_04_74_15.wav|1|（……驚いた。そんな風に考えてたなんて）
-data_ws/tsukasa/voice_card_ev_shuffle_02_13_3b_44_13.wav|3|心配するな。そういう生のリアクションが演劇を完成させていくものだからな
-data_ws/emu/voice_ev_shuffle_22_07_30_14.wav|0|はーい！　わあ、おっきくてかっこいい～！
-data_ws/tsukasa/voice_ms_wonder1_28_13.wav|3|わっ！　な、なんだ急に！？
-data_ws/emu/voice_card_14_01a_34_14.wav|0|夕方になると『楽しい１日が終わっちゃう』って気がするの
-data_ws/rui/voice_ev_shuffle_02_7_04_16.wav|2|うん。今、戯曲を読んでいてね
-data_ws/nene/voice_ev_wonder_07_08_56_15.wav|1|あれだって『フェニックスワンダーランドを、みんなが笑顔になれる場所にしたい』ってえむが言ってくれたから実現したことでしょ？
-data_ws/tsukasa/voice_card_ev_shuffle_04_03_4a_24_13.wav|3|なんでお前らはそんなにのんきなんだ！？咲希ー！　穂波ー！　大丈夫かー！？
-data_ws/rui/voice_ev_wonder_01_8_42_16.wav|2|ふふ、そうかい？
-data_ws/nene/voice_card_ev_wonder_04_22_3b_08_15.wav|1|ふふ、それならいいけど
-data_ws/nene/voice_ev_wonder_02_2_43_15.wav|1|（……本当にすごい）
-data_ws/tsukasa/voice_ev_wonder_02_5_56_13.wav|3|そのショーで妹があんまり喜ぶものだから、オレもこんな風に妹を笑わせられたらと思って、ショーをするようになったんだ
-data_ws/rui/voice_card_ev_shuffle_12_13_4a_04_16.wav|2|では、片づけを始めようか
-data_ws/tsukasa/voice_ev_shuffle_16_03_87_13.wav|3|本当に、今日は一体どうしたんだあいつは？
-data_ws/nene/voice_ev_wonder_09_03_27_15.wav|1|でもキノコは毒が怖いし、あんまり手を出さないほうがいいんじゃない？
-data_ws/rui/voice_ev_wonder_04_02_90_16.wav|2|このプランは、僕達みんなの自信作だからね
-data_ws/nene/voice_ev_shuffle_22_01_24_15.wav|1|このゲーム大会の優勝賞品になってるゲームエキスポのVIP招待券が……その、どうしても欲しくて
-data_ws/nene/voice_card_bd_202207_15_4b_11_15.wav|1|はいはい
-data_ws/tsukasa/voice_card_21_wonder_02a_34_13.wav|3|……なんだか、余計な知恵を与えてしまった気が……
-data_ws/tsukasa/voice_card_ev_wonder_05_24_4b_26_13.wav|3|よし、オレが拾う！スパイクは任せたぞ
-data_ws/rui/voice_card_ev_wonder_09_16_2a_07_16.wav|2|そろそろ森に入って食べ物と水を探そうか
-data_ws/emu/voice_ms_wonder7_29_14.wav|0|うんっ☆ネネロボちゃんのショー、スタート～っ！
-data_ws/emu/voice_card_ev_wonder_08_15_4a_17_14.wav|0|うん、練習別々になっちゃったし、学校も違うから全然会えなくなっちゃったし……
-data_ws/rui/voice_card_ev_shuffle_18_26_4a_10_16.wav|2|うん、いいんじゃないかな。あとは——
-data_ws/rui/voice_card_ev_wonder_05_16_4a_11_16.wav|2|（プロジェクトワンダーの成功で、『みんなが笑顔になれる場所』というフェニックスワンダーランドのコンセプトは守ることができた）
-data_ws/emu/voice_card_bd_202201_18_4b_45_14.wav|0|『すみませーん、ハンバーガーくださーい！』『はーい！　お店でお召し上がりになりますか？』
-data_ws/nene/voice_card_ev_wonder_07_14_4b_51_15.wav|1|え、ちょっ……言いかた！変人の仲間入りみたいな言いかたやめてよね！
-data_ws/nene/voice_card_bd_202208_01_4b_27_15.wav|1|でも、今日ならお祝いできそうってなって……。その……みんなで来ちゃった……
-data_ws/tsukasa/voice_ev_wonder_08_04_53_13.wav|3|…………
-data_ws/nene/voice_ev_shuffle_22_02_73_15.wav|1|（……なんだ。意外にみんな同じような名前みたい）
-data_ws/emu/voice_card_ev_wonder_02_14_2a_67_14.wav|0|わははははっ！　もっともっと！とうっ、てやー！
-data_ws/tsukasa/voice_card_ev_shuffle_17_13_4a_22_13.wav|3|チョコレートファクトリーという、文字どおりチョコの工場でのサプライズショーだ
-data_ws/nene/voice_card_ev_wonder_07_16_2b_65_15.wav|1|それって、何か試すのに必要な物とかを類が作ってくれるってこと？
-data_ws/tsukasa/voice_ev_shuffle_05_01_34_13.wav|3|（こちらもボロボロだ……）
-data_ws/rui/voice_card_ev_wonder_09_13_4b_20_16.wav|2|やはり海水に浸かった影響がでているんだろうね。司くん、手早く用件を伝えて電源を落としたほうがよさそうだ
-data_ws/nene/voice_sc_ev_wonder_05_04_64_15.wav|1|うん……最後の公演なら見に来れるって……
-data_ws/emu/voice_card_14_02b_02_14.wav|0|あっいた！　ほら、あの子！今日もぷるぷるハムハムしてる！
-data_ws/tsukasa/voice_card_ev_wonder_07_13_4b_17_13.wav|3|だが、たしかにパークについて早々、いい意味で圧倒されてしまったな
-data_ws/tsukasa/voice_ev_wonder_03_07_35_13.wav|3|お前がみんなを笑顔にしたいように、オレ達だって、お前を笑顔にしたい
-data_ws/emu/voice_ev_shuffle_01_5_43_14.wav|0|じゃあミクちゃん、あたし、行ってくるね。終わったら、また戻ってくるよー！
-data_ws/tsukasa/voice_card_ev_shuffle_05_13_3a_11_13.wav|3|……咲希？
-data_ws/nene/voice_card_15_02b_03_15.wav|1|……あの
-data_ws/rui/voice_ev_shuffle_19_05_44_16.wav|2|はい
-data_ws/tsukasa/voice_card_ev_shuffle_05_13_3a_01_13.wav|3|ひな祭りまであと１週間か……
-data_ws/tsukasa/voice_ev_shuffle_17_08_55_13.wav|3|そうと決まったらさっそく食べるぞ！手を合わせて——
-data_ws/nene/voice_card_ev_shuffle_10_14_4a_14_15.wav|1|……は？　もう、びっくりさせないでよ
-data_ws/rui/voice_ev_wonder_06_08_74_16.wav|2|あんまり素敵なことがあると、逆に冷静になってしまうのかもしれないねえ
-data_ws/rui/voice_card_ev_wonder_03_16_4b_37_16.wav|2|そのためには、ここにある10個の魔法のボタンを使うんだ
-data_ws/emu/voice_card_ev_wonder_08_16_4a_46_14.wav|0|きっかけ？
-data_ws/emu/voice_ev_wonder_07_07_09_14.wav|0|ワンダーステージを見てる時みたいに、おじいちゃんが隣にいてくれるような気がするんだ
-data_ws/rui/voice_card_ev_shuffle_22_15_4b_08_16.wav|2|ところで、休憩中ずいぶん熱心にスマホをのぞいていたようだけど、何を見ていたんだい？
-data_ws/rui/voice_ev_wonder_06_02_52_16.wav|2|少女は将校と、彼が持っている宝物さえ戻れば、みんなが再びわかりあえると信じて、将校を助けようとするんだ
-data_ws/tsukasa/voice_card_ev_wonder_03_13_2b_41_13.wav|3|……ああ。そうみたいだな
-data_ws/rui/voice_card_ev_shuffle_18_26_4a_17_16.wav|2|けれど、おじさん夫婦の家に田舎という不慣れな環境——話し相手になってくれる同年代の子供もいなくて、少女は寂しさを募らせていく
-data_ws/rui/voice_card_ev_wonder_01_16_4a_10_16.wav|2|……これはもっと検証が必要だね。そうなると次にすべきことは——
-data_ws/rui/voice_card_16_01a_39_16.wav|2|フフフ、とりあえず授業中ずっと動かしておけば放課後までには折り終わっていると思うよ
-data_ws/rui/voice_card_15_02a_38_16.wav|2|もちろんさ。パフォーマーの要望に耳を傾けるのも演出家の務めだからねえ
-data_ws/emu/voice_card_ev_shuffle_08_16_4b_13_14.wav|0|あ、動画に映ってるかな！どの人？
-data_ws/rui/voice_card_ev_wonder_09_15_4a_24_16.wav|2|……それにしても、こんな時間にどうしたんだろうね？
-data_ws/emu/voice_card_ev_wonder_06_14_4b_30_14.wav|0|（やっぱり、今のままじゃダメ！だって、最高のショーにしたいもん）
-data_ws/emu/voice_card_15_3b_41_14.wav|0|寧々ちゃんといっぱいお話できて楽しいな～って思って！
-data_ws/rui/voice_ev_wonder_01_5_32_16.wav|2|…………
-data_ws/emu/voice_card_ev_wonder_08_15_4a_10_14.wav|0|あ、でもでも、司くん今、い～～～っぱいトルペのこと考えてるんだよね？
-data_ws/nene/voice_sc_ev_wonder_05_07_39_15.wav|1|（世界中でショーをやるなんて、すっごく大変で、怖そうだけど——）
-data_ws/rui/voice_ev_wonder_02_3_07_16.wav|2|うん、それがいいと思うよ。司くんだけじゃなく……寧々もね
-data_ws/nene/voice_ev_shuffle_22_08_59_15.wav|1|今日はすっごく楽しかったし——みんなを笑顔にできてよかった
-data_ws/tsukasa/voice_card_ev_wonder_08_16_4b_51_13.wav|3|あの頃の、愚かな自分とも向き合うことになるが……
-data_ws/nene/voice_ev_wonder_07_02_12_15.wav|1|ちょっと、変なことはしないでよね。はぁ……このメンバーだと、楽しみ半分心配半分って感じ……
-data_ws/tsukasa/voice_card_ev_wonder_06_13_3a_27_13.wav|3|そうだ！　特に、ショーの最中にヤツらが現れてみろ！観客の注意がヤツらに持っていかれるかもしれん！
-data_ws/tsukasa/voice_ev_wonder_04_02_25_13.wav|3|仕方あるまい！行くぞ！
-data_ws/emu/voice_ev_wonder_03_01_28_14.wav|0|お兄ちゃんがふたりと、お姉ちゃんがひとりいるんだよ！
-data_ws/nene/voice_card_ev_wonder_07_16_2a_23_15.wav|1|どうしよう。えむに声かけてみる？
-data_ws/rui/voice_ev_wonder_02_2_14_16.wav|2|まあ、時節柄どこも同じような内容になるだろうとは予想していたし、僕は問題はないと思うよ
-data_ws/tsukasa/voice_card_ev_shuffle_01_14_4b_12_13.wav|3|……まったく、ただでさえ嵐みたいなヤツだが、ここ最近は狂ったように忙しそうだな
-data_ws/emu/voice_card_ev_wonder_04_13_4b_18_14.wav|0|えっとね！　大事なことだから、ちゃんといろいろ話しあって決めるんだって
-data_ws/rui/voice_ms_wonder17_18_16.wav|2|『僕もこんな風に、素敵なショーをしてみたい！』
-data_ws/emu/voice_card_ev_wonder_05_16_4a_35_14.wav|0|ええー！　そんなの絶対ダメだよ！あたし、今日から毎日てるてる坊主作る！！
-data_ws/nene/voice_ev_shuffle_22_05_69_15.wav|1|（少しずつ消せはしてるけど、それでも……！）
-data_ws/nene/voice_card_ev_wonder_05_15_4b_14_15.wav|1|うん、そうだね
-data_ws/rui/voice_card_ev_wonder_03_16_4b_01_16.wav|2|（あれから数日たったが、えむくんのお兄さん達にまだ目立った動きはない……）
-data_ws/rui/voice_ms_wonder9_01_16.wav|2|うん。この台本の筋は把握したよ。『ツカサリオン』はオーソドックスな英雄譚だね
-data_ws/rui/voice_ev_shuffle_19_07_58_16.wav|2|（派手さはないけど、表現したいことが伝わるし何より赤組のみんなの士気をこれ以上ないほど高めている）
-data_ws/rui/voice_card_bd_202208_20_4b_79_16.wav|2|おや？　青柳くんがやるならと進んで協力してくれた、と白石くんから聞いているよ？
-data_ws/nene/voice_card_26_01b_10_15.wav|1|…………あ
-data_ws/nene/voice_ev_wonder_06_06_36_15.wav|1|始まったら呼ぼうと思ってたけど、待ちきれなくて来ちゃったんだね
-data_ws/emu/voice_card_14_01b_41_14.wav|0|……大丈夫？　疲れてる？元気の出る歌、歌おっか？
-data_ws/nene/voice_ev_wonder_06_01_87_15.wav|1|うん。ちゃんと頼ってよね、類
-data_ws/tsukasa/voice_ms_wonder10_48_13.wav|3|おお、類。戻ったか。演技のヒントも掴めたことだ、そろそろ帰……
-data_ws/rui/voice_ev_wonder_01_3_06_16.wav|2|このあいだ掃除をしている時、偶然見つけたんだ
-data_ws/tsukasa/voice_ev_shuffle_17_05_01_13.wav|3|（な、なんだ！？どうして泣きだしたんだチョコ太！？　いや浜野さん！）
-data_ws/emu/voice_ms_wonder2_21_14.wav|0|司くんの話なら、オーディションの時に聞いたよ？
-data_ws/nene/voice_card_ev_wonder_08_15_4b_34_15.wav|1|……ねえ、あいつ何言ってんの？尊敬のまなざしって、本気？
-data_ws/nene/voice_ms_wonder17_01_15.wav|1|ショーはひとりじゃできない……。類、そんなこと言ってたんだ……
-data_ws/emu/voice_card_ev_shuffle_16_22_3a_14_14.wav|0|洗い物運ぶの、あたしも手伝うよー
-data_ws/tsukasa/voice_ev_shuffle_16_05_47_13.wav|3|いや、それはこっちのセリフだぞ
-data_ws/tsukasa/voice_ev_wonder_08_05_64_13.wav|3|トルペはここで、絶望しているんだぞ？
-data_ws/tsukasa/voice_card_ev_wonder_08_13_4b_36_13.wav|3|では、次の宣伝公演が決まるまでは、また通常公演をしながら、オレ達なりのショーを磨いていくぞ！
-data_ws/nene/voice_card_ev_shuffle_22_15_4a_16_15.wav|1|（でも、わたしもだいぶ慣れてきたし、この速さならまだついていける）
-data_ws/nene/voice_ev_shuffle_04_04_40_15.wav|1|…………
-data_ws/emu/voice_ev_shuffle_04_08_43_14.wav|0|わ、リンちゃんだ！今日のショー、見てくれた？
-data_ws/rui/voice_ev_wonder_01_4_62_16.wav|2|……いや
-data_ws/tsukasa/voice_card_bd_202208_20_4b_76_13.wav|3|誕生日パーティーを大いに盛り上げられて、オレは満足だ。暁山も、いい笑顔だったしな！
-data_ws/rui/voice_ev_wonder_02_7_61_16.wav|2|え？
-data_ws/emu/voice_selfep_wonder_04_14.wav|0|この名前は、あたしがいつも笑顔でいられますようにって意味とね
-data_ws/emu/voice_ev_wonder_04_08_29_14.wav|0|『みんなを笑顔にする』フェニックスワンダーランドを、これからもずっと、残し続けていきたい！
-data_ws/rui/voice_card_ev_wonder_03_15_4b_31_16.wav|2|これは僕らの出番のようだね。寧々、ちょっとこっちに
-data_ws/tsukasa/voice_ms_wonder5_21_13.wav|3|（……しかし、あいつは良さそうだな）
-data_ws/rui/voice_card_20_01b_24_16.wav|2|フフ、癖みたいなものだからね
-data_ws/nene/voice_ev_shuffle_22_07_19_15.wav|1|はいはい。普通に呼んでくれていいから
-data_ws/emu/voice_ev_night_09_06_23_14.wav|0|あっ、あたしはこれからショーをやるんです！実はここでショーキャストしてて！
-data_ws/emu/voice_card_ev_shuffle_02_26_4b_30_14.wav|0|他にもおもしろいロミオがたくさんいるよ！
-data_ws/emu/voice_sc_ev_wonder_05_06_40_14.wav|0|ええっ！？寧々ちゃん、歌いだしたよ！
-data_ws/tsukasa/voice_card_ev_wonder_08_16_4b_40_13.wav|3|“人々を守る”というのは、ゴールの見えない道をひたすら走るようなものだ
-data_ws/rui/voice_sc_ev_wonder_05_01_57_16.wav|2|そのステージなら、少しだけ知っているよ。海や浜辺に直接つながっているんだ
-data_ws/rui/voice_card_fes_202112_16_4a_59_16.wav|2|（とりあえず、異変の原因はあの光る玉だろうけれど）
-data_ws/tsukasa/voice_ev_wonder_07_02_96_13.wav|3|ほう。たしかにそれはオレも興味があるな。ならば、６時にみんなで聞くとしよう！
-data_ws/tsukasa/voice_card_ev_wonder_04_13_4a_41_13.wav|3|ん？　お前から選んでいいんだぞ？
-data_ws/emu/voice_ms_wonder2_34_14.wav|0|うう〜、一緒にやろうよ〜
-data_ws/emu/areatalk_2_202_002.wav|0|さんとら……三匹のトラ？　がおーんっ♪
-data_ws/tsukasa/voice_ev_wonder_06_01_24_13.wav|3|そ、そうだったのか……！！
-data_ws/emu/voice_ev_shuffle_22_06_34_14.wav|0|そうだね！この調子でもっともっと盛り上がるといいな～！
-data_ws/rui/voice_card_fes_202112_16_4b_76_16.wav|2|とても……、とても貴重な体験をさせてもらったよ
-data_ws/rui/area3_212_001.wav|2|おや、えむくん。また来たのかい？
-data_ws/tsukasa/voice_card_ev_wonder_05_14_2b_05_13.wav|3|お前が乱入してきた時は驚いたがな
-data_ws/emu/voice_card_ev_band_06_03_4a_28_14.wav|0|えへへ。最初、穂波ちゃんが誰かを怒ってたって聞いて、大変だーってびっくりしちゃったけど——
-data_ws/nene/voice_ms_wonder15_50_15.wav|1|（ここから見ると、ワンダーステージってこんなに広いんだ……）
-data_ws/rui/voice_card_16_3b_48_16.wav|2|ふむ、誰の頭をロバの頭にしようかな？
-data_ws/emu/voice_ev_shuffle_04_03_88_14.wav|0|それじゃあ、あたし達が案内するね！フェニックスワンダーランドの冒険に、しゅっぱーつ☆
-data_ws/rui/voice_card_ev_wonder_06_13_3a_01_16.wav|2|司くん、必要な物はすべて準備完了だ。いつでもリハーサルを始められるよ
-data_ws/tsukasa/voice_ev_shuffle_05_06_08_13.wav|3|しかし、咲希のためにパーティーを盛り上げたい……！今回のひな祭りを最高のものにしてやりたい！
-data_ws/emu/voice_ev_wonder_09_03_82_14.wav|0|上見て、上っ！
-data_ws/tsukasa/voice_card_ev_wonder_06_16_4a_48_13.wav|3|というか……言いたいことでも話したいことでも、この際、全部聞くぞ
-data_ws/rui/voice_card_bd_202205_13_4b_73_16.wav|2|おや？　それはもちろん、そっちのほうがスリリングで面白いからだよ
-data_ws/nene/voice_card_ev_wonder_09_14_4b_10_15.wav|1|はいはい。気を抜いたリハなんてする意味ないでしょ
-data_ws/emu/voice_sc_ev_wonder_05_08_62_14.wav|0|ルカお姉さん見て見て～！花火の色が変わるよ～！
-data_ws/emu/voice_ev_wonder_07_01_24_14.wav|0|——隊長～！アイディアいっぱい持ってきましたっ！
-data_ws/tsukasa/voice_ev_shuffle_05_06_20_13.wav|3|そっ、そんなことはないぞ！オレはいつでも順風満帆！　栄養満点！
-data_ws/rui/voice_ev_shuffle_19_01_18_16.wav|2|応援団に……
-data_ws/rui/voice_ev_shuffle_08_07_58_16.wav|2|東雲くん、白石くん！プランを少し変更する！
-data_ws/rui/voice_ev_shuffle_19_05_43_16.wav|2|——もちろんです
-data_ws/rui/voice_ev_wonder_04_04_35_16.wav|2|ああ。この更衣室を抜けるルートで行けば可能だよ。前に実際に走ってみたからわかる
-data_ws/tsukasa/voice_card_13_3a_34_13.wav|3|（そういえば、あのセカイとやらには、不思議な生き物がいたな）
-data_ws/tsukasa/voice_ev_wonder_08_01_17_13.wav|3|どわっ！？す、すまん……
-data_ws/rui/voice_ev_shuffle_19_08_17_16.wav|2|（このあとは……）
-data_ws/emu/voice_card_ev_wonder_08_15_4a_12_14.wav|0|考えすぎて、プシューってなってないかな？お腹とかもすいてるんじゃないかな？
-data_ws/rui/voice_card_26_01b_23_16.wav|2|それに、歌声にも興味があるんだよ
-data_ws/tsukasa/voice_card_16_01a_38_13.wav|3|お、おう。なんだかよくわからんが、すごいな！
-data_ws/rui/voice_card_ev_wonder_09_16_2a_30_16.wav|2|あともうひとつ——仮に今、僕達が司くんのスマホでセカイに行ったとして……
-data_ws/rui/voice_card_ev_shuffle_07_16_3a_41_16.wav|2|（ということは、さっき瑞希が笑ったのは誤魔化すためではなく、僕のため、か……）
-data_ws/tsukasa/voice_ev_wonder_07_05_29_13.wav|3|——予算か。それだけの工事をして、なおかつ運用できるだけの予算があるかどうかを考えなければな
-data_ws/tsukasa/voice_ev_wonder_08_05_09_13.wav|3|あの時は、悪役をあまりやったことがなかったから、どう演じたものか悩んでいたんだが……
-data_ws/rui/voice_ev_shuffle_19_08_37_16.wav|2|（いいぞ、完璧だ！次は、ターンの遠心力で衣装を翻して——）
-data_ws/tsukasa/voice_ms_wonder18_66_13.wav|3|…………っ
-data_ws/tsukasa/voice_card_ev_wonder_09_15_4b_39_13.wav|3|だから、咲希に聞けばすぐに……だー！そもそも、もう一度連絡先を聞くだけだろうが！
-data_ws/tsukasa/voice_ms_wonder9_59_13.wav|3|ハァ、ハァ、ハァ……。も、もう一歩も動けん……！！
-data_ws/emu/voice_ev_shuffle_01_5_32_14.wav|0|そうだ、もうすぐあたし、二人三脚に出るんだ。ミクちゃんにはそれを応援してもらって——
-data_ws/emu/voice_ms_wonder20_12_14.wav|0|わ……
-data_ws/emu/voice_sc_ev_shuffle_10_01_115_14.wav|0|じゃあ、レッツゴー！！
-data_ws/nene/voice_ev_shuffle_22_03_63_15.wav|1|ううっ、まぶしい……。舞台照明より明るいんじゃない、これ……
-data_ws/tsukasa/voice_ms_wonder13_71_13.wav|3|……静かだな。誰もいないのか？いつもはすぐにミク達がやってくるのに……
-data_ws/emu/voice_ev_shuffle_03_13_2b_25_14.wav|0|くるくる……くる、るるるる～……！あはははっ……！
-data_ws/emu/voice_sc_ev_shuffle_10_07_39_14.wav|0|それじゃあ、このお魚さんを最後は海にかえしてあげましょう！
-data_ws/nene/voice_ms_wonder16_02_15.wav|1|……っごめんなさい！
-data_ws/tsukasa/voice_ev_wonder_06_06_18_13.wav|3|庭も立派だな……！ここだけまるで海外のようだ
-data_ws/nene/voice_ev_wonder_09_08_03_15.wav|1|もう、えむってば。どんな夢見て——
-data_ws/rui/voice_card_ev_shuffle_04_16_2b_40_16.wav|2|フフ、ぬかりはないよ。まずはそこの、茂みの近くまで行こう
-data_ws/tsukasa/area3_204_005.wav|3|だもんって、はぁ……。おい、類からも何か言って……
-data_ws/nene/voice_ev_wonder_01_4_43_15.wav|1|類……？
-data_ws/nene/voice_ev_wonder_09_05_58_15.wav|1|（そういう怖さに比べたら、今は……！）
-data_ws/tsukasa/voice_card_ev_shuffle_05_13_3a_05_13.wav|3|フフフ、新しく、そして綺麗になったアレを見て、咲希も驚くに違いない！
-data_ws/tsukasa/voice_ms_wonder2_29_13.wav|3|っぐええー！
-data_ws/emu/voice_ev_wonder_03_07_09_14.wav|0|（乗るところがかわいいおさかなさんの形してて、ちっちゃい子がいっぱい遊んでて……）
-data_ws/tsukasa/areatalk_2_047_001.wav|3|次のショーの演出なんだが、跳ぶというのはどうだ？
-data_ws/rui/areatalk_2_393_004.wav|2|うん。きっと面倒事に巻き込まれる気配を察知して見てみぬふりをしたんだろうね
-data_ws/tsukasa/voice_card_26_01a_09_13.wav|3|人の背後から急に出てくるんじゃない！
-data_ws/rui/voice_card_ev_shuffle_07_16_3a_27_16.wav|2|（しばらく前に、学校で会った時も感じたけれど、何か……）
-data_ws/nene/voice_card_ev_wonder_03_15_4b_02_15.wav|1|（他の会社と提携しなくてすめば、えむが残したい今のフェニックスワンダーランドを守れる）
-data_ws/nene/voice_card_ev_wonder_04_15_4b_14_15.wav|1|…………
-data_ws/tsukasa/area3_228_001.wav|3|寧々、お前B組だったんだな。じゃあ、冬弥と同じクラスか
-data_ws/rui/areatalk_2_381_003.wav|2|あとは、仕組みがどうなっているのか知りたくてオモチャのロボットや家にあった電子機器はいくつも解体（バラ）してみたね
-data_ws/rui/voice_card_13_3b_07_16.wav|2|おやおや、わざわざ迎えに来てくれたのかい？
-data_ws/nene/voice_ev_wonder_09_03_13_15.wav|1|そんな簡単に、どうにかなるものなの……？
-data_ws/emu/area3_187_004.wav|0|えっ、それホント！？　すごーい！
-data_ws/rui/voice_card_ev_shuffle_01_21_3b_14_16.wav|2|中身は……なるほど、観覧車のおもちゃだね
-data_ws/tsukasa/voice_card_11_3b_08_13.wav|3|ああ、あのぼーっとしていた時のことか。オレは、別に大したことはしていないぞ
-data_ws/rui/voice_card_ev_wonder_01_16_4a_03_16.wav|2|（これまではステージ上を飛ぶ形で使ってきたが、男性アイドルのライブで行われるようなフライングも面白そうだ）
-data_ws/tsukasa/voice_ev_shuffle_05_02_02_13.wav|3|遊びではないぞ、これから練習を——ってコラえむ！　走って行くんじゃなーい！
-data_ws/emu/voice_ev_shuffle_01_6_31_14.wav|0|あれだけ一緒にがんばってきたんだもん！もうあたしと遥ちゃんは、最高のコンビになれてるっ！
-data_ws/emu/voice_ev_shuffle_01_4_37_14.wav|0|（や、やっぱり怖いよ～～～！！）
-data_ws/tsukasa/voice_ev_wonder_09_04_32_13.wav|3|耐えっ……はっ……、耐えてみせっ……る！！
-data_ws/rui/voice_card_ev_wonder_05_15_4b_10_16.wav|2|そして、それを狙ってえむくんのお兄さん達もしっかりHPやSNSで告知したんだろうね
-data_ws/rui/voice_card_20_01b_26_16.wav|2|その友人に似せて作ろうと思うから衣装も、それにあうように作ってもらっていいかな？
-data_ws/emu/voice_ev_wonder_04_02_49_14.wav|0|今まで以上にお客さんをいっぱい呼ぶなら、海外の会社と提携したほうがいいかもしれないってことも……
-data_ws/tsukasa/voice_card_ev_wonder_02_14_2b_34_13.wav|3|なに！？　タイミングをズラしてきただと！？
-data_ws/tsukasa/voice_card_02_3a_34_13.wav|3|なんだなんだ？　元気がないな。あいつらに会うのを一番楽しみにしていたじゃないか
-data_ws/rui/voice_card_14_02b_04_16.wav|2|ふむ。たしかにあの少女には見覚えがあるねえ
-data_ws/emu/voice_card_ev_band_06_03_4a_09_14.wav|0|もし本当だったら、誰かとケンカしちゃったのかなって思って……
-data_ws/emu/voice_ev_wonder_07_01_10_14.wav|0|えへへ♪　とっても嬉しいな～っ！！
-data_ws/tsukasa/voice_ev_shuffle_04_05_45_13.wav|3|そうだな。咲希達の分も買ってくるから、少し待っていてくれ！
-data_ws/rui/voice_card_ev_shuffle_22_15_4b_39_16.wav|2|フフ、僕ならどうするかあらかじめイメージしておいて、比較したら楽しそうだ
-data_ws/emu/voice_ev_wonder_03_03_54_14.wav|0|で、でも……っ！
-data_ws/emu/voice_card_ev_wonder_09_14_4a_38_14.wav|0|ほえ、それだけ？
-data_ws/rui/voice_card_16_01b_22_16.wav|2|はぁ……あ、そういえば司くん、虫が苦手だったねぇ？
-data_ws/emu/voice_ev_wonder_06_06_74_14.wav|0|あたしは大丈夫だよ☆もう１回やってみよー！
-data_ws/emu/voice_card_ev_wonder_02_14_2a_17_14.wav|0|うん！　毎年、着ぐるみさん達と一緒に飾りつけしてたんだけど、今年はみんなとしたいんだ♪
-data_ws/nene/area3_188_001.wav|1|今さらだけど、雲、ピンク色がかってない？
-data_ws/tsukasa/areatalk_2_043_001.wav|3|フッ……！　ハッ……！
-data_ws/rui/voice_ms_wonder9_36_16.wav|2|……へえ。……それじゃあ……
-data_ws/rui/voice_card_ev_wonder_07_15_3a_20_16.wav|2|寧々のお気に入りだからね
-data_ws/rui/voice_sc_ev_wonder_05_01_05_16.wav|2|フフフ。このスター養成スーツは、改良を重ねた結果、ステージの屋根くらいまではジャンプできるようになったんだよ
-data_ws/nene/voice_ev_wonder_09_02_76_15.wav|1|わたし達のために……？
-data_ws/rui/voice_card_ev_wonder_02_16_3a_25_16.wav|2|あった。ちゃんと再生できればいいんだが……
-data_ws/emu/voice_sc_ev_shuffle_10_02_02_14.wav|0|みんなでスイカ割りしてたんだけど、お手伝いとか片づけしてたら遅くなっちゃった……
-data_ws/emu/voice_card_ev_wonder_06_16_4b_03_14.wav|0|ほえ？　あと２公演くらいなら全然へっちゃらだよ♪
-data_ws/nene/voice_ev_wonder_06_02_89_15.wav|1|あ、それは……
-data_ws/emu/voice_ev_shuffle_01_5_50_14.wav|0|（ミクちゃんが応援してくれてるんだから、がんばらなくっちゃ！）
-data_ws/emu/voice_ms_wonder10_71_14.wav|0|でもなんとなく、しょんぼりしてるように見えたんだけどなー？
-data_ws/nene/voice_card_ev_shuffle_22_15_4b_40_15.wav|1|じゃあ、原作のゲーム貸そうか？
-data_ws/tsukasa/voice_ms_wonder15_12_13.wav|3|超がつくレベルの金持ちじゃないか！それがどうしてこんなところで！？
-data_ws/nene/voice_ev_shuffle_22_01_64_15.wav|1|うん。……ありがと
-data_ws/emu/voice_sc_ev_shuffle_10_03_15_14.wav|0|穂波ちゃん、咲希ちゃん、あたし達の準備終わったよー！
-data_ws/rui/voice_ev_shuffle_02_5_26_16.wav|2|フフ。そんな顔をしないでほしいな。今はもう、僕の想いに応えてくれる相手がいるんだ
-data_ws/rui/voice_card_ev_shuffle_01_14_4b_58_16.wav|2|えむくん、体育祭を最高のショーにするんだろう？
-data_ws/rui/voice_card_10_01b_18_16.wav|2|ああこれかい？　フフ……安心してほしいな。学校では決して使用しないとも
-data_ws/tsukasa/voice_card_ev_wonder_03_16_4b_11_13.wav|3|な、なんとか生還した……
-data_ws/tsukasa/voice_ev_shuffle_05_03_81_13.wav|3|そのあと、ひな人形を見に店へ行ったんだが小学生の小遣いでは到底買える代物ではなかった
-data_ws/rui/voice_card_fes_202112_15_4a_06_16.wav|2|フフ、正解だよえむくん
-data_ws/emu/voice_ev_wonder_06_01_64_14.wav|0|すーっごく大きいから、木登りも楽しいんだよ！お兄ちゃん達ともいっぱい登ったよねー！
-data_ws/nene/voice_ev_shuffle_22_06_15_15.wav|1|あ……ありがと。でも、結局負けちゃったわけだし
-data_ws/emu/voice_ev_shuffle_22_05_33_14.wav|0|ここから、ババーンっといっちゃうよー！えーいっ！
-data_ws/tsukasa/voice_ev_wonder_01_4_45_13.wav|3|前回はゾンビロボットに足を引っ張られてしまったが、今回は見事に決めてやるぞ！
-data_ws/rui/voice_card_ev_shuffle_07_16_3a_13_16.wav|2|まあねえ……おや、噂をすれば——
-data_ws/tsukasa/voice_card_14_3a_15_13.wav|3|とにかく、今日、ここに来るように伝えてある。この後ふたりでそいつを迎えるぞ！
-data_ws/rui/voice_ev_wonder_06_06_71_16.wav|2|……ああ。素晴らしいジャンプだったよ、えむくん！
-data_ws/tsukasa/voice_ms_wonder12_49_13.wav|3|な……っ！
-data_ws/emu/voice_ev_wonder_07_08_14_14.wav|0|……でも……
-data_ws/rui/voice_card_ev_wonder_01_16_4b_04_16.wav|2|奥行きと高さも測ったし、次は照明の数だね
-data_ws/nene/voice_card_ev_shuffle_18_26_4a_04_15.wav|1|みんな、いくよ？ワン、ツー、スリー、フォー！
-data_ws/tsukasa/voice_card_ev_shuffle_02_13_3a_31_13.wav|3|おお、だいたいの劇は衣装が遅れがちになるものだが、うちのクラスの衣装班は素晴らしいな！
-data_ws/nene/voice_card_ev_wonder_05_15_4a_22_15.wav|1|（……って、聞き入っちゃダメ！わたし達のショーに使えそうなアイディアを考えないと）
-data_ws/emu/voice_sc_ev_shuffle_10_02_06_14.wav|0|さっき遊んでる時、ピンクのかわいい貝も見つけたんだっ。メイコお姉さん達にもあげたら、きっと喜んでくれると思う！
-data_ws/emu/voice_card_ev_shuffle_10_14_4a_50_14.wav|0|あたし、それぜーんぶやってくる！
-data_ws/rui/voice_card_ev_wonder_01_16_4a_08_16.wav|2|（だが、複数人で同時にできればインパクトもあるし、印象的なシーンにもできる）
-data_ws/rui/voice_ev_shuffle_07_01_118_16.wav|2|……ああ、うん。少しね。それよりどうしたんだい？
-data_ws/emu/voice_card_ev_shuffle_16_14_4b_05_14.wav|0|思いだすと嬉しくなっちゃうなあ
-data_ws/tsukasa/voice_ms_wonder15_23_13.wav|3|え？
-data_ws/tsukasa/voice_ev_shuffle_17_07_38_13.wav|3|浜野さん！
-data_ws/nene/voice_ev_wonder_03_08_57_15.wav|1|うん。ほんと
-data_ws/emu/voice_card_ev_shuffle_01_14_4b_09_14.wav|0|みんなー！
-data_ws/nene/areatalk_2_293_003.wav|1|まあ……確かに、あれはあれで面白いけど
-data_ws/nene/voice_card_ev_shuffle_02_15_3a_28_15.wav|1|類……えっと、神代先輩なら、知りあいだから！わ、わたし、頼んでみる……！
-data_ws/tsukasa/areatalk_2_195_002.wav|3|ああ、お前と類とで準備したとかいうアレか。で、具体的に何が届くんだ？
-data_ws/rui/voice_ev_shuffle_19_03_47_16.wav|2|となると、劉備のイメージと合うのは……
-data_ws/nene/voice_ev_wonder_09_04_60_15.wav|1|それ、もっと早く言ってよ……。……まあ、結果的に採れたからいいけど
-data_ws/tsukasa/voice_sc_ev_wonder_05_04_57_13.wav|3|例の俳優と会っただとぉ！？
-data_ws/nene/voice_card_bd_202207_15_4b_62_15.wav|1|なんか、ちょっと照れくさいよね。高校生にもなって誕生日パーティーなんて
-data_ws/emu/voice_ev_shuffle_01_6_21_14.wav|0|聞いたよ！　このあとの学年対抗リレー出るんでしょ？
-data_ws/emu/voice_card_ev_wonder_08_15_4a_27_14.wav|0|あ！　でも今日は司くんにバレちゃいけないから、挨拶も小さい声にしたんだっ☆
-data_ws/emu/areatalk_2_374_003.wav|0|えへへ、バク宙みたいなアクロバット得意なんだっ☆
-data_ws/tsukasa/voice_card_ev_shuffle_02_13_3a_15_13.wav|3|ん？
-data_ws/nene/voice_ev_wonder_01_6_61_15.wav|1|アイツってすごいバカだし。なんていうんだろ？　ショーバカ？
-data_ws/tsukasa/voice_ev_wonder_09_08_04_13.wav|3|あめんぼ赤いなあいうえおーーー！！！
-data_ws/emu/voice_ms_wonder7_33_14.wav|0|うわー！　足がすっごいスピードでバタバタしてるよ～！
-data_ws/emu/voice_ev_shuffle_15_07_31_14.wav|0|あっ、こっちも大吉！これも大吉だよ～！！　また大吉！！　あっちもこっちも大吉！！
-data_ws/nene/voice_ev_wonder_09_04_41_15.wav|1|（類や司は山菜を採ってくれたし、えむだって木の実を採ってきてくれた。それなのに、まだわたしだけ何もできてない）
-data_ws/nene/area3_197_002.wav|1|は？　急に何を言いだすわけ？
-data_ws/emu/voice_card_ev_wonder_04_13_4b_63_14.wav|0|うん♪　あっ、そーだ！
-data_ws/nene/voice_card_ev_wonder_01_15_2b_48_15.wav|1|……！
-data_ws/tsukasa/voice_card_ev_wonder_04_13_4a_05_13.wav|3|そう！　今のオレ達ならば、フェニックスステージに負けないショーを確実に作れる！
-data_ws/nene/voice_card_ev_wonder_06_16_4b_09_15.wav|1|お客さん達からも歓声あがってたしね
-data_ws/tsukasa/voice_sc_ev_wonder_05_01_85_13.wav|3|さて、それでは早速演目を決めるとしよう！各自、アイディアはあるか？
-data_ws/tsukasa/voice_ms_wonder4_08_13.wav|3|帰る！　オレは帰るぞ！そうだ。あの『Untitled』って曲を止めれば……
-data_ws/tsukasa/voice_card_13_3b_01_13.wav|3|（４人でのステージは大成功だったな。観客も、オレ達も、みんな笑顔になった）
-data_ws/tsukasa/voice_card_16_01a_17_13.wav|3|へ……？
-data_ws/tsukasa/voice_ev_wonder_08_01_31_13.wav|3|へ？
-data_ws/nene/voice_card_ev_shuffle_12_13_4a_17_15.wav|1|えっと……
-data_ws/rui/voice_card_ev_wonder_07_13_4b_26_16.wav|2|特にあのワイヤーアクション……。ワイヤーがあることを感じさせないような、自然な使われかたをしていた
-data_ws/tsukasa/voice_card_ev_wonder_02_16_3b_16_13.wav|3|まあいくつかは……ヒーローステージでは、ヒーロー達が遊園地の平和を守るために悪の怪人と様々なゲームで勝負するショーだったな
-data_ws/emu/voice_card_ev_wonder_08_14_3b_34_14.wav|0|やったー！　司くん、今笑ってくれてたよね！
-data_ws/rui/voice_ev_shuffle_19_04_79_16.wav|2|信頼……
-data_ws/nene/voice_card_ev_wonder_02_14_2b_21_15.wav|1|ほら、飾りの梱包用とかでプチプチなシートもあるし。あれでキャッチすれば手も痛くないし
-data_ws/rui/areatalk_2_065_003.wav|2|なるほど。それで学校で時間潰し、を？
-data_ws/emu/voice_ev_wonder_03_02_33_14.wav|0|……なんで！？うちにだってフェニーくんやポチ公くんがいるのに……！
-data_ws/tsukasa/voice_ev_wonder_03_08_18_13.wav|3|うーーーーむ、しかし、企業との提携か……
-data_ws/tsukasa/voice_ev_wonder_03_06_73_13.wav|3|それはもちろん、この観覧車に乗るためだ！
-data_ws/nene/voice_ms_wonder11_40_15.wav|1|あとは歌って……うん、この流れは大丈夫。……でも、もう１回やっておこう
-data_ws/tsukasa/area3_214_002.wav|3|そうだな。ああいう情報はどこから仕入れてくるんだ？
-data_ws/tsukasa/area3_232_008.wav|3|類にしては安全かつ平和な提案だしな。よし、向こうに戻ってさっそく実験だ！
-data_ws/tsukasa/voice_ev_shuffle_17_01_59_13.wav|3|ああ。オレもそう思って調べてみたところ、ちょっとしたミュージアムを兼ねているようでな
-data_ws/tsukasa/voice_ev_shuffle_05_06_77_13.wav|3|これが落ち着いていられるか！！穂波がわざわざここまで来たということは咲希に何かあったんだろう！？
-data_ws/tsukasa/voice_ev_wonder_07_04_36_13.wav|3|……今、なんと言ったんだ？
-data_ws/nene/voice_card_ev_shuffle_22_15_4a_23_15.wav|1|あ、青柳くん……！？いつの間に……っていうか、今の見てたの！？
-data_ws/tsukasa/voice_ev_shuffle_02_2_20_13.wav|3|……ん？　オレは悲劇のつもりで台本を書いたんだが……
-data_ws/rui/voice_card_16_02a_18_16.wav|2|提案があるんだ。僕にネネロボを、しばらく預からせてくれないかい？
-data_ws/emu/voice_card_ev_wonder_02_25_3b_32_14.wav|0|パレード！？　いいなぁー！それすっごく見たかった～！
-data_ws/tsukasa/voice_card_bd_202205_13_4b_109_13.wav|3|これほどの多くの想いに報いていくのは時間がかかるが、最高のショーという形で返していければと思う
-data_ws/rui/voice_ev_wonder_06_02_50_16.wav|2|そして大臣のせいで、森の人々と町の人々は、大きな戦いをおこそうとしてしまう
-data_ws/rui/voice_ms_wonder11_17_16.wav|2|宣伝も着ぐるみくん達に手伝ってもらって、十分できたからね。きっとお客さんもたくさん集まるはずさ。それと……
-data_ws/tsukasa/voice_selfep_wonder_30_13.wav|3|……違う？　何が違うと言うんだ
-data_ws/rui/voice_card_ev_wonder_09_16_2b_27_16.wav|2|ん？　何がだい？
-data_ws/emu/voice_ev_wonder_04_08_66_14.wav|0|えっ！？
-data_ws/emu/voice_ev_wonder_07_01_39_14.wav|0|はい！　これで全部だよ！
-data_ws/emu/voice_ev_wonder_01_2_35_14.wav|0|『優勝したユニットは、フェニックスワンダーランドの宣伝大使となり、テレビCMに起用される』だって
-data_ws/emu/voice_ev_wonder_01_7_69_14.wav|0|……えへへっ♪類くん、とっても楽しそうだね！
-data_ws/tsukasa/voice_ev_shuffle_05_08_19_13.wav|3|……それに、咲希の気持ちも考えず、勝手にひな人形を取り替えてしまったこともそうだ
-data_ws/tsukasa/voice_ev_shuffle_12_06_38_13.wav|3|ああ、教えるにしても、オレ達がやっている方法がいいと思ってな。では、準備ができ次第始めるぞ！
-data_ws/nene/voice_ev_wonder_09_05_34_15.wav|1|ど……どうしてわたしなの！？
-data_ws/tsukasa/voice_card_21_wonder_02a_35_13.wav|3|だが、型にはまらない、ということ自体は大事なことだな。それに気づけただけでも、ここに来てよかったかもしれないな
-data_ws/nene/voice_card_ev_wonder_06_16_4b_46_15.wav|1|それもいいけど、今日は打ち上げのために来たんでしょ
-data_ws/rui/voice_ms_wonder17_33_16.wav|2|昨日のことかい？それなら、別に話すことはないだろう。それより……
-data_ws/tsukasa/voice_card_13_02a_37_13.wav|3|……おい、オレはこっちからやる。お前はそっちのはしからだ
-data_ws/nene/voice_card_ev_wonder_06_15_4a_15_15.wav|1|次のショー、絶対、成功させたいね。この遊園地のためにも、類のためにも
-data_ws/nene/voice_card_ev_band_03_01_3b_48_15.wav|1|あ……。じゃあ、歌の練習はもう……
-data_ws/rui/voice_card_fes_202112_16_4b_79_16.wav|2|ああ……！やりたい演出が次から次へとわいてくる！
-data_ws/nene/voice_ev_shuffle_04_07_09_15.wav|1|は、話ってなに……？
-data_ws/emu/voice_card_03_01b_16_14.wav|0|……あれ？でも、ただ驚かせるだけじゃ、どっきりじゃないんだっけ？
-data_ws/rui/voice_card_fes_202112_16_4a_52_16.wav|2|……ふむ
-data_ws/rui/voice_ev_wonder_02_7_28_16.wav|2|フフ
-data_ws/rui/voice_card_ev_shuffle_02_26_4b_19_16.wav|2|仮に、この場にいる全員が演者になっても、まだ足りないはずだ
-data_ws/emu/voice_card_ev_wonder_01_14_3a_36_14.wav|0|うん、この子だよ？ちゃりーん♪
-data_ws/tsukasa/voice_ev_shuffle_17_03_20_13.wav|3|どわっ！レ、レン！？
-data_ws/rui/voice_ev_wonder_07_06_68_16.wav|2|今日は、迷子の子と一緒にあちこち見ている時、何かメモをしたり、考えこんでいるような顔をしていたしね
-data_ws/rui/voice_card_ev_wonder_03_16_4a_25_16.wav|2|そして今も、多くの観客にショーと笑顔を届けられている
-data_ws/rui/voice_ms_wonder5_38_16.wav|2|君をずっと見ていたからさ
-data_ws/rui/voice_card_ev_shuffle_19_16_4a_31_16.wav|2|（……ありがとう、みんな。きっと最後までやり遂げてみせるよ）
-data_ws/emu/voice_ev_shuffle_03_13_1_37_14.wav|0|さあ、いくよミクちゃん！
-data_ws/rui/voice_card_ev_wonder_03_16_4a_21_16.wav|2|……仕方ない。じゃあ、かわりに僕の話をしよう
-data_ws/nene/voice_card_ev_shuffle_04_16_2b_04_15.wav|1|はぁ……
-data_ws/rui/voice_ev_shuffle_19_01_60_16.wav|2|……２年の神代類です。よろしくお願いします、団長
-data_ws/emu/voice_ev_shuffle_19_03_57_14.wav|0|あたしも、体育祭の日は遠くからギューンと応援パワーを送るよ！
-data_ws/tsukasa/voice_ev_wonder_07_05_34_13.wav|3|また急に走り出したぞ！どこに行く気だ！？
-data_ws/tsukasa/voice_ev_wonder_01_3_58_13.wav|3|しかし、主人公の危機の演出としては良かった！この調子で、面白い演出を頼むぞ、類！
-data_ws/tsukasa/voice_ev_wonder_09_07_159_13.wav|3|…………
-data_ws/nene/voice_ev_shuffle_12_06_84_15.wav|1|ちょっと。司はともかく、星乃さん達に何する気？少しは加減を——
-data_ws/nene/voice_sc_ev_wonder_05_03_64_15.wav|1|ナ、ナイトチケットも販売中です！
-data_ws/tsukasa/voice_card_ev_shuffle_17_13_4a_37_13.wav|3|それはありがたい。だが……
-data_ws/tsukasa/voice_card_ev_wonder_06_13_3a_28_13.wav|3|最悪、ヤツらの出現によって観客が混乱し、それまでに作った空気が台無しに……いや、ショーが中断される可能性も高い！
-data_ws/emu/voice_card_ev_wonder_08_16_4a_17_14.wav|0|あ！　それあたしももっと知りたいって思ってたんだ！類くん、教えて～！
-data_ws/tsukasa/voice_card_ev_shuffle_02_13_3b_47_13.wav|3|だからこそ、役者の息づかいが、演じる世界が、ダイレクトに見ている人達に届き、そして舞台の世界へと引きこんでいく！
-data_ws/emu/voice_sc_ev_shuffle_10_03_84_14.wav|0|うんっ、そうしよ☆じゃああたし、次の班の子達呼んでくるね～！
-data_ws/emu/voice_ev_wonder_07_04_56_14.wav|0|え？
-data_ws/nene/voice_card_bd_202205_13_4b_102_15.wav|1|今、道連れってはっきり言ったよね
-data_ws/nene/voice_card_15_02a_08_15.wav|1|今日ネネロボは観客役だから、わたしが歌うの、そこで見てて
-data_ws/tsukasa/voice_card_ev_shuffle_02_13_3a_02_13.wav|3|いやこれはむしろ、黙してこの未来のスターの意見を待っているということか！
-data_ws/emu/voice_card_ev_wonder_01_14_3b_36_14.wav|0|このままずっと変わらないで残っててほしいなぁ
-data_ws/emu/voice_card_ev_wonder_08_15_4a_23_14.wav|0|コンコーン。寧々ちゃん、いますかーっ？
-data_ws/emu/voice_ev_wonder_01_3_09_14.wav|0|ならく？
-data_ws/tsukasa/voice_ms_wonder3_26b_13.wav|3|しかしこのステージ、どこかで見たことがあるような……？
-data_ws/nene/voice_card_15_01b_46_15.wav|1|…………ふふ
-data_ws/tsukasa/voice_card_ev_shuffle_01_14_4b_07_13.wav|3|まあ、ショーと言うからには、オレ達には『成功』という二文字しか許されないがな！
-data_ws/rui/voice_ev_wonder_03_08_04_16.wav|2|しかも、契約日は間もなく……。まさかそこまで差し迫っていたなんてね
-data_ws/tsukasa/voice_ms_wonder18_03_13.wav|3|……見てほしいものがある
-data_ws/rui/voice_card_ev_shuffle_02_15_3b_15_16.wav|2|いや……案外いい視点かもしれない。主人公が複数……つまり、群像劇だ
-data_ws/rui/voice_ev_wonder_02_4_37_16.wav|2|……やっぱり、昔のことが原因みたいだね
-data_ws/nene/voice_card_ev_wonder_07_15_3b_31_15.wav|1|（ふふ。星乃さん達分も買っちゃった。今度、歌の練習をする時に渡したいな）
-data_ws/rui/voice_unit_piapro16_07_16.wav|2|本当にいろいろと助けてもらったからねえ。僕からも感謝させてほしいな
-data_ws/emu/voice_card_ev_wonder_06_14_4b_14_14.wav|0|（ジャンプのシーン、ちゃんと成功できてよかった！）
-data_ws/tsukasa/voice_ms_wonder1_03_13.wav|3|まずは今日！　キャストオーディションに余裕の合格ッ！
-data_ws/tsukasa/voice_ev_shuffle_17_04_07_13.wav|3|おお、いいアイディアだな！オレもああいったものを贈ってみるか……？
-data_ws/emu/voice_ev_shuffle_16_04_15_14b.wav|0|わー、ほんとだ！フェニーくんも描きたいな～☆
-data_ws/nene/voice_ms_wonder17_05_15.wav|1|うん。小学生の頃から、家が隣同士だから
-data_ws/tsukasa/voice_ev_shuffle_17_08_39_13.wav|3|ああ、チョコレートファクトリーでショーをやったんだが、そのショーが好評となったため、特別に大きなチョコの作りかたを教えてもらえたのだ！
-data_ws/nene/voice_card_fes_202112_16_4a_06_15.wav|1|ふふっ。なんかすっごいのって、もうちょっと他に言いようがあるでしょ
-data_ws/emu/voice_card_ev_wonder_06_15_4a_38_14.wav|0|どうぞー、座って座って！
-data_ws/tsukasa/voice_card_bd_202205_13_4a_48_13.wav|3|さて……
-data_ws/nene/voice_card_ev_shuffle_02_26_4b_23_15.wav|1|そうじゃなくて。中身の話
-data_ws/tsukasa/voice_card_ev_wonder_01_13_4a_46_13.wav|3|（つまり、それだけ精巧なマスクを保管できる場所があるということか……！）
-data_ws/emu/voice_ms_wonder12_07_14.wav|0|類くん類くん！　みんな笑ってるよ！
-data_ws/tsukasa/voice_card_ev_shuffle_17_23_2a_01_13.wav|3|すまん、レン！電話がかかってきてしまったらしい
-data_ws/emu/voice_ev_wonder_09_03_52_14.wav|0|えへへ、あっちのほうにおいしそうな木の実が落ちててね、しゃがんで拾ってたら草のトンネルを見つけたの！
-data_ws/tsukasa/voice_card_ev_wonder_05_24_4b_49_13.wav|3|ふっ、お前らもよく戦ったが、相手が悪かったなぁ
-data_ws/emu/voice_card_ev_wonder_09_15_4b_65_14.wav|0|うん！　途中で連絡取れなくなっちゃったし、ミクちゃん達に、帰ってこれたよって伝えなくっちゃね！
-data_ws/nene/voice_card_ev_wonder_03_15_4a_01_15.wav|1|……えむ、帰っちゃったけど、本当に大丈夫かな
-data_ws/nene/voice_ev_shuffle_22_04_02_15.wav|1|なんか、どっと疲れた……
-data_ws/tsukasa/voice_ev_wonder_04_08_77_13.wav|3|ああ……いや……。なんと言えばいいんだろうか
-data_ws/rui/voice_ev_wonder_06_06_10_16.wav|2|ああ、バッチリだったよふたりとも！
-data_ws/emu/voice_card_ev_wonder_02_14_2b_08_14.wav|0|あっ！　それ着ぐるみさんも言ってた！写真を撮ってる人すごくたくさんいたんだって！
-data_ws/emu/voice_ev_shuffle_16_03_72_14.wav|0|——あっ！　じゃなくて！おかしなおうちの話とかいいかな～って！
-data_ws/tsukasa/voice_ev_wonder_01_8_13_13.wav|3|それで、結果はどうなんだ！？
-data_ws/rui/voice_ev_shuffle_02_6_46_16.wav|2|それぞれが、それぞれの作ったショーを楽しんでいる
-data_ws/rui/voice_card_16_01b_38_16.wav|2|おや……行ってしまったね
-data_ws/tsukasa/voice_card_15_3a_22_13.wav|3|『コッペリア』だと！？このオレにふさわしい曲じゃないか！よし、採用だ！
-data_ws/nene/voice_sc_ev_wonder_05_03_80_15.wav|1|……え？この声……もしかして——
-data_ws/emu/voice_ev_wonder_02_5_13_14.wav|0|……じゃあ、昔のことをいっぱい思いだせればいいのかな？
-data_ws/rui/areatalk_2_208_005.wav|2|フフ、そんな面白そうな作品があったなんてね。ありがとう、えむくん。参考にさせてもらうよ
-data_ws/emu/voice_card_ev_wonder_04_14_4a_18_14.wav|0|みんな、ありがとう！一緒にがんばろっ！！
-data_ws/nene/voice_ev_shuffle_22_03_69_15.wav|1|えっ、さすがに恥ずかしくない？
-data_ws/tsukasa/voice_card_13_01b_14_13.wav|3|ふふんっ。そうだろう！　そうだろう！
-data_ws/rui/voice_ev_shuffle_07_07_54_16.wav|2|結び目もしっかりしてる。これなら使えるね
-data_ws/nene/voice_card_ev_wonder_08_15_4b_37_15.wav|1|（でも、今回はたしかに——）
-data_ws/nene/voice_card_16_02b_22_15.wav|1|……はぁ。……どどどどど……
-data_ws/rui/areatalk_2_008_003.wav|2|ふむ、ならば10秒ほど待っていてくれ
-data_ws/nene/voice_card_ev_shuffle_01_14_4b_37_15.wav|1|さっきはこのあたりで片づけしてたのに……あ！
-data_ws/nene/voice_card_fes_202112_16_4a_17_15.wav|1|ひとりはわかるかも。類が尊敬してる演出家の人でしょ？
-data_ws/nene/voice_card_ev_shuffle_08_23_4a_32_15.wav|1|カリスマ性が輝くって、何言ってんの？
-data_ws/emu/voice_card_15_3a_06_14.wav|0|おお～、楽しそう！やろやろ！
-data_ws/tsukasa/voice_ev_wonder_01_3_41_13.wav|3|うわーっ！！
-data_ws/tsukasa/voice_ev_wonder_04_08_108_13.wav|3|これは、オレ達の素晴らしいショーを全国に披露するチャンス！というわけだな！
-data_ws/tsukasa/voice_ms_wonder7_51_13.wav|3|こ、こいつ聞こえて……！？オレは世界一のスターになる男だ！　そんな不安、あるわけないだろう！
-data_ws/emu/voice_ev_wonder_01_7_28_14.wav|0|……む？　あそこにハシゴがかかってる！上まで行けちゃいそうだね！
-data_ws/nene/voice_card_13_3b_38_15.wav|1|……かくれんぼしてる途中の子たちをパフォーマンスでおびき出すってなんなの。意味不明
-data_ws/emu/voice_ms_wonder6_33_14.wav|0|わあ～！　昨日のショーの人だ！ようこそわんだほ～い☆
-data_ws/rui/voice_ev_wonder_09_05_36_16.wav|2|そして網を投げるのは、僕とえむくんの役目だ。寧々は猿達に食料がたっぷり入ったバケツをチラつかせながら、うまく僕達の近くに寄ってきてほしい
-data_ws/tsukasa/voice_ev_shuffle_18_06_36_13.wav|3|そういえば……。セカイに花がないわけではないんだな
-data_ws/tsukasa/voice_ms_wonder16_56_13.wav|3|だからオレは……挑戦した勇気のある仲間を責めるようなことは、しちゃいけなかった
-data_ws/nene/voice_ev_wonder_04_01_29_15.wav|1|いや、なんなのこのテンション……。今日するのって、例の方針転換をどうするかって話しあいでしょ？
-data_ws/rui/voice_ev_shuffle_08_01_69_16.wav|2|カーボン抵抗器は、予備も入れてこれくらいかな。ああ、圧着端子も買っておこうか
-data_ws/rui/voice_ev_shuffle_07_08_08_16.wav|2|『ふふ、それは難しいお願いだねえ』
-data_ws/nene/voice_card_ev_shuffle_04_16_2b_08_15.wav|1|ん、まあね……。でも、連絡先とか何も交換しなかったなぁって思って……
-data_ws/nene/voice_card_ev_wonder_05_24_4a_06_15.wav|1|ルカさんは大丈夫？
-data_ws/tsukasa/voice_card_bd_202207_15_4b_23_13_b.wav|3|お、おお、勝手に顔の表情が変わるとは、なかなか面白そうではないか！よければ協力するぞ！
-data_ws/emu/voice_card_ev_shuffle_16_07_4a_31_14.wav|0|お～。バレンタインっぽい！
-data_ws/emu/voice_ev_wonder_04_02_92_14.wav|0|お願いします！あたし達と一緒に、ショーをやってください！
-data_ws/rui/voice_card_ev_wonder_02_16_3b_37_16.wav|2|僕達はうまく演じ分けができているからね
-data_ws/emu/voice_card_ev_wonder_03_14_4a_37_14.wav|0|（ここを大事に思ってくれてるのは、咲希ちゃんだけじゃない）
-data_ws/nene/voice_card_ev_shuffle_10_14_4b_25_15.wav|1|たしかに、話しに来たくなるのもわかるかも
-data_ws/tsukasa/voice_card_13_02a_08_13.wav|3|待て待てーい！突如現れ、矢継ぎ早にしゃべるな！
-data_ws/emu/voice_ev_wonder_07_04_66_14.wav|0|あれ、どうしたのー？あたしの足にぴたーってくっついて
-data_ws/tsukasa/areatalk_2_288_001.wav|3|とうっ……ハッ！どうだ！　オレの渾身のポージング……って、おい！
-data_ws/emu/voice_card_ev_wonder_09_13_4b_39_14.wav|0|あとね！　公演が終わったあと、水上スキーして遊んだんだー♪
-data_ws/rui/voice_card_10_01b_29_16.wav|2|ああ、肝に銘じておくよ
-data_ws/tsukasa/voice_ev_wonder_04_02_17_13.wav|3|えむ！　類！そっちはどうだ？
-data_ws/nene/voice_card_ev_wonder_04_15_4b_10_15.wav|1|えっと……ワ、ワンダーステージっていうところで、一緒にショーをしてるから……
-data_ws/emu/voice_ev_wonder_09_04_66_14.wav|0|うんうんっ、これでみんなお腹いっぱいになれるよね！
-data_ws/rui/voice_ev_shuffle_19_02_58_16.wav|2|（きっと、この熱量を生んでいるのは……）
-data_ws/emu/voice_ev_shuffle_01_3_46_14.wav|0|えへへ♪　次の話しあいには、みんなが笑顔で楽しめちゃう競技をい～っぱい持ってきます！　それじゃあ、いってきまーす！
-data_ws/nene/voice_ev_wonder_09_01_09_15.wav|1|えむ！大丈夫？
-data_ws/emu/voice_unit_piapro16_01_14.wav|0|ミックッちゃーーーーん！！
-data_ws/tsukasa/voice_ev_shuffle_17_06_34_13.wav|3|（……湯せんが終わったら、型に入れ冷やして、トッピングをして——それで終了だ）
-data_ws/rui/voice_card_21_wonder_02a_21_16.wav|2|ああ、元気だよ。司くんもこの通り
-data_ws/emu/voice_ev_shuffle_01_7_40_14.wav|0|そうだ、ミクちゃん！よかったら、これからも学校に遊びに来てほしいな
-data_ws/rui/voice_ev_wonder_07_02_27_16.wav|2|いやぁ、翻訳機能もつけていたから試してみたかったんだけどねえ
-data_ws/nene/voice_ms_wonder17_65_15.wav|1|……司……
-data_ws/emu/voice_card_ev_shuffle_16_14_4b_02_14.wav|0|（お姉ちゃん達へのサプライズも楽しみ♪）
-data_ws/tsukasa/voice_card_ev_wonder_08_14_3b_19_13.wav|3|だが、どうにかして見つけるしかない。とにかく教室に行ってもう一度原作を——
-data_ws/tsukasa/voice_ev_wonder_03_05_08_13.wav|3|……なるほど、妙にイライラしていると思ったらそういうことか。尚更、待たせて悪かったな
-data_ws/tsukasa/voice_card_ev_shuffle_12_13_4a_12_13.wav|3|珍しいな……。まあ、遠慮はいらん。言ってみろ！
-data_ws/nene/voice_ev_wonder_02_6_12_15.wav|1|ふふっ。ヘタだなぁ。音も外れてるし
-data_ws/tsukasa/voice_ms_wonder7_22_13.wav|3|会話できるなら、その草薙寧々とやらに一言言わせてもらおう！
-data_ws/tsukasa/voice_ev_wonder_02_4_53_13.wav|3|新しいショー？今度はどんなのを作ったんだ？
-data_ws/emu/voice_ev_shuffle_01_8_37_14.wav|0|あたしは明日もショーをやるよ！みんなが笑顔になれるようにっ！
-data_ws/rui/voice_card_ev_shuffle_17_13_4a_02_16.wav|2|みんな、かなり仕上がってきたね。この調子なら、次の通常公演も問題なさそうだ
-data_ws/nene/voice_ev_wonder_02_8_86_15.wav|1|ふふ。ショーで雪が降ったら、ミク達も喜んでくれるかもね
-data_ws/emu/voice_ev_wonder_04_08_27_14.wav|0|ごめんなさい！
-data_ws/rui/voice_ev_shuffle_19_01_64_16.wav|2|まずはどんなものを作ろうとしているのか教えていただきたいと思いまして
-data_ws/tsukasa/voice_card_ev_shuffle_12_13_4b_07_13.wav|3|ああ。……ん、そういえばミクがいないな。こういう時、真っ先に会話に入ってきそうなのに
-data_ws/tsukasa/voice_card_ev_wonder_06_22_2a_16_13.wav|3|そうか。ならば心配いらないな
-data_ws/nene/voice_ms_wonder12_25_15.wav|1|どうして？　どうして動かないの？
-data_ws/rui/voice_ev_wonder_03_03_87b_16.wav|2|……それとも、理想を追い求める過程でそれを諦めてしまったのでしょうか？
-data_ws/nene/voice_card_bd_202207_15_4b_01_15.wav|1|——わ、なんか立食パーティーみたいな感じになってる
-data_ws/nene/voice_ev_shuffle_22_04_56_15.wav|1|……！
-data_ws/nene/voice_ev_shuffle_06_01_22_15.wav|1|……うん。わたしも同じだったから、わかるんだ
-data_ws/tsukasa/voice_ev_wonder_02_1_62_13.wav|3|な、なんだと！？ちょっとばかり歌えるからといって調子に乗るな！
-data_ws/nene/voice_card_ev_wonder_04_15_4a_29_15.wav|1|（でも……。わたしの教えかたで、みんな本当にうまくなれるのかな）
-data_ws/rui/voice_card_ev_wonder_06_14_4a_29_16.wav|2|ありがとうございます。ですが、今のところは特にありませんよ
-data_ws/rui/voice_card_10_01b_21_16.wav|2|おや……。知ったら後悔するかもしれないよ？
-data_ws/emu/voice_card_14_3a_17_14.wav|0|それじゃあ、急いでお出迎えの準備をしなくちゃだね！
-data_ws/emu/voice_ev_shuffle_16_06_44_14.wav|0|えへへ♪　今、とーってもスイートな気分だから、歌っちゃいたい気分だなぁって！
-data_ws/rui/voice_ev_wonder_04_01_76_16.wav|2|ズバリ、このショーでは——フェニックスワンダーランドにいるすべてのキャストとスタッフを巻きこもうと思ってるんだ
-data_ws/rui/voice_card_20_01b_17_16.wav|2|衣装……確かに、必要になりそうではあるね
-data_ws/nene/voice_card_ev_wonder_03_15_4a_24_15.wav|1|…………
-data_ws/nene/areatalk_2_038_006.wav|1|はいはい。本当に親切心で教えようって人は、二回も繰り返さないから
-data_ws/nene/voice_ev_shuffle_22_05_67_15.wav|1|（な……こんな連鎖、見たことない……！）
-data_ws/nene/voice_ev_wonder_02_5_54_15.wav|1|え？
-data_ws/rui/areatalk_2_061_001.wav|2|フフフ……司くん、試作品だけど『ポップアップ』を作ってみたんだ。試してみるかい？
-data_ws/emu/voice_ev_wonder_09_08_31_14.wav|0|そうかも！みんなでいろんなことやったしね！
-data_ws/tsukasa/area3_190_002.wav|3|まずはアイディア出しだな
-data_ws/rui/area3_183_004.wav|2|もしや、司くんは裁縫ができるのかい？
-data_ws/nene/voice_ev_shuffle_22_02_64_15.wav|1|うう……
-data_ws/emu/voice_ev_wonder_07_06_39_14.wav|0|きっと、みんなを笑顔にするにはどうしたらいいんだろうって、いっぱいいっぱい考えたんだろうなって思って……
-data_ws/tsukasa/voice_card_ev_wonder_01_14_3a_37_13.wav|3|パンダって、その乗り物のパンダか！？
-data_ws/emu/voice_card_14_02b_06_14.wav|0|やっぱり、みんなも気づいてた？
-data_ws/tsukasa/voice_card_ev_shuffle_04_13_3a_47_13.wav|3|ま、まさか！本物が紛れていたんじゃないだろうな！？
-data_ws/rui/voice_card_ev_wonder_06_16_4a_32_16.wav|2|フフ。昔だからこそ、もう気にしていないと言ったじゃないか
-data_ws/nene/voice_card_ev_wonder_06_15_4b_39_15.wav|1|それに、最近ちょっと体力もついてきたし、できることを増やして、演出の幅も広げられたらって思って
-data_ws/nene/voice_card_15_3a_54_15.wav|1|ホント、変なバカ……
-data_ws/rui/area3_194_004.wav|2|高評価ありがとう、司くん。これは次のショーの演出も腕によりをかけて考えなくてはね
+data_ws/rui_voice/voice_card_fes_202112_16_4a_51_16.wav|2|ん？　これは……
+data_ws/rui_voice/voice_ev_wonder_08_02_73_16.wav|2|……いや。やっぱりもう少し考えたいな
+data_ws/emu_voice/voice_ev_wonder_07_04_62_14.wav|0|あ！　これもメモメモしなくっちゃ！
+data_ws/rui_voice/voice_card_ev_night_06_20_4b_52_16.wav|2|お互い、望む自分であり続けることはなかなか大変かもしれない
+data_ws/rui_voice/voice_card_14_02b_41_16.wav|2|フフ、いい反応をしてくれるからつい腕を振るってしまったよ
+data_ws/tsukasa_voice/voice_ev_shuffle_05_04_13_13.wav|3|ふっ、これはすべて、ひな祭りのパーティーグッズだ！
+data_ws/tsukasa_voice/voice_ev_wonder_08_06_19_13.wav|3|（となると、何かヒントを得られるかもしれないぞ……！）
+data_ws/tsukasa_voice/voice_ev_wonder_08_03_66_13.wav|3|『いや……それならば慣れるまでやるべきだ！よし、人前でピアノの練習を——』
+data_ws/rui_voice/voice_card_ev_wonder_03_15_4b_33_16.wav|2|……ここならうまく身を隠せるかな
+data_ws/rui_voice/voice_card_ev_wonder_06_16_4a_05_16.wav|2|……ああ、あの話かい？聞いて気持ちのいい話ではなかったと思うけど……
+data_ws/rui_voice/voice_card_bd_202111_11_4a_34_16.wav|2|フフ。それより司くん、アレを渡さなくていいのかい？
+data_ws/tsukasa_voice/voice_ev_wonder_01_2_62_13.wav|3|『ポテトゴースト』？
+data_ws/emu_voice/voice_card_ev_wonder_08_14_3a_50_14.wav|0|やったー！　ありがとう、類くん！
+data_ws/rui_voice/voice_ev_shuffle_02_7_02_16.wav|2|やあ瑞希くん。今日は遅いじゃないか。もう３時間目だよ
+data_ws/emu_voice/voice_card_ev_wonder_05_14_2a_51_14.wav|0|う～み♪　う～み♪みんなでう～み♪
+data_ws/emu_voice/voice_ms_wonder16_64_14.wav|0|わ～いっ！またよろしくね、寧々ちゃん！　ネネロボちゃん！
+data_ws/tsukasa_voice/voice_card_ev_wonder_08_15_4b_28_13.wav|3|しかし……。そうか、なるほどな
+data_ws/tsukasa_voice/voice_ev_wonder_07_02_59_13.wav|3|わ、わわわ、わかったー！
+data_ws/tsukasa_voice/voice_card_02_3a_37_13.wav|3|ふむ。久しぶりの再会で、照れ隠しでもしているんじゃないか？
+data_ws/tsukasa_voice/voice_card_bd_202203_09_4b_70_13.wav|3|宮女のみならず、神高にも知りあいが大勢いるとはな！これからも、その友情を大切に仲良くするんだぞ！もちろん、オレ達のこともよろしく頼む
+data_ws/tsukasa_voice/voice_card_ev_wonder_07_14_4b_55_13.wav|3|ん？
+data_ws/emu_voice/voice_card_ev_shuffle_12_13_4a_75_14.wav|0|あははっ
+data_ws/emu_voice/voice_card_ev_wonder_02_14_2b_14_14.wav|0|あれ？　あははっ、ほんとだー！
+data_ws/emu_voice/voice_card_ev_wonder_03_15_4a_56_14.wav|0|ねーねーちゃ～ん♪
+data_ws/tsukasa_voice/voice_card_ev_wonder_05_15_4b_41_13.wav|3|（あの合図は……！）
+data_ws/emu_voice/voice_card_ev_shuffle_16_14_4a_48_14.wav|0|——じゃーん！　名付けて、『わんだほい☆セカイケーキ』！
+data_ws/tsukasa_voice/voice_card_13_02a_20_13.wav|3|おい、それでどう掃除するつもりだ？
+data_ws/tsukasa_voice/voice_ev_shuffle_05_04_30_13.wav|3|ハッハッハ！　咲希の驚く顔が楽しみだな！
+data_ws/rui_voice/voice_card_fes_202112_16_4b_29_16.wav|2|——じゃあみんな、用意はいいかい？
+data_ws/emu_voice/voice_sc_ev_shuffle_10_03_78_14.wav|0|うん！　みんなでわんだほーいな演奏にしようね！
+data_ws/emu_voice/voice_ev_shuffle_22_02_44_14.wav|0|はーい、あたしが書いちゃうね！さらさらさら～っと！
+data_ws/rui_voice/voice_ev_wonder_06_02_53_16.wav|2|そうして将校の部屋に行くべく木に登るものの、窓まで伸びていた木の枝は切られてしまっている
+data_ws/tsukasa_voice/voice_ms_wonder9_57_13.wav|3|じゃあこれで……どうだっ！
+data_ws/rui_voice/areatalk_2_205_005.wav|2|おや、そうかい？せっかくいい案が浮かんだのに
+data_ws/nene_voice/voice_card_ev_shuffle_22_15_4a_01_15.wav|1|（……遊びに来ちゃった）
+data_ws/tsukasa_voice/voice_ev_shuffle_05_05_63_13.wav|3|今朝、新しい人形と古い人形を交換したんだが、咲希に、古いもののほうがいいと言われてしまってな……
+data_ws/tsukasa_voice/voice_ev_wonder_01_1_82_13.wav|3|ショーコンテスト……だと！？
+data_ws/tsukasa_voice/voice_card_ev_shuffle_04_13_3b_17_13.wav|3|なぁに。ワンダーランズ×ショウタイムを結成したばかりの頃は、わけあって１日に５公演もしていたからな
+data_ws/nene_voice/voice_ev_wonder_06_07_77_15.wav|1|…………
+data_ws/rui_voice/voice_sc_ev_wonder_05_08_51_16.wav|2|というわけで、初の宣伝大使の成功を祝して、コレをやろうと思うんだ
+data_ws/rui_voice/voice_card_fes_202112_16_4b_32_16.wav|2|（こんな不思議な場所でも、君達は君達なんだね……）
+data_ws/tsukasa_voice/voice_card_ev_shuffle_04_13_3a_26_13.wav|3|まあ、一晩寝たらすぐよくなったし、ごく普通の風邪だったんだが……
+data_ws/tsukasa_voice/voice_card_ev_shuffle_02_15_3b_24_13.wav|3|お、何かひらめいたか！？
+data_ws/nene_voice/voice_card_15_02a_40_15.wav|1|でも変な機能つけたら、怒るからね？
+data_ws/emu_voice/voice_card_13_3a_25_14.wav|0|王子なんて、ここでぺっちゃんこにしちゃうぞ～！
+data_ws/emu_voice/voice_ev_shuffle_03_07_08_14.wav|0|よいしょっ！
+data_ws/tsukasa_voice/voice_card_ev_band_04_02_4a_28_13.wav|3|それはわからんな
+data_ws/rui_voice/voice_card_ev_wonder_04_13_4b_65_16.wav|2|なるほど。僕達の名前がそれなりに広まっている今なら、いい話題性を作れそうだね
+data_ws/emu_voice/voice_card_ev_shuffle_04_03_4a_21_14.wav|0|すっごく楽しんでくれてるみたいだね！あたしも、このおばけ屋敷お気に入りだから嬉しいなっ☆
+data_ws/tsukasa_voice/voice_ev_shuffle_17_07_10_13.wav|3|（何があったかはわからんが、せめて浜野さんも納得できる形で——）
+data_ws/rui_voice/voice_card_ev_wonder_04_13_4b_04_16.wav|2|多分、ショーコンテストのおかげじゃないかな。第１回、第２回ともに上位に食いこんでいたからね
+data_ws/rui_voice/voice_ev_shuffle_08_07_45_16.wav|2|しかし、それは今まさに、名も知らぬ誰かに奪われようとしている
+data_ws/tsukasa_voice/voice_card_ev_wonder_09_13_4b_05_13.wav|3|あ、そうだ！スマホ、一瞬でもいいからつかんだろうか……
+data_ws/rui_voice/voice_ev_wonder_02_1_34_16.wav|2|具体的には……『スマイリング・クリスマス』なんてどうだい？
+data_ws/tsukasa_voice/voice_card_ev_shuffle_07_16_3b_71_13.wav|3|なんだ、笑わせたいヤツがいるのか？
+data_ws/emu_voice/voice_ev_wonder_03_04_58_14.wav|0|……うん
+data_ws/tsukasa_voice/voice_card_ev_shuffle_04_13_3b_35_13.wav|3|その答えをくれたのが、あのミュージカルショーだった
+data_ws/nene_voice/area3_211_002.wav|1|練習してるし、それにコントローラーの操作ならゲームで慣れてるから
+data_ws/tsukasa_voice/voice_card_bd_202206_16_4a_35_13.wav|3|……なるほど、本当にど定番でいいんだな
+data_ws/nene_voice/voice_card_bd_202207_15_4a_53_15.wav|1|え……まあ、振り回されることもあるけど、類に比べれば全然ましだし……
+data_ws/nene_voice/voice_card_15_01a_38_15.wav|1|……ふう
+data_ws/tsukasa_voice/voice_ev_shuffle_04_08_40_13.wav|3|見とらんぞ！！寧々がひとりでニヤニヤしている姿なんぞ……
+data_ws/rui_voice/voice_card_16_3a_14_16.wav|2|キャストとして扱ってもらえるとは言っても、おとがめなしだなんてありえないんじゃないかと思ってね
+data_ws/nene_voice/voice_ev_shuffle_02_8_37_15.wav|1|どうせまたロクなこと考えてないんでしょ……
+data_ws/emu_voice/voice_card_ev_wonder_01_14_3a_23_14.wav|0|でも、ちゃんと司くんを見つけて、話もしたんだよ♪
+data_ws/tsukasa_voice/voice_card_ev_wonder_06_13_3a_22_13.wav|3|苦手なものは仕方がないだろう
+data_ws/emu_voice/voice_ev_wonder_07_02_29_14.wav|0|あれれ？司くんどこだろー？
+data_ws/rui_voice/voice_card_ev_wonder_01_16_4a_34_16.wav|2|よし。これでネネロボのメンテナンスはおしまいだよ
+data_ws/tsukasa_voice/voice_ev_wonder_08_01_28_13.wav|3|ああ、世に羽ばたいた多くのスターが無名の時代にショーをしたという歴史ある場所……！
+data_ws/emu_voice/voice_card_ev_wonder_02_14_2a_61_14.wav|0|よーし！　この調子でどんどんいっちゃうよー！とう！　てやーっ！
+data_ws/emu_voice/voice_ev_wonder_03_03_51_14.wav|0|今あるアトラクションを壊さないままお客さんを集める方法、他にもいっぱい考えてきたの！だから——
+data_ws/rui_voice/voice_ev_wonder_08_04_06_16.wav|2|そうだね。その点は僕も同意だ
+data_ws/nene_voice/voice_ev_shuffle_16_08_20_15.wav|1|うん、すごく嬉しい。ありがとう、えむ
+data_ws/tsukasa_voice/voice_card_13_3b_03_13.wav|3|……よし！
+data_ws/nene_voice/voice_ev_shuffle_04_06_10_15.wav|1|あ、うん……。さっき、星乃さん達が深刻な雰囲気だったから気になって
+data_ws/tsukasa_voice/voice_card_ev_wonder_01_13_4a_37_13.wav|3|やはりな。そう何度も驚くと思うなよ
+data_ws/nene_voice/voice_ev_wonder_06_06_29_15.wav|1|……あれ？　えむ
+data_ws/nene_voice/voice_ev_wonder_03_05_28_15.wav|1|…………わたし、着替えてくる
+data_ws/tsukasa_voice/voice_card_02_3a_28_13.wav|3|それくらい、兄として当然だ。もっともっとドドーンと頼ってもいいぞ！
+data_ws/emu_voice/voice_ms_wonder3_51_14.wav|0|ミクちゃん達と！？　楽しそう～！
+data_ws/nene_voice/voice_card_ev_wonder_07_14_4b_46_15.wav|1|いろんな世界観や、いろんな動物とかがたくさん登場するよって感じを、ひゅるるんって言ってる的な？
+data_ws/rui_voice/voice_card_ev_wonder_04_13_4b_51_16.wav|2|フフフ。そのとおりだね。さすがは司くんだ
+data_ws/emu_voice/area3_233_005.wav|0|わぁ！　そうだったんだ！
+data_ws/nene_voice/voice_card_ev_wonder_06_15_4a_32_15.wav|1|（壁に絵画が飾ってあるんだけど！？ていうか、何あの照明！あんな形の照明、ホテルとかでしか見たことないんだけど！）
+data_ws/tsukasa_voice/voice_card_ev_wonder_03_13_2a_23_13.wav|3|だろう！？　もはやどんな理由があろうと、あれは兄としてあるまじき行為だ！
+data_ws/nene_voice/voice_card_ev_shuffle_22_15_4b_04_15.wav|1|ひゃっ！
+data_ws/tsukasa_voice/voice_card_16_3b_30_13.wav|3|よし！　しばらくはそれで行くぞ！
+data_ws/nene_voice/voice_card_15_3b_19_15.wav|1|……ここって、おじいさんとの思い出の場所、なんだよね
+data_ws/tsukasa_voice/voice_ev_wonder_01_3_40_13.wav|3|うわっ！　服を掴むな！バランスが崩れて……！
+data_ws/nene_voice/voice_ms_wonder11_44_15.wav|1|……でも、失敗、したくないから
+data_ws/tsukasa_voice/voice_card_ev_wonder_09_13_4b_06_13.wav|3|昨日の夕方以降、カイト達と話せていないし、せめて救助が来たことを伝えたいんだが……
+data_ws/tsukasa_voice/voice_ev_wonder_07_05_53_13.wav|3|しかし……これはテコでも動かない顔をしているな。咲希も昔はこうだったから、よくわかるぞ
+data_ws/rui_voice/voice_card_ev_shuffle_10_14_4a_60_16.wav|2|貝殻を探すついでに、海辺にしかないものを探してみるのもいいんじゃないかな？
+data_ws/nene_voice/voice_card_21_wonder_02b_09_15.wav|1|……それは、そうなんだけど
+data_ws/rui_voice/voice_ev_shuffle_08_05_52_16.wav|2|……本当に、と言われると、どうかな
+data_ws/emu_voice/voice_card_14_01b_26_14.wav|0|あ、２－Aはっけーんっ☆
+data_ws/emu_voice/voice_ev_wonder_04_02_28_14.wav|0|あっ、そっか！あたしも言いそうになっちゃった！
+data_ws/nene_voice/voice_ev_shuffle_22_03_84_15.wav|1|そ、そこまでしなくてもいいでしょ！
+data_ws/rui_voice/voice_ev_wonder_06_02_27_16.wav|2|少女は、館のすぐ脇に立っている木によじのぼって、２階にある将校の部屋を訪ねるんだ
+data_ws/emu_voice/voice_ev_wonder_09_07_140_14.wav|0|みんなで一緒にショーができなくなるのは、やっぱり……ちょっとだけ、さみしいなあ
+data_ws/emu_voice/voice_ev_wonder_03_04_42_14.wav|0|あ……うん
+data_ws/emu_voice/voice_card_13_02b_52_14.wav|0|わー、すごいすごい！ホントに宇宙にいるみたい！
+data_ws/tsukasa_voice/voice_card_ev_shuffle_04_13_3b_01_13.wav|3|衣装に、台本……よし、忘れ物はないな！
+data_ws/emu_voice/voice_ev_wonder_06_08_32_14.wav|0|あっ！もしかして、あたしどこか間違えちゃったかな！？
+data_ws/tsukasa_voice/voice_ms_wonder20_39_13.wav|3|だからまたお前達とショーをしたい。ここで一緒に、もっとショーをやらないか？
+data_ws/tsukasa_voice/voice_ev_wonder_08_03_47_13.wav|3|感謝するぞ、類！必ずやこの役を、オレのものにしてみせよう！
+data_ws/rui_voice/area3_225_007.wav|2|今日はステージの練習ももう終えているし、時間は気にしなくても問題ないよ
+data_ws/emu_voice/voice_ev_wonder_01_4_67_14.wav|0|うん……。なんだか、いつもの類くんっぽくないなぁって思ったの
+data_ws/tsukasa_voice/voice_ev_shuffle_05_03_09_13.wav|3|ああ、よくぞ聞いてくれた！
+data_ws/nene_voice/voice_ev_shuffle_22_01_08_15.wav|1|えっ、あっ……！　ど、どうも……
+data_ws/emu_voice/voice_ev_shuffle_01_5_61_14.wav|0|おっけーですっ！！
+data_ws/emu_voice/voice_ev_shuffle_22_06_04_14.wav|0|どういうことっ！？冬弥くん、ぷよぷよのプロなの！？
+data_ws/nene_voice/voice_ev_wonder_07_05_36_15.wav|1|森？あ、あっちは『ミュージックオブジャングル』のエリア……？
+data_ws/emu_voice/voice_ev_wonder_07_06_78_14.wav|0|でも……みんなが来るまで、どうしたらいいのか全然わからなかったんだ
+data_ws/tsukasa_voice/voice_ev_wonder_09_01_82_13.wav|3|この声は……ミクか？
+data_ws/tsukasa_voice/voice_card_ev_shuffle_05_13_3b_14_13.wav|3|実は、ルカが倒れたと思って慌てて声をかけたんだが……
+data_ws/tsukasa_voice/voice_card_13_02a_05_13.wav|3|くっ……これでは練習の前に掃除をしなくては……！
+data_ws/emu_voice/voice_ev_wonder_03_06_13_14.wav|0|（みんなに笑顔になってほしいなら、あたしが笑顔にならなくっちゃ！）
+data_ws/nene_voice/voice_sc_ev_wonder_05_05_06_15.wav|1|どこに行ったんだろ？　さっきまでここにいたのに
+data_ws/nene_voice/voice_ev_wonder_07_08_74_15.wav|1|別にふとんに入らなくてもいいけど……
+data_ws/tsukasa_voice/voice_card_ev_wonder_06_13_3b_07_13.wav|3|休憩すると言ったばかりだというのに
+data_ws/rui_voice/voice_card_ev_wonder_06_16_4b_70_16.wav|2|…………
+data_ws/rui_voice/voice_ev_wonder_03_03_64_16.wav|2|ではあなたがたは——えむくんのお兄さん達ということですか？
+data_ws/rui_voice/voice_card_ev_wonder_09_16_2a_10_16.wav|2|いや、子供の頃に図鑑で見たような簡単な知識しかないよ
+data_ws/nene_voice/voice_ev_wonder_02_4_68_15.wav|1|あ、フェニックスステージの青龍院……さん
+data_ws/tsukasa_voice/voice_ms_wonder1_46_13.wav|3|…………は？
+data_ws/rui_voice/voice_card_16_01b_10_16.wav|2|……僕が雑草を抜いているだけでそこまで騒げるなんてねえ
+data_ws/emu_voice/voice_card_ev_shuffle_16_07_4a_40_14.wav|0|えへへっ。あたしはケーキのステージに、いっぱいショーの飾りつけしちゃおうかなっ☆
+data_ws/rui_voice/areatalk_2_205_003.wav|2|フフフ。たくさんのネネロボのバルーン。その中に実は本物が……
+data_ws/emu_voice/voice_card_bd_202110_03_4a_28_14.wav|0|……わっ！　穂波ちゃん、目がうるうるしてるよ！？大丈夫！？
+data_ws/rui_voice/voice_sc_ev_wonder_05_02_110_16.wav|2|それじゃあ早速大道具を設置していこうか。朝のリハーサルが済んだら、すぐ本番だからね。テンポよくやっていこう
+data_ws/nene_voice/voice_ev_shuffle_19_03_19_15.wav|1|え、みんなも見に来るの？
+data_ws/nene_voice/voice_card_ev_shuffle_12_13_4a_10_15.wav|1|ちょっと、頼みたいことがあるんだけど……
+data_ws/tsukasa_voice/voice_card_ev_wonder_06_13_3a_14_13.wav|3|この、虫よけスプレーだ……！！
+data_ws/emu_voice/voice_ev_wonder_03_01_68_14.wav|0|…………
+data_ws/rui_voice/voice_card_ev_wonder_01_15_2a_46_16.wav|2|でも、そのフレンドとはゲームのアイテムのことや、周回効率のことしか話さないんだろう？
+data_ws/emu_voice/voice_ms_wonder4_34_14.wav|0|ケンカしちゃだめだよ～っ！
+data_ws/tsukasa_voice/voice_card_ev_wonder_03_13_2b_46_13.wav|3|……！
+data_ws/nene_voice/voice_ev_wonder_07_05_70_15.wav|1|本当だ！早く行こう、えむ。この子のお母さん達が待ってるかも
+data_ws/nene_voice/voice_ev_shuffle_22_08_14_15.wav|1|店長……
+data_ws/emu_voice/voice_ev_shuffle_12_06_50_14.wav|0|さすが類くんだね☆
+data_ws/tsukasa_voice/voice_ev_shuffle_03_07_30_13.wav|3|オレと……？まあ、どうしてもと言うなら遊んでやらんこともないが……
+data_ws/rui_voice/area3_239_007.wav|2|ああ、そうとも。彼等の生態はいまだ謎に包まれている
+data_ws/emu_voice/voice_card_ev_wonder_06_15_4a_46_14.wav|0|あたしが見た劇とちょっとセリフが違ってたり、演出とかも違って違う劇を見てるみたいだった！
+data_ws/rui_voice/voice_ev_wonder_02_3_13_16.wav|2|だからこの屈辱は、素晴らしいショーをすることで晴らそうじゃないか
+data_ws/tsukasa_voice/voice_ev_shuffle_12_08_39_13.wav|3|だが、それでも緊張するというのなら声を出せ！いくぞ！　まずは大きく息を吸って——
+data_ws/nene_voice/voice_ev_wonder_09_03_02_15.wav|1|（森っていうよりジャングルって感じ……。こんな場所で食料を探すなんて、本当に——）
+data_ws/rui_voice/voice_ev_wonder_04_01_81_16.wav|2|正直、手伝ってもらうのは相当難しいだろう。このショー自体、かなり突拍子もない話だしね
+data_ws/nene_voice/voice_ev_wonder_04_05_20_15.wav|1|……別に、えむのためってだけじゃないよ
+data_ws/nene_voice/voice_card_ev_wonder_09_15_4a_45_15.wav|1|（それで、いろんなことに挑戦して、発見とかもして……）
+data_ws/rui_voice/voice_card_ev_shuffle_07_16_3b_23_16.wav|2|使い道の候補はいろいろあるけれど……。たとえば、瞬間移動なんて面白いかもね
+data_ws/nene_voice/voice_card_bd_202206_16_4b_65_15.wav|1|わたしも。——っていうことだから、何かあったらちゃんと言ってよね
+data_ws/emu_voice/voice_card_ev_shuffle_01_02_2b_29_14.wav|0|……あ！　あたしと穂波ちゃんがアップルパイ食べてた時のだ！
+data_ws/tsukasa_voice/voice_ev_wonder_08_08_47_13.wav|3|（トルペにとって、ピアノは、生きるためにどうしたって必要なものだ）
+data_ws/emu_voice/voice_card_ev_wonder_07_16_2b_16_14.wav|0|あれれ、類くんいないね？
+data_ws/tsukasa_voice/voice_card_16_01a_34_13.wav|3|ああ。たしかに！
+data_ws/tsukasa_voice/voice_card_fes_202109_21_piapro_4a_34_13.wav|3|よし！　今度改めて、感謝の意を伝えねば……！
+data_ws/tsukasa_voice/voice_card_ev_shuffle_05_12_4a_14_13.wav|3|そんなお前に笑顔をくれた彰人に、感謝せねばな
+data_ws/emu_voice/voice_card_ev_shuffle_10_02_4b_11_14.wav|0|ねえねえ！　みんなと行きたいところがあるんだ～っ☆
+data_ws/rui_voice/voice_ms_wonder17_17_16.wav|2|――ひとりぼっちの錬金術師は、ショーを見て思いました
+data_ws/rui_voice/voice_card_ev_wonder_01_16_4b_08_16.wav|2|（それに、ハロウィンショーで使った奈落のように、あるのに使われていない設備がまだあるかもしれないしね）
+data_ws/tsukasa_voice/voice_card_ev_shuffle_02_13_3b_65_13.wav|3|まあ、実はまだオレのサインは開発途中だからな。完成したら、きちんと贈ってやろう！
+data_ws/tsukasa_voice/voice_selfep_wonder_15_13.wav|3|フハハハハハッ！どうだ、完璧だろう！
+data_ws/nene_voice/voice_ev_wonder_02_7_33_15.wav|1|……ありがとう、ふたりとも。ミク、このあいだは誘ってくれたのに、断っちゃってごめんね
+data_ws/nene_voice/voice_card_ev_wonder_06_15_4a_02_15.wav|1|うん。終わったよ。そっちも？
+data_ws/rui_voice/voice_card_ev_wonder_05_16_4b_43_16.wav|2|（変わってきているのは人々からの認識だけじゃなくて、僕達自身もだ）
+data_ws/nene_voice/voice_sc_ev_wonder_05_03_79_15.wav|1|綺麗な歌声……。なんだか、すごくジーンとする……
+data_ws/emu_voice/voice_sc_ev_wonder_05_04_52_14.wav|0|あっ、いたいた～！！寧々ちゃん、こっちの片づけ終わったからお手伝いに……
+data_ws/emu_voice/voice_card_ev_wonder_05_16_4b_09_14.wav|0|あたしとしては今から練習してもいいと思いまーす！
+data_ws/rui_voice/voice_ev_wonder_01_1_58_16.wav|2|フフ、もちろんだよ
+data_ws/tsukasa_voice/voice_ev_wonder_09_06_30_13.wav|3|せっかく食料をわけてやったのに、恩知らずなヤツらめ。まあ、野生動物だし仕方ないが……
+data_ws/nene_voice/voice_card_ev_wonder_05_15_4a_15_15.wav|1|人魚姫を提案したのわたしだし、脚本の案出しのためにも、アイディアをまとめておこうかな
+data_ws/nene_voice/area3_203_009.wav|1|もうっ……！　本当にびっくりしたんだからね。今度やったら、ネネロボビームの的にするから
+data_ws/nene_voice/voice_ev_wonder_09_04_95_15.wav|1|う、嘘でしょ……！？
+data_ws/tsukasa_voice/voice_card_02_3a_32_13.wav|3|そうか？　まあ、学校生活が順調なのはいいことだ。幼馴染みの一歌や穂波、志歩とも会えたんだろう？
+data_ws/tsukasa_voice/voice_card_ev_wonder_04_13_4a_24_13.wav|3|（下手に誤魔化して、無用な心配をかけさせるわけにはいかんな）
+data_ws/emu_voice/voice_card_14_01a_52_14.wav|0|わっはっはっはっはー！
+data_ws/tsukasa_voice/voice_card_26_wonder_02a_11_13.wav|3|そ、そんな恐ろしいことが……！？
+data_ws/rui_voice/voice_card_ev_wonder_04_26_2b_21_16.wav|2|フフ、宇宙を舞台にするどころか、宇宙での公演となれば、演出家としても腕がなるねえ
+data_ws/emu_voice/voice_sc_ev_shuffle_10_02_01_14.wav|0|ミクちゃーん、おまたせっ！
+data_ws/emu_voice/voice_card_ev_wonder_07_16_2b_55_14.wav|0|次のショーで使えそう！？
+data_ws/tsukasa_voice/voice_card_ev_wonder_06_13_3b_39_13.wav|3|う……いや、これは別に……
+data_ws/nene_voice/voice_card_ev_wonder_02_21_4b_05_15.wav|1|今回のショーはライバルに勝てたみたい
+data_ws/emu_voice/voice_ev_shuffle_01_3_16_14.wav|0|あーーーー！！！！
+data_ws/nene_voice/voice_ev_shuffle_22_05_56_15.wav|1|あ、ううん。なんでもない
+data_ws/emu_voice/voice_ev_wonder_03_02_48_14.wav|0|でも、今までここに来てくれてたお客さんは、トランポリンドームにもお化け屋敷にもいっぱい思い出があって、大事に思ってて……！
+data_ws/tsukasa_voice/voice_ev_shuffle_22_01_35_13.wav|3|しかし……ゲームエキスポ内のショーがそんなに人気なのか？
+data_ws/emu_voice/voice_card_ev_shuffle_10_14_4b_03_14.wav|0|ミクちゃん、おまたせー！
+data_ws/nene_voice/area1_043_001.wav|1|ふーん、新作対戦ゲーム設置しました、か
+data_ws/nene_voice/voice_ev_shuffle_16_08_04_15.wav|1|えむのことだし何かしてるとは思ったけど……何このケーキ、すごすぎでしょ。しかも手作り……
+data_ws/rui_voice/voice_sc_ev_wonder_05_08_99_16.wav|2|ああ。『ネネロボ着火ファイヤー！』と言えば、ネネロボの口から火炎放射が——
+data_ws/nene_voice/voice_card_fes_202112_15_4a_25_15.wav|1|それに、ほとんどの劇場で毎日ミュージカルをやってるの。全部見て回ろうとしたら、ひと月かかっちゃうかもね
+data_ws/nene_voice/voice_card_ev_band_03_01_3b_38_15.wav|1|あ……それ、どうなったの？
+data_ws/emu_voice/voice_card_ev_wonder_06_16_4a_13_14.wav|0|えへへへっ、そうだった～♪
+data_ws/rui_voice/voice_card_ev_shuffle_17_13_4a_06_16.wav|2|それなら、今週末にやるのはどうかな？
+data_ws/rui_voice/voice_ev_shuffle_16_03_67_16.wav|2|今やっているショーの公演期間も折り返しの頃合いだし……案出しを始めるにはいいタイミングだね
+data_ws/emu_voice/voice_card_ev_band_06_03_4a_01_14.wav|0|——ええっ！？ほ、穂波ちゃんが！？
+data_ws/nene_voice/voice_card_bd_202207_15_4a_10_15.wav|1|……あ、あの、星乃さん。よかったら、次はいつできそうとか、予定見ておかない……？
+data_ws/rui_voice/voice_ev_shuffle_07_03_70_16.wav|2|負荷をかけるためのウェイトジャケットだよ。安全のためにいろいろつけていったら思ったより重くなってしまったけどね
+data_ws/rui_voice/voice_card_20_01b_06_16.wav|2|フフ、いい具合だね
+data_ws/emu_voice/voice_card_ev_wonder_08_15_4a_20_14.wav|0|じゃあ……！
+data_ws/rui_voice/voice_ev_wonder_01_7_77_16.wav|2|それはよかった。ちょうど追加したい演出があったんだ
+data_ws/tsukasa_voice/voice_ev_shuffle_17_05_80_13.wav|3|彰人は浜野さん——チョコ太を、あそこのドアから控え室に連れ出してほしい
+data_ws/nene_voice/voice_ev_wonder_09_07_161_15.wav|1|ずっと大切なものになるんだろうな、って思う。うまく言葉にできないんだけど……なんか、そう思う
+data_ws/rui_voice/voice_card_ev_shuffle_08_16_4b_48_16.wav|2|やれやれ。また根拠のない数字が出たね。しかも、以前より増えていないかい？
+data_ws/tsukasa_voice/voice_card_ev_shuffle_07_16_3b_49_13.wav|3|ぜぇはぁ……こ、これで全部録れたか？
+data_ws/emu_voice/voice_card_ev_wonder_03_16_4b_36_14.wav|0|おおー！　なんだか楽しそう♪どうやって阻止するの？
+data_ws/nene_voice/voice_card_ev_wonder_04_13_4b_36_15.wav|1|うそ、類まで！？
+data_ws/emu_voice/areatalk_2_253_005.wav|0|ほえ、手作りすごーい！　いいなぁ。お料理できると、好きな時に好きな物を好きなだけ食べられて
+data_ws/rui_voice/voice_ev_shuffle_08_07_64_16.wav|2|うん。いい感じだ。あとは、レンくんにアイディアをもらったあれを——
+data_ws/rui_voice/voice_ev_shuffle_19_03_63_16.wav|2|……では、みんなの動きを見ながら構成の細かいところを詰めさせてもらいますね
+data_ws/nene_voice/area3_218_007.wav|1|えっ、べ、別にいつも通りだけど……
+data_ws/nene_voice/voice_ms_wonder17_59_15.wav|1|これから……どうする……？
+data_ws/rui_voice/voice_card_ev_wonder_05_16_4a_27_16.wav|2|ああ。横幅も奥行きも、本番のステージとは異なるから、そのことは軽く頭に置いておいたほうがいいね
+data_ws/emu_voice/voice_card_ev_wonder_06_16_4b_67_14.wav|0|わーい、お菓子♪　お菓子♪
+data_ws/rui_voice/voice_card_13_3a_05_16.wav|2|ああ、その前にひとついいかい？昨日相談していた演出の件なんだけれど
+data_ws/nene_voice/voice_ev_wonder_01_3_44_15.wav|1|マットはあるけど……大丈夫！？
+data_ws/nene_voice/voice_ev_wonder_03_05_49_15.wav|1|でも、どうやって伝えたらいいのか、わからないよ……
+data_ws/tsukasa_voice/voice_card_ev_wonder_02_14_2a_24_13.wav|3|だいぶいい感じになってきたな！だが、えむが持ってきた飾りが２箱もまだ残ってるな
+data_ws/rui_voice/voice_ev_shuffle_19_04_09_16.wav|2|赤組の応援団もなかなか賑やかだね
+data_ws/tsukasa_voice/voice_card_13_01b_39_13.wav|3|まあ、万が一自信をなくしたとしても、安心しろ！
+data_ws/nene_voice/voice_card_ev_shuffle_22_14_4b_12_15.wav|1|うん。ていうか、えむ、すごいね
+data_ws/nene_voice/voice_ev_wonder_09_05_43_15.wav|1|怖いこと……？
+data_ws/tsukasa_voice/voice_card_ev_shuffle_22_15_4b_49_13.wav|3|うーん、オレも少しそのゲームが気になってきたな
+data_ws/tsukasa_voice/voice_ev_wonder_07_03_26_13.wav|3|——お、見つけたぞ！あそこがショーステージだ！
+data_ws/nene_voice/voice_ev_shuffle_22_07_104_15.wav|1|……考えてることは一緒みたいだね
+data_ws/tsukasa_voice/voice_card_ev_band_04_02_4a_14_13.wav|3|実際、オレも普段はあまり進んで口にしない、グレープフルーツのゼリーを食べてみたんだが——
+data_ws/nene_voice/voice_ev_wonder_06_06_28_15.wav|1|……ならいいけど。熱中してると、すぐに周り見えなくなるから
+data_ws/emu_voice/voice_card_ev_wonder_04_14_4a_21_14.wav|0|……よかった
+data_ws/tsukasa_voice/voice_ev_wonder_06_06_98_13.wav|3|よし！　じゃあもう一度木に登って最初からだ！
+data_ws/rui_voice/voice_ev_shuffle_12_06_11_16.wav|2|そうだね。星乃くんは以前僕達のショーを見にきたことがあるし、小豆沢くんは僕達のファン１号だしねえ
+data_ws/emu_voice/voice_ev_wonder_07_01_33_14.wav|0|ううん！そっちのショーは、ナイトショーとは違うショーなの！
+data_ws/tsukasa_voice/voice_card_bd_202205_13_4b_07_13.wav|3|（いや、咲希のわけがないか。果たし状を書く理由も、差出人に協力する理由もないはずだ）
+data_ws/nene_voice/voice_sc_ev_wonder_05_01_95_15.wav|1|その俳優さんがきっかけで、わたしはショーをやりたいって思うようになったしね
+data_ws/rui_voice/voice_ev_wonder_02_1_69_16.wav|2|えむくんは、プレゼントを待つ子供の役だよ。僕はその他の役をやるつもりさ
+data_ws/nene_voice/voice_ms_wonder15_47_15.wav|1|（ステージに立つ勇気がないからってコソコソ隠れて、ネネロボに全部やらせて……また全部台無しにして……）
+data_ws/emu_voice/area3_214_007.wav|0|幽霊！？　幽霊の部員がいるの！？
+data_ws/rui_voice/voice_card_ev_shuffle_07_20_4b_25_16.wav|2|特に、青柳くんには興味を持ってもらえると思うんだけどね
+data_ws/emu_voice/voice_ev_wonder_07_08_113_14.wav|0|（世界中の人を笑顔に——）
+data_ws/tsukasa_voice/voice_ms_wonder17_70_13.wav|3|ああ。そうだな。よし……作戦会議だ！！
+data_ws/emu_voice/voice_ev_wonder_03_06_17_14.wav|0|……レンくん？
+data_ws/rui_voice/voice_ev_shuffle_07_02_100_16.wav|2|ただランニングをするより楽しく運動できるだろう？景色もいいし、空気も美味しいし——
+data_ws/emu_voice/voice_card_16_02b_21_14.wav|0|うん！　どんどこどんどこー♪
+data_ws/tsukasa_voice/voice_card_ev_shuffle_12_13_4b_26_13.wav|3|笑顔というのは、本当にすごいな
+data_ws/nene_voice/voice_card_ev_wonder_09_15_4a_40_15.wav|1|しないから。ていうか、いいなって言ったのはそうじゃなくて……
+data_ws/emu_voice/voice_ev_wonder_04_04_88_14.wav|0|（でも、みんなのおかげで、同じ気持ちの人がいっぱいいてくれるってわかっちゃった）
+data_ws/emu_voice/voice_card_ev_wonder_08_15_4b_07_14.wav|0|うんっ♪
+data_ws/emu_voice/voice_card_ev_wonder_03_14_4a_07_14.wav|0|そっか……
+data_ws/nene_voice/voice_card_ev_wonder_06_16_4b_29_15.wav|1|類が家に人を呼んだ！？
+data_ws/emu_voice/voice_ev_wonder_01_8_02_14.wav|0|みんなとーってもびっくりして笑ってくれたね～！
+data_ws/nene_voice/voice_card_ev_wonder_06_15_4b_37_15.wav|1|今まで、体力とか運動神経とかが必要なシーンは、司やえむに任せてきちゃったけど……
+data_ws/rui_voice/voice_ev_wonder_01_1_66_16.wav|2|寧々？
+data_ws/emu_voice/voice_sc_ev_shuffle_10_03_43_14.wav|0|らじゃーっ！
+data_ws/nene_voice/voice_ev_shuffle_22_07_86_15.wav|1|甘すぎると思うけど。……でも、ありがと
+data_ws/rui_voice/voice_card_ev_shuffle_12_13_4a_47_16.wav|2|別にかまわないよ。それよりさっきのモアモアなんとかっていう名前、どこかで聞いたような……
+data_ws/emu_voice/voice_ev_wonder_03_02_23_14.wav|0|いるもん！　あたしの友達に、大好きな子が——
+data_ws/nene_voice/voice_card_ev_shuffle_10_14_4a_25_15.wav|1|ふーん？ちなみに、臨海学校では何をする予定なの？
+data_ws/emu_voice/voice_ev_wonder_02_1_07_14.wav|0|…………
+data_ws/nene_voice/voice_card_ev_shuffle_04_22_4b_24_15.wav|1|あ……ほ、星乃、さん……！
+data_ws/emu_voice/voice_ev_wonder_03_02_108_14.wav|0|もっとちゃんと話さなくっちゃ……！
+data_ws/rui_voice/voice_ev_wonder_06_08_37_16.wav|2|ん？どうしたんだい、えむくん
+data_ws/rui_voice/voice_ev_wonder_02_1_32_16.wav|2|うん、歌がメインとなるミュージカルがいいと思うんだ。華やかで、クリスマスらしいだろう？
+data_ws/rui_voice/voice_card_ev_wonder_02_16_3a_36_16.wav|2|…………
+data_ws/emu_voice/voice_card_ev_shuffle_22_14_4a_17_14.wav|0|そーだっ☆　あたしにおヒゲつけちゃおーっと！
+data_ws/emu_voice/voice_card_ev_wonder_09_14_4b_52_14.wav|0|でも、ネネロボちゃんが目をビカーーーってして追い払ってくれて、おいしいサンドイッチをみんなで食べられたんだー！
+data_ws/nene_voice/voice_ev_wonder_04_04_21_15.wav|1|（やっぱり、ここにいるみんなも——同じ気持ちだったんだ）
+data_ws/tsukasa_voice/voice_card_bd_202112_22_4a_32_13.wav|3|そうだな！　では、やるか！
+data_ws/rui_voice/voice_ev_wonder_04_01_57_16.wav|2|……そうだね、難しい問題だと思う
+data_ws/rui_voice/voice_card_ev_shuffle_08_12_4a_05_16.wav|2|さぁ胸を張って！　指先の意識も忘れずに！すべての指が人格を持っていると考えるんだ！
+data_ws/tsukasa_voice/voice_card_ev_band_08_02_4a_45_13.wav|3|ああ！
+data_ws/tsukasa_voice/voice_card_ev_wonder_07_15_3b_25_13.wav|3|ん？　スマホが光ってる……。ということは……！
+data_ws/emu_voice/voice_card_ev_wonder_04_22_3b_01_14.wav|0|あ、リンちゃん達、見ーつっけた♪やっほっほーい！
+data_ws/tsukasa_voice/voice_ev_wonder_06_08_66_13.wav|3|それで？　一体どうしたんだ？
+data_ws/nene_voice/voice_card_ev_wonder_05_15_4a_19_15.wav|1|えっと……あ、あったあった！DVDをセットして、再生、っと
+data_ws/emu_voice/voice_card_ev_wonder_07_14_4b_06_14.wav|0|あのね、学校でアメリカのお土産をみんなに渡すの！
+data_ws/emu_voice/voice_card_ev_shuffle_01_18_3a_31_14.wav|0|…………
+data_ws/rui_voice/voice_ev_shuffle_07_03_68_16.wav|2|ああ——もちろん、これを着て走るんだよ
+data_ws/tsukasa_voice/voice_card_13_01b_40_13.wav|3|類の演出は斬新でありながら王道！スターが出る最高のショーにふさわしいと、他でもないこのオレが認めているんだからな！
+data_ws/nene_voice/voice_card_ev_wonder_05_15_4a_16_15.wav|1|んー、まずは……
+data_ws/nene_voice/voice_card_ev_wonder_05_16_4b_58_15.wav|1|そっか。まあ、でもしょうがないよね。わたしも、もう眠くて仕方がないし
+data_ws/rui_voice/voice_ev_wonder_03_03_88b_16.wav|2|すみません。ただ、夢想家が愚かという発言に少し疑問を感じてしまいまして
+data_ws/rui_voice/voice_card_ev_shuffle_18_26_4a_25_16.wav|2|ソメちゃんとの出会いをきっかけに、少女はだんだんおじさん夫婦にも心を開いていくんだ
+data_ws/nene_voice/voice_card_ev_wonder_06_15_4a_23_15.wav|1|……！いいよ。DVDあるし貸すのは全然大丈夫
+data_ws/emu_voice/voice_card_ev_shuffle_01_18_3a_18_14.wav|0|はひっ！　な、なんでしょうか！
+data_ws/tsukasa_voice/voice_ms_wonder2_51_13.wav|3|悪いがオレは、ここの人事担当者に電話するぞ。人事を通して、正式に辞退させてもらう
+data_ws/tsukasa_voice/voice_card_ev_shuffle_17_13_4a_53_13.wav|3|その想いと努力に見合うだけのお返しができないものかと思ってな
+data_ws/tsukasa_voice/voice_card_10_01b_20_13.wav|3|（おお。こんな明らかに怪しいヤツに真っ向からいくとは。この１年、度胸があるな！）
+data_ws/emu_voice/voice_ev_wonder_03_06_14_14.wav|0|（だから笑って……）
+data_ws/rui_voice/voice_card_ev_wonder_03_15_4b_17_16.wav|2|そうだね。でも大丈夫だよ。えむくんの行き先はほぼ２択だからね
+data_ws/emu_voice/voice_card_ev_wonder_08_13_4b_07_14.wav|0|あれれ？　なんでなんで？
+data_ws/nene_voice/area3_213_005.wav|1|こ……国会図書館！？
+data_ws/emu_voice/voice_card_ev_wonder_05_14_2b_38_14.wav|0|ねえねえ、みんなは？家族で海とか行ったりした？
+data_ws/nene_voice/voice_card_15_02b_23_15.wav|1|ネネロボを今、類が改良してくれてる
+data_ws/nene_voice/voice_card_ev_wonder_09_13_4b_33_15.wav|1|うん……
+data_ws/rui_voice/voice_card_16_01a_30_16.wav|2|ロボットのバッテリーで動くから電源は必要ない。あとは、挿入部分にチラシをセットすれば……
+data_ws/tsukasa_voice/voice_ev_wonder_09_03_104_13.wav|3|おおっ、さすがえむ！見事な三段ジャンプだ！
+data_ws/rui_voice/voice_card_bd_202207_10_4a_37_16.wav|2|特に僕は、体育祭でお世話になったしね
+data_ws/rui_voice/area3_198_007.wav|2|そうだね。万が一にも転んで頭がぱかっとはずれてしまったら、目も当てられないね
+data_ws/rui_voice/voice_card_ev_shuffle_07_16_3a_11_16.wav|2|へぇ、そうだったんだね
+data_ws/emu_voice/voice_card_ev_wonder_01_14_3a_01_14.wav|0|ふんふふ～ん、ふふふ～ん♪
+data_ws/tsukasa_voice/voice_card_14_01b_35_13.wav|3|い、いや～！　見てませんね～！これっぽっちも見てません！
+data_ws/tsukasa_voice/voice_card_bd_202205_13_4b_107_13.wav|3|オレの誕生日を祝ってくれて、ありがとう！
+data_ws/tsukasa_voice/voice_ev_shuffle_16_06_85_13.wav|3|ええい！　悩んでいてもらちがあかん！連絡してみよう！
+data_ws/rui_voice/voice_card_ev_wonder_03_16_4b_08_16.wav|2|フフ……
+data_ws/emu_voice/voice_ev_wonder_04_01_105_14.wav|0|あ……！ねえねえ、類くん！
+data_ws/nene_voice/voice_ev_shuffle_12_05_45_15.wav|1|う、うん……！
+data_ws/tsukasa_voice/area3_226_003.wav|3|警備って……お前、人さまに迷惑かけるようなことをしてるんじゃないだろうな
+data_ws/rui_voice/voice_ev_wonder_09_07_133_16.wav|2|……そうだね
+data_ws/tsukasa_voice/voice_card_ev_wonder_09_13_4a_35_13.wav|3|むう……想像以上に難しいな。類なら、クルーザーをどう表現するんだ？
+data_ws/emu_voice/voice_ev_shuffle_01_2_15_14.wav|0|でも、そんな子達にも『楽しかった』って言ってもらえるような、そんな体育祭にしたいですっ！
+data_ws/tsukasa_voice/voice_card_bd_202205_12_4a_75_13.wav|3|では冬弥、思う存分楽しんでいってくれ！
+data_ws/emu_voice/voice_card_03_01a_33_14.wav|0|う？
+data_ws/rui_voice/voice_ev_wonder_08_03_09_16.wav|2|だから僕はいつも、司くんが合わせやすい、司くんに似たタイプの役をお願いするようにしていたんだよ
+data_ws/rui_voice/voice_sc_ev_wonder_05_08_104_16.wav|2|なるほど、司くんに花火を背負わせて……。いや、司くんを花火として打ち出すのもいいね
+data_ws/tsukasa_voice/voice_card_13_01b_36_13.wav|3|……まあ、お前に限ってそれはないか……
+data_ws/emu_voice/voice_ev_shuffle_01_6_60_14.wav|0|絶対、負けないっ！！
+data_ws/rui_voice/voice_ev_wonder_02_1_64_16.wav|2|今の寧々ならきっとできるさ。司くんもえむくんも、そう思っているしね
+data_ws/nene_voice/voice_ms_wonder20_30_15.wav|1|……もっとステージに立って……。いつか……プロの役者になりたいな……
+data_ws/tsukasa_voice/voice_ev_wonder_04_05_16_13.wav|3|ついに明日は本番だな。各自、しっかりと休息をとるように！
+data_ws/tsukasa_voice/voice_card_ev_wonder_07_13_4a_03_13.wav|3|さっきアメリカに着いたことを写真つきで咲希に知らせたんだが、その返事だ
+data_ws/rui_voice/voice_card_fes_202112_16_4b_19_16.wav|2|（ここにある建物やオブジェは、僕が読んだあのSF小説の中で描かれていたものだ）
+data_ws/nene_voice/voice_ev_wonder_08_01_22_15.wav|1|なんか、このやりとりも恒例になってきたな
+data_ws/emu_voice/areatalk_2_196_003.wav|0|あたしはおじいちゃんだよっ！
+data_ws/rui_voice/voice_card_ev_wonder_01_16_4b_23_16.wav|2|以前、観客席を修繕した時は、イスを動かすのは難しいと言われてしまったが……
+data_ws/emu_voice/voice_card_ev_shuffle_10_14_4b_10_14.wav|0|えへへっ、ちゃーんと楽しんでるよ♪でも自由時間になったから、ちょっと抜けてきたの
+data_ws/rui_voice/voice_ev_wonder_04_03_47_16.wav|2|ワンダーランズ×ショウタイムの座長として君がやるべきこと、わかるだろう？
+data_ws/tsukasa_voice/voice_card_ev_shuffle_02_13_3b_01_13.wav|3|お、いたいた！おーい、冬弥！
+data_ws/nene_voice/voice_ev_wonder_09_05_15_15.wav|1|うっ……。わ、わかってる……
+data_ws/rui_voice/voice_selfep_wonder_01_16.wav|2|さて、開演前の挨拶の練習だったねえ
+data_ws/nene_voice/voice_sc_ev_wonder_05_04_46_15.wav|1|く、草薙です！草薙寧々っていいます
+data_ws/emu_voice/voice_ev_wonder_03_01_93_14.wav|0|あのね、あたしも考えてみたんだけど、子供向けのアトラクションで大人も遊べる日を作ってみたらどうかな？
+data_ws/emu_voice/voice_card_ev_shuffle_10_03_4a_51_14.wav|0|でも……お肉なしじゃしょんぼりカレーになっちゃうよー
+data_ws/rui_voice/voice_card_ev_shuffle_07_16_3b_26_16.wav|2|ああ。今考えているのは古典的でシンプルな仕掛けだからね
+data_ws/nene_voice/voice_ev_shuffle_02_8_04_15.wav|1|はあ……コイツと一緒に探すの、ほんと恥ずかしかった……
+data_ws/nene_voice/voice_card_ev_wonder_02_15_4a_48_15.wav|1|うん。その調子で、虫のおもちゃが飛んできたらはじいて
+data_ws/emu_voice/voice_ev_wonder_07_03_44_14.wav|0|うんっ！ドキドキワクワクポポポポ～ってなっちゃったー！
+data_ws/rui_voice/voice_sc_ev_wonder_05_01_10_16.wav|2|やあ、思ったより早かったね。部活はもう終わったのかい？
+data_ws/tsukasa_voice/voice_card_21_wonder_02a_05_13.wav|3|たしかにオレは、お前と屋上で相談中に、次のショーのインスピレーションが欲しいと言った……
+data_ws/rui_voice/voice_card_ev_wonder_09_13_4b_13_16.wav|2|……わかった。——ネネロボ
+data_ws/tsukasa_voice/voice_ev_wonder_02_7_02_13.wav|3|……今は準備を進めて待つしかあるまい
+data_ws/tsukasa_voice/voice_card_bd_202207_15_4b_22_13.wav|3|はははっ！　なんのことだ？
+data_ws/tsukasa_voice/voice_card_ev_wonder_09_14_4a_11_13.wav|3|ふむ……。公演のあとならともかく、やる前に遊ぶのはどうかと思うが……
+data_ws/tsukasa_voice/area3_182_001.wav|3|今日も素晴らしいミュージカルを見て優雅な休日を過ごしてしまったな！
+data_ws/emu_voice/voice_card_21_wonder_02b_06_14.wav|0|クッキーと、チョコレートと、マシュマロと、おせんべいと……
+data_ws/tsukasa_voice/voice_card_ev_wonder_08_16_4b_18_13.wav|3|黒騎士だと？
+data_ws/emu_voice/voice_card_15_02b_08_14.wav|0|ドッパーン！ってなったらきっとすごく派手で目立つよ！煙に色とかつけて……
+data_ws/emu_voice/voice_card_14_01b_51_14.wav|0|やったー！　それじゃあみんなでファミレスにゴー♪
+data_ws/nene_voice/voice_ev_shuffle_22_04_59_15.wav|1|うん。プリントシール勝負での獲得ポイント数は、わたし達がトップで、その次が青柳くんのチーム……
+data_ws/rui_voice/voice_ev_wonder_02_3_03_16.wav|2|おやおや。目的が変わってしまっているよ、司くん
+data_ws/tsukasa_voice/voice_op_wonder0_73_13.wav|3|そうしたら、ショーを見に来たみんなが……
+data_ws/nene_voice/voice_ev_wonder_09_04_04_15.wav|1|う、うん。今のとこ……。でも、立つ時はゆっくりお願い……
+data_ws/tsukasa_voice/voice_card_ev_wonder_09_14_4a_19_13.wav|3|ダメなのか！あ、いや、たしかに公演前にやるのはリスクがあるな……
+data_ws/emu_voice/voice_ms_wonder9_31_14.wav|0|お客さん、いーっぱい集まっちゃうかもしれないよ！
+data_ws/rui_voice/voice_card_ev_wonder_04_14_4b_35_16.wav|2|着ぐるみくん達は、立場上えむくんを支援できないことを気に病んでいたからね
+data_ws/tsukasa_voice/voice_ev_wonder_08_08_81_13.wav|3|ああ、はい！もちろんですとも！
+data_ws/emu_voice/voice_card_bd_202206_16_4b_28_14.wav|0|ふっふっふっ。寧々ちゃん、あ～そ～ぼ～♪
+data_ws/tsukasa_voice/voice_card_11_3b_34_13.wav|3|特別に、チケットをさらに２枚プレゼントしよう！
+data_ws/tsukasa_voice/voice_card_13_01b_21_13.wav|3|当然だ！　それと、主役であるオレが今以上にカッコよく見えるようにしてもらわなくてはな！
+data_ws/emu_voice/voice_card_ev_shuffle_01_18_3a_12_14.wav|0|うん♪　買ったおやつに当たりがついてて……ハッ！！
+data_ws/emu_voice/voice_ev_shuffle_22_02_39_14.wav|0|あっ、そうだった！
+data_ws/rui_voice/area3_213_004.wav|2|それなら、国会図書館に行けばいい
+data_ws/nene_voice/voice_ev_shuffle_15_03_78_15.wav|1|う…………。……わかったってば、行けばいいんでしょ
+data_ws/tsukasa_voice/voice_card_ev_wonder_03_13_2a_55_13.wav|3|無論だ！　天翔けるペガサスと書き、天馬！世界を司ると書き、司！その名も——天馬司！
+data_ws/rui_voice/voice_ev_shuffle_19_01_47_16.wav|2|ああ、今日なら少し時間があるからね。みんなが集まっている場所まで、案内をお願いできるかい？
+data_ws/tsukasa_voice/voice_card_ev_wonder_06_16_4b_08_13.wav|3|それにしても、あのジャンプは見事だったな
+data_ws/tsukasa_voice/voice_card_15_02b_19_13.wav|3|（アイツ今、目にもとまらぬ速さでえむの口にドーナツを押し込まなかったか！？）
+data_ws/rui_voice/voice_card_fes_202112_16_4a_33_16.wav|2|フフ、冗談だよ
+data_ws/rui_voice/voice_ev_wonder_04_03_32_16.wav|2|それに、実力派のフェニックスステージが味方についてくれたと聞けば、もう少し話を聞いてくれそうだしね
+data_ws/emu_voice/voice_card_14_01b_24_14.wav|0|むむ……？　あの子、ネネロボちゃんに似てたような……
+data_ws/nene_voice/voice_sc_ev_wonder_05_04_72_15.wav|1|…………ふふ
+data_ws/tsukasa_voice/voice_ev_wonder_08_04_57_13.wav|3|（……困った。役の性格や考えかたについて、この１週間考えに考えたが……、未だに掴みきれん）
+data_ws/emu_voice/voice_ev_shuffle_22_04_37_14.wav|0|やった～っ！寧々ちゃん、わんだほいだよ～っ！
+data_ws/tsukasa_voice/voice_ev_wonder_08_04_17_13.wav|3|……いいや、違うな。こいつは自信がないはずだから、こういう時は口ごもってしまうような気も……
+data_ws/tsukasa_voice/voice_ms_wonder1_08_13.wav|3|な、何ぃ！？　まずい、時間がない！間に合ええー！！
+data_ws/tsukasa_voice/voice_ev_shuffle_04_03_23_13.wav|3|ハーッハッハッハ！今日のオレは、いつもよりノッているぞ！
+data_ws/emu_voice/voice_card_ev_wonder_04_22_3b_11_14.wav|0|うん！　みんなが歌ってるシーンも……ほら！
+data_ws/emu_voice/voice_ms_wonder2_12a_14.wav|0|でもでも、司くんと一緒ならきっと昔みたいにお客さんでいっぱいにできるはずっ！
+data_ws/rui_voice/voice_card_14_02b_10_16.wav|2|よくよく思い出すと……。あの少女の反応が微妙だったステージは、あまり盛況ではない気がするね
+data_ws/rui_voice/voice_card_ev_shuffle_01_14_4b_43_16.wav|2|やっぱり、疲れがたまっていたんだね
+data_ws/rui_voice/voice_ev_shuffle_08_05_88_16.wav|2|マジも大マジさ！さあ、早く練習を始めようじゃないか、東雲くん！衣装もそろっているよ！
+data_ws/emu_voice/voice_card_ev_wonder_05_26_3a_23_14.wav|0|それでどうかな！？ざぶーんで、うわードドドッ！っていうお話！
+data_ws/tsukasa_voice/voice_sc_ev_wonder_05_02_63_13.wav|3|台本ができたぞー！お前達との話しあいを元に、類と試行錯誤した自信作だ！
+data_ws/tsukasa_voice/voice_card_ev_wonder_07_15_3a_23_13.wav|3|たしかに楽しみだな。日本語版は知っているが、原曲はまた違った雰囲気があるという話だしな
+data_ws/emu_voice/voice_ev_shuffle_01_6_04_14.wav|0|よかった～！ありがとう！　取ってくるね！
+data_ws/rui_voice/areatalk_2_294_001.wav|2|ぎゅぎゅっばばばーん……ああ、司くんをポップアップで打ち上げたアレかな
+data_ws/nene_voice/voice_ev_wonder_02_6_41_15.wav|1|……うん、ありがとう
+data_ws/tsukasa_voice/voice_card_16_02b_14_13.wav|3|……フン、まあ、見てやってもいいだろう！
+data_ws/rui_voice/voice_card_ev_wonder_03_15_4b_10_16.wav|2|おや、まだ教室にいたんだね。もうすぐ時間だよ
+data_ws/emu_voice/voice_ev_wonder_01_7_05_14.wav|0|ううん！　あたしは全然だいじょーぶっ！でも……
+data_ws/nene_voice/voice_card_ev_wonder_06_14_4b_03_15.wav|1|何度もジャンプを練習してたから、疲れたんじゃない？
+data_ws/tsukasa_voice/voice_ms_wonder17_53_13.wav|3|……！
+data_ws/emu_voice/voice_card_ev_shuffle_16_14_4a_38_14.wav|0|すごーい！
+data_ws/emu_voice/voice_ev_band_02_07_38_14.wav|0|あたしはさんせーい！
+data_ws/emu_voice/voice_card_ev_wonder_03_14_4a_28_14.wav|0|あ……あの子達、もしかしてきょうだいかな
+data_ws/rui_voice/voice_card_16_02a_33_16.wav|2|ああ、忙しくなりそうだ！
+data_ws/emu_voice/voice_ev_shuffle_22_07_13_14.wav|0|おー！それじゃ、このまま優勝までビューンってできるかも！？
+data_ws/nene_voice/areatalk_2_375_004.wav|1|う、歌？もう……芝居がかった顔するから何かと思った
+data_ws/emu_voice/voice_card_ev_shuffle_22_14_4b_11_14.wav|0|いろいろできたねっ☆車のゲームに格闘ゲームに、クレーンゲーム！
+data_ws/tsukasa_voice/voice_card_ev_wonder_02_25_3b_11_13.wav|3|ああ。ちなみに妹は、イブに幼馴染みと念願のクリスマスパーティーをしたらしくてな
+data_ws/nene_voice/voice_card_ev_wonder_04_22_3b_09_15.wav|1|あ、そうだ。もうひとつ用事があるの。これなんだけど……
+data_ws/tsukasa_voice/voice_card_bd_202205_13_4b_16_13.wav|3|ワンダーステージだと！？
+data_ws/emu_voice/voice_ev_wonder_01_2_50_14.wav|0|えーっと、だから……
+data_ws/emu_voice/voice_card_ev_shuffle_16_14_4a_03_14.wav|0|これこれ！　愛莉ちゃんセンパイが、チョコレートケーキがいいよって教えてくれたんだよね！
+data_ws/nene_voice/voice_card_ev_shuffle_22_15_4b_27_15.wav|1|え……ほ、ほんと？
+data_ws/nene_voice/voice_ms_wonder16_26_15.wav|1|あ……
+data_ws/rui_voice/voice_card_ev_shuffle_18_26_4a_23_16.wav|2|ソメちゃんの正体については、仲良くなっていく中で少女も察していく感じになると思う
+data_ws/rui_voice/voice_card_ev_wonder_03_16_4a_06_16.wav|2|ちょっと忘れ物をしてしまってね。探すのを手伝ってくれないかな？
+data_ws/rui_voice/voice_card_ev_wonder_08_16_4b_04_16.wav|2|（特に、最も腑に落ちていなかった星を見るトルペの気持ちも、しっかりと理解して表現してくれた）
+data_ws/rui_voice/voice_ev_shuffle_08_08_40_16.wav|2|それじゃあ僕はこれで。……ああ、そうそう
+data_ws/nene_voice/voice_card_ev_shuffle_05_03_2a_23_15.wav|1|（み、宮女の女の子が来てるって話してる人いたから、どうせまたえむかと思って来たけど……。ええっ！？）
+data_ws/rui_voice/voice_card_fes_202112_16_4a_34_16.wav|2|でも、そうか。僕自身、あの話を意識したわけではなかったけれど……
+data_ws/tsukasa_voice/voice_ms_wonder16_35_13.wav|3|だから……寧々。また、オレと一緒にショーをやってくれないか？
+data_ws/emu_voice/voice_ev_wonder_07_04_11_14.wav|0|おおっ！司くん、かっこいい～☆
+data_ws/emu_voice/voice_ev_shuffle_03_13_2b_08_14.wav|0|うん、なかなかピカピカにならないねー。寧々ちゃんのほうはー？
+data_ws/emu_voice/area3_200_003.wav|0|そうなんだ！　じゃあ、ここが舞台のショーもあるのかな？
+data_ws/nene_voice/voice_ev_wonder_01_2_57_15.wav|1|いいんじゃない？いつもと違う感じだし、面白そう
+data_ws/emu_voice/voice_card_ev_wonder_08_14_3b_48_14.wav|0|寧々ちゃん、類くん！協力してくれてありがとう！
+data_ws/emu_voice/voice_ev_shuffle_01_3_27_14.wav|0|あれ？　言ってなかったっけ
+data_ws/nene_voice/voice_ev_wonder_03_04_05_15.wav|1|うん。わたしもそう思う
+data_ws/rui_voice/voice_ev_shuffle_08_05_89_16.wav|2|ところで青柳くん、空から颯爽と登場したい、と思ったことはないかい？
+data_ws/tsukasa_voice/voice_unit_piapro16_22_13.wav|3|なっ！？　まさか、お、落ち……！？
+data_ws/emu_voice/voice_card_ev_shuffle_10_21_3a_15_14.wav|0|……どうかな？　海の中、見えた？
+data_ws/tsukasa_voice/voice_card_ev_wonder_02_14_2b_13_13.wav|3|ん？　あっ、おいえむ！片づけた飾りをまた飾るんじゃない！
+data_ws/nene_voice/voice_ev_wonder_02_3_45_15.wav|1|……わたしの歌が、アイツに負けてる気がして
+data_ws/nene_voice/voice_ev_shuffle_12_06_48_15.wav|1|いつもは、最初類が形を作っちゃって、みんなで合わせながら直していくのが多いんだけどね
+data_ws/rui_voice/voice_ev_wonder_02_4_23_16.wav|2|ああ。フェニックスステージの彼女とはもちろん、司くんやえむくんとも真逆だ
+data_ws/tsukasa_voice/voice_card_ev_wonder_09_15_4b_32_13.wav|3|オレはさっさと聞いてしまえばいいのにとやきもきしていた気がするな
+data_ws/rui_voice/voice_card_ev_wonder_05_24_4b_69_16.wav|2|フフフ。司くん、先程までの余裕はどうしたんだい？
+data_ws/rui_voice/voice_card_ev_wonder_06_22_2a_09_16.wav|2|……あのショーをかい？
+data_ws/nene_voice/areatalk_2_062_003.wav|1|……！！　う、うるさい、何これ
+data_ws/rui_voice/voice_ev_wonder_06_01_73_16.wav|2|え？
+data_ws/nene_voice/voice_card_ev_wonder_08_15_4b_52_15.wav|1|え？　意味わかんないけどそれおもしろそう
+data_ws/nene_voice/voice_ev_wonder_07_03_64_15.wav|1|えーっと、他のエリアのショーは……、今からだとちょっと時間があくみたい
+data_ws/rui_voice/voice_ev_wonder_08_01_54_16.wav|2|ふふ、ありがとう
+data_ws/nene_voice/voice_sc_ev_wonder_05_08_81_15.wav|1|わたしは、わたしにとって一番いい答えをだせるように考えていこうと思う
+data_ws/emu_voice/voice_card_ev_wonder_03_16_4b_73_14.wav|0|るんるーん♪お水バッシャーするボタンはどぉ～れっかなっ☆
+data_ws/tsukasa_voice/areatalk_2_189_005.wav|3|なっ！　ぐわー、やめろー！毎度毎度オレを巻き込むんじゃない！
+data_ws/tsukasa_voice/voice_ev_wonder_04_02_73_13.wav|3|な、なんだと！？
+data_ws/nene_voice/voice_ev_wonder_09_06_14_15.wav|1|あ……
+data_ws/nene_voice/voice_ev_shuffle_06_01_25_15.wav|1|その時は、歌っても歌っても、何かが足りないって思ってた。多分、今の星乃さんと同じ感覚だと思う
+data_ws/nene_voice/voice_sc_ev_wonder_05_08_11_15.wav|1|（だけど——）
+data_ws/tsukasa_voice/voice_card_ev_wonder_02_14_2a_51_13.wav|3|ああ……うん。お前はそういうヤツだったな
+data_ws/nene_voice/voice_ev_shuffle_07_06_38_15.wav|1|……なんだか嫌な感じ
+data_ws/emu_voice/voice_ev_wonder_03_04_40_14.wav|0|こんなにおっきなこと話したら……困らせちゃうよ……
+data_ws/emu_voice/voice_card_ev_shuffle_16_14_4b_13_14.wav|0|わあっ！　クマさんの包装紙かわいい！ありがとうお姉ちゃん！
+data_ws/tsukasa_voice/voice_card_ev_wonder_09_13_4a_10_13.wav|3|……おかしいな。さっきまで一緒にいたはずなんだが……
+data_ws/emu_voice/voice_card_ev_wonder_05_15_4b_03_14.wav|0|あのショーのあと、フェニックスワンダーランドのチケットの売り上げがまたちょっと良くなったってお兄ちゃん達が言ってたの！
+data_ws/tsukasa_voice/voice_ev_wonder_01_2_44_13.wav|3|観客に選んでもらうとなると、やはり派手で心に残る、楽しいものがいいだろう！
+data_ws/tsukasa_voice/voice_card_16_02b_20_13.wav|3|まったく……オレが見本を見せてやる。いいか？　こうだ！ドゥルドゥルドゥルドゥルドゥルドゥル……！……見てないでお前らもやれ！
+data_ws/tsukasa_voice/voice_ev_wonder_01_1_12_13.wav|3|ハーッハッハッハッ！　そうだろうとも！
+data_ws/emu_voice/voice_ev_wonder_07_08_69_14.wav|0|（あたしの夢もちゃんと、みんなの笑顔につながってたんだね……）
+data_ws/emu_voice/voice_card_fes_202112_16_4a_05_14.wav|0|うん！　新しい演出やなんかすっごいのができると、いっつも丁寧に説明してくれるし！
+data_ws/rui_voice/voice_card_ev_wonder_08_16_4a_33_16.wav|2|そしてあのショーは、えむくんのお祖父さんがフェニックスワンダーランドを造った時の出来事をモチーフとしている——
+data_ws/nene_voice/voice_sc_ev_wonder_05_07_83_15.wav|1|でも……今は人もあんまりいないし、ちょっと浜辺を見てからみんなの所に戻ろっか
+data_ws/tsukasa_voice/voice_card_ev_wonder_08_13_4b_06_13.wav|3|カイト、ミク、本当にありがとう！おかげでショーも大成功だった！
+data_ws/tsukasa_voice/voice_card_26_01a_23_13.wav|3|ん？　お前も何か発見したのか？せっかくだし言ってみろ
+data_ws/tsukasa_voice/voice_ev_wonder_07_02_08_13.wav|3|フッフッフ……そうか……ついに世界か……！
+data_ws/emu_voice/voice_sc_ev_shuffle_10_02_105_14.wav|0|う～～～～、わんだほーい！じゃあみんなで、その曲やろーよ☆
+data_ws/tsukasa_voice/voice_ev_shuffle_05_06_39_13.wav|3|あ、ああ……すまない。ちょっと考えごとをしてしまってな
+data_ws/emu_voice/voice_sc_ev_shuffle_10_01_82_14.wav|0|えへへ♪ダッシュで取ってくるから待ってて～！
+data_ws/emu_voice/voice_card_15_02b_14_14.wav|0|はいはーい！煙はなくして、みんなで爆発する！
+data_ws/emu_voice/areatalk_2_379_002.wav|0|うん！　あと、バク宙の練習も一緒にして楽しかったよ♪
+data_ws/tsukasa_voice/voice_unit_piapro16_02_13.wav|3|無論、大成功だったぞ！スターたるオレがいるのだから当然と言えば当然の結果――
+data_ws/nene_voice/voice_card_bd_202206_16_4b_15_15.wav|1|そうそう。小さい頃はオンライン対戦の機能、使わせてもらえなかったしね
+data_ws/tsukasa_voice/voice_card_bd_202207_15_4b_36_13.wav|3|何を言う！　かっこいいポーズほどのレパートリーはないがまだまだできるぞ！
+data_ws/emu_voice/voice_card_ev_shuffle_10_09_2a_11_14.wav|0|うん、それそれ！
+data_ws/nene_voice/voice_ev_shuffle_07_04_51_15.wav|1|も、もう無理……脱ぐ……休憩する……
+data_ws/nene_voice/voice_card_ev_shuffle_07_16_3b_10_15.wav|1|あ……まさか、例のパワードスーツを試すつもり？
+data_ws/emu_voice/voice_ev_wonder_08_04_10_14.wav|0|むー？　表面的って、どんな感じ？
+data_ws/tsukasa_voice/voice_ev_wonder_09_08_11_13.wav|3|いつ本番が来ても大丈夫なように万全の準備をしておきたいと思ってな
+data_ws/nene_voice/voice_card_ev_shuffle_12_05_4a_20_15.wav|1|そういう意味じゃ、青柳くんってかなり耳いいんだね。もともと音楽やってたとか？
+data_ws/rui_voice/voice_card_15_01b_44_16.wav|2|おや、そう見えるかい？……と、あれは……
+data_ws/rui_voice/areatalk_2_065_005.wav|2|フフフ、それはどうも
+data_ws/nene_voice/voice_ev_shuffle_19_07_35_15.wav|1|足速っ……！すごい勢い……！
+data_ws/tsukasa_voice/voice_ev_shuffle_12_06_15_13.wav|3|それよりも寧々！イベントに出るなら出るでどうして言わない！
+data_ws/rui_voice/voice_card_bd_202206_16_4a_44_16.wav|2|『期待を裏切るようで悪いけれど、学校では何もしないよ』
+data_ws/emu_voice/voice_card_ev_band_06_03_4a_19_14.wav|0|うん。穂波ちゃんも、志歩ちゃんも、バンドに一生懸命だもんね
+data_ws/rui_voice/voice_card_fes_202112_16_4a_35_16.wav|2|たしかに小さい頃、本がバラバラになるまで読んだから、あの小説の登場人物達のように、司くんを月まで届かせたかったのかもしれないね
+data_ws/rui_voice/voice_ms_wonder6_04_16.wav|2|すまないが、僕は、ひとりで気ままにやるのが好きなんだ
+data_ws/tsukasa_voice/voice_selfep_wonder_17_13.wav|3|……ああ、咲希というのは妹だ
+data_ws/rui_voice/areatalk_aprilfool2022_009_022.wav|2|では、スタート！
+data_ws/emu_voice/voice_ev_shuffle_01_2_12_14.wav|0|さっきからずっとずっとずーっと『例年通り』ばっかりで……
+data_ws/tsukasa_voice/voice_ev_shuffle_02_8_32_13.wav|3|ふふふ……学校中にオレの美声を響かせてやるぞ！
+data_ws/nene_voice/voice_card_ev_wonder_08_15_4b_14_15.wav|1|そっか。３人で集まった時、青柳くん、教室にいたもんね
+data_ws/rui_voice/voice_ev_wonder_09_02_57_16.wav|2|それは僕も一度考えたのだけれど……。晶介さんを置いていくわけにはいかないからね
+data_ws/tsukasa_voice/voice_ev_shuffle_17_05_85_13.wav|3|ただできれば、このショーをハッピーエンドで——笑顔で終わらせたいとも思う。それは観客だけでなく、キャストも含めてだ
+data_ws/nene_voice/areatalk_2_008_006.wav|1|……うん、すごい動くようになった
+data_ws/rui_voice/voice_ev_shuffle_19_08_34_16.wav|2|（次で最後のシーンだ。最大になった兵力で敵の本陣に攻めこむ）
+data_ws/rui_voice/voice_card_bd_202206_16_4a_04_16.wav|2|ああ。あとは裏に持って行くだけだろう？こっちはもう大丈夫だから、司くん達を手伝ってあげてくれ
+data_ws/rui_voice/voice_ev_shuffle_07_05_83_16.wav|2|そうだね。あとで下の管理事務所に看板のことを伝えておこう。じゃあ寧々、先に進もうか
+data_ws/rui_voice/voice_ev_wonder_06_08_70_16.wav|2|ああ。そうだよ
+data_ws/rui_voice/voice_ev_shuffle_19_03_41_16.wav|2|それより、今悩んでいるのは構成の整理かな。ベースの案は無数にあるから、それを可能な限り盛りこみつつ精査していきたいんだけど……うまく嚙み合わなくてね
+data_ws/rui_voice/voice_card_ev_wonder_08_15_4b_54_16.wav|2|フフ。大丈夫、本当にまっぷたつになるわけじゃないよ。実は、こんな演出を考えていてね——
+data_ws/rui_voice/voice_card_14_01b_45_16.wav|2|……たしかにそうだね
+data_ws/nene_voice/voice_card_15_02a_20_15.wav|1|何それ
+data_ws/nene_voice/voice_card_ev_wonder_02_15_4a_16_15.wav|1|そもそも、カラをやぶるって簡単に言うけど、具体的にはどうするわけ？
+data_ws/tsukasa_voice/voice_ev_wonder_01_7_19_13.wav|3|オレは未来のスター！　天馬司だぞ！
+data_ws/tsukasa_voice/voice_card_14_3a_33_13.wav|3|なんだ今のは！？　めちゃくちゃ危ないわ！
+data_ws/nene_voice/voice_ms_wonder16_28_15.wav|1|…………
+data_ws/emu_voice/voice_card_ev_shuffle_10_14_4a_13_14.wav|0|なんと来週、臨海学校があるんだよーーーっ♪
+data_ws/emu_voice/voice_ev_wonder_09_08_68_14.wav|0|明日……って
+data_ws/rui_voice/voice_card_16_01b_36_16.wav|2|……いや構わないよ。ただ、僕は単に好きだというより……
+data_ws/tsukasa_voice/voice_ev_wonder_08_01_09_13.wav|3|『どうして僕達が争わなくちゃいけないんだ！』
+data_ws/nene_voice/voice_ev_wonder_01_7_56_15.wav|1|ちゃんと着地した……！
+data_ws/emu_voice/voice_ev_shuffle_15_07_35_14.wav|0|わっはっはー！全部大吉大吉～！
+data_ws/emu_voice/voice_card_ev_wonder_08_16_4a_41_14.wav|0|うん！　ばいばーい！
+data_ws/nene_voice/voice_ev_wonder_03_05_76_15.wav|1|なんか事情があって、話せないのかもしれないけど……
+data_ws/tsukasa_voice/voice_card_bd_202205_13_4b_63_13.wav|3|わっ、すまん！
+data_ws/emu_voice/voice_card_ev_wonder_05_16_4a_25_14.wav|0|はーい！
+data_ws/nene_voice/voice_card_ev_shuffle_02_15_3a_05_15.wav|1|（接客がなければ、そう思えたんだけど……。ていうか、もっと楽なものにしてくれればよかったのに）
+data_ws/nene_voice/voice_sc_ev_wonder_05_07_69_15.wav|1|……はい
+data_ws/rui_voice/voice_ev_shuffle_12_06_39_16.wav|2|……そして、王子と会っていたことが露見した寧々演じる姫は地下牢に閉じこめられてしまう
+data_ws/nene_voice/voice_card_fes_202112_15_4b_33_15.wav|1|……なんで？なんでこのタイミングで、それなの？
+data_ws/rui_voice/voice_ev_wonder_09_04_69_16.wav|2|さて、主食も無事手に入れられたことだし、そろそろ晶介さんとネネロボの元へ戻ろうか
+data_ws/tsukasa_voice/voice_card_14_01b_52_13.wav|3|こら！　うかつに出ていくんじゃない！先生に見つかったらどうするんだ！
+data_ws/rui_voice/voice_ev_wonder_06_06_68_16.wav|2|……！
+data_ws/tsukasa_voice/voice_card_ev_wonder_09_13_4a_21_13.wav|3|……たしかに、なんとなく性格の違いがわかるな
+data_ws/nene_voice/voice_ev_wonder_02_7_67_15.wav|1|（だから、失敗するかもなんて考えないで、勝てないかもなんて悩まないで――）
+data_ws/rui_voice/voice_ev_wonder_06_02_41_16.wav|2|さらに、彼らは本当にお互いを信頼している証として、それぞれが大事にしている宝物を交換することで、より一層仲を深めようとした
+data_ws/emu_voice/voice_ev_wonder_03_02_20_14.wav|0|お客さん集めるために新しいアトラクションがいるってことはわかるよ！　でも……！
+data_ws/rui_voice/voice_ev_wonder_02_3_12_16.wav|2|フフ、そうだね。それは僕も許せないな
+data_ws/nene_voice/voice_sc_ev_wonder_05_07_03_15.wav|1|あ、ありがとうございます！
+data_ws/rui_voice/voice_card_ev_shuffle_17_13_4a_10_16.wav|2|ただ、もともと休みにしていた日だから、予定がある人もいると思うし、自由参加という感じでやろうか
+data_ws/nene_voice/voice_ev_wonder_08_04_74_15.wav|1|（……驚いた。そんな風に考えてたなんて）
+data_ws/tsukasa_voice/voice_card_ev_shuffle_02_13_3b_44_13.wav|3|心配するな。そういう生のリアクションが演劇を完成させていくものだからな
+data_ws/emu_voice/voice_ev_shuffle_22_07_30_14.wav|0|はーい！　わあ、おっきくてかっこいい～！
+data_ws/tsukasa_voice/voice_ms_wonder1_28_13.wav|3|わっ！　な、なんだ急に！？
+data_ws/emu_voice/voice_card_14_01a_34_14.wav|0|夕方になると『楽しい１日が終わっちゃう』って気がするの
+data_ws/rui_voice/voice_ev_shuffle_02_7_04_16.wav|2|うん。今、戯曲を読んでいてね
+data_ws/nene_voice/voice_ev_wonder_07_08_56_15.wav|1|あれだって『フェニックスワンダーランドを、みんなが笑顔になれる場所にしたい』ってえむが言ってくれたから実現したことでしょ？
+data_ws/tsukasa_voice/voice_card_ev_shuffle_04_03_4a_24_13.wav|3|なんでお前らはそんなにのんきなんだ！？咲希ー！　穂波ー！　大丈夫かー！？
+data_ws/rui_voice/voice_ev_wonder_01_8_42_16.wav|2|ふふ、そうかい？
+data_ws/nene_voice/voice_card_ev_wonder_04_22_3b_08_15.wav|1|ふふ、それならいいけど
+data_ws/nene_voice/voice_ev_wonder_02_2_43_15.wav|1|（……本当にすごい）
+data_ws/tsukasa_voice/voice_ev_wonder_02_5_56_13.wav|3|そのショーで妹があんまり喜ぶものだから、オレもこんな風に妹を笑わせられたらと思って、ショーをするようになったんだ
+data_ws/rui_voice/voice_card_ev_shuffle_12_13_4a_04_16.wav|2|では、片づけを始めようか
+data_ws/tsukasa_voice/voice_ev_shuffle_16_03_87_13.wav|3|本当に、今日は一体どうしたんだあいつは？
+data_ws/nene_voice/voice_ev_wonder_09_03_27_15.wav|1|でもキノコは毒が怖いし、あんまり手を出さないほうがいいんじゃない？
+data_ws/rui_voice/voice_ev_wonder_04_02_90_16.wav|2|このプランは、僕達みんなの自信作だからね
+data_ws/nene_voice/voice_ev_shuffle_22_01_24_15.wav|1|このゲーム大会の優勝賞品になってるゲームエキスポのVIP招待券が……その、どうしても欲しくて
+data_ws/nene_voice/voice_card_bd_202207_15_4b_11_15.wav|1|はいはい
+data_ws/tsukasa_voice/voice_card_21_wonder_02a_34_13.wav|3|……なんだか、余計な知恵を与えてしまった気が……
+data_ws/tsukasa_voice/voice_card_ev_wonder_05_24_4b_26_13.wav|3|よし、オレが拾う！スパイクは任せたぞ
+data_ws/rui_voice/voice_card_ev_wonder_09_16_2a_07_16.wav|2|そろそろ森に入って食べ物と水を探そうか
+data_ws/emu_voice/voice_ms_wonder7_29_14.wav|0|うんっ☆ネネロボちゃんのショー、スタート～っ！
+data_ws/emu_voice/voice_card_ev_wonder_08_15_4a_17_14.wav|0|うん、練習別々になっちゃったし、学校も違うから全然会えなくなっちゃったし……
+data_ws/rui_voice/voice_card_ev_shuffle_18_26_4a_10_16.wav|2|うん、いいんじゃないかな。あとは——
+data_ws/rui_voice/voice_card_ev_wonder_05_16_4a_11_16.wav|2|（プロジェクトワンダーの成功で、『みんなが笑顔になれる場所』というフェニックスワンダーランドのコンセプトは守ることができた）
+data_ws/emu_voice/voice_card_bd_202201_18_4b_45_14.wav|0|『すみませーん、ハンバーガーくださーい！』『はーい！　お店でお召し上がりになりますか？』
+data_ws/nene_voice/voice_card_ev_wonder_07_14_4b_51_15.wav|1|え、ちょっ……言いかた！変人の仲間入りみたいな言いかたやめてよね！
+data_ws/nene_voice/voice_card_bd_202208_01_4b_27_15.wav|1|でも、今日ならお祝いできそうってなって……。その……みんなで来ちゃった……
+data_ws/tsukasa_voice/voice_ev_wonder_08_04_53_13.wav|3|…………
+data_ws/nene_voice/voice_ev_shuffle_22_02_73_15.wav|1|（……なんだ。意外にみんな同じような名前みたい）
+data_ws/emu_voice/voice_card_ev_wonder_02_14_2a_67_14.wav|0|わははははっ！　もっともっと！とうっ、てやー！
+data_ws/tsukasa_voice/voice_card_ev_shuffle_17_13_4a_22_13.wav|3|チョコレートファクトリーという、文字どおりチョコの工場でのサプライズショーだ
+data_ws/nene_voice/voice_card_ev_wonder_07_16_2b_65_15.wav|1|それって、何か試すのに必要な物とかを類が作ってくれるってこと？
+data_ws/tsukasa_voice/voice_ev_shuffle_05_01_34_13.wav|3|（こちらもボロボロだ……）
+data_ws/rui_voice/voice_card_ev_wonder_09_13_4b_20_16.wav|2|やはり海水に浸かった影響がでているんだろうね。司くん、手早く用件を伝えて電源を落としたほうがよさそうだ
+data_ws/nene_voice/voice_sc_ev_wonder_05_04_64_15.wav|1|うん……最後の公演なら見に来れるって……
+data_ws/emu_voice/voice_card_14_02b_02_14.wav|0|あっいた！　ほら、あの子！今日もぷるぷるハムハムしてる！
+data_ws/tsukasa_voice/voice_card_ev_wonder_07_13_4b_17_13.wav|3|だが、たしかにパークについて早々、いい意味で圧倒されてしまったな
+data_ws/tsukasa_voice/voice_ev_wonder_03_07_35_13.wav|3|お前がみんなを笑顔にしたいように、オレ達だって、お前を笑顔にしたい
+data_ws/emu_voice/voice_ev_shuffle_01_5_43_14.wav|0|じゃあミクちゃん、あたし、行ってくるね。終わったら、また戻ってくるよー！
+data_ws/tsukasa_voice/voice_card_ev_shuffle_05_13_3a_11_13.wav|3|……咲希？
+data_ws/nene_voice/voice_card_15_02b_03_15.wav|1|……あの
+data_ws/rui_voice/voice_ev_shuffle_19_05_44_16.wav|2|はい
+data_ws/tsukasa_voice/voice_card_ev_shuffle_05_13_3a_01_13.wav|3|ひな祭りまであと１週間か……
+data_ws/tsukasa_voice/voice_ev_shuffle_17_08_55_13.wav|3|そうと決まったらさっそく食べるぞ！手を合わせて——
+data_ws/nene_voice/voice_card_ev_shuffle_10_14_4a_14_15.wav|1|……は？　もう、びっくりさせないでよ
+data_ws/rui_voice/voice_ev_wonder_06_08_74_16.wav|2|あんまり素敵なことがあると、逆に冷静になってしまうのかもしれないねえ
+data_ws/rui_voice/voice_card_ev_wonder_03_16_4b_37_16.wav|2|そのためには、ここにある10個の魔法のボタンを使うんだ
+data_ws/emu_voice/voice_card_ev_wonder_08_16_4a_46_14.wav|0|きっかけ？
+data_ws/emu_voice/voice_ev_wonder_07_07_09_14.wav|0|ワンダーステージを見てる時みたいに、おじいちゃんが隣にいてくれるような気がするんだ
+data_ws/rui_voice/voice_card_ev_shuffle_22_15_4b_08_16.wav|2|ところで、休憩中ずいぶん熱心にスマホをのぞいていたようだけど、何を見ていたんだい？
+data_ws/rui_voice/voice_ev_wonder_06_02_52_16.wav|2|少女は将校と、彼が持っている宝物さえ戻れば、みんなが再びわかりあえると信じて、将校を助けようとするんだ
+data_ws/tsukasa_voice/voice_card_ev_wonder_03_13_2b_41_13.wav|3|……ああ。そうみたいだな
+data_ws/rui_voice/voice_card_ev_shuffle_18_26_4a_17_16.wav|2|けれど、おじさん夫婦の家に田舎という不慣れな環境——話し相手になってくれる同年代の子供もいなくて、少女は寂しさを募らせていく
+data_ws/rui_voice/voice_card_ev_wonder_01_16_4a_10_16.wav|2|……これはもっと検証が必要だね。そうなると次にすべきことは——
+data_ws/rui_voice/voice_card_16_01a_39_16.wav|2|フフフ、とりあえず授業中ずっと動かしておけば放課後までには折り終わっていると思うよ
+data_ws/rui_voice/voice_card_15_02a_38_16.wav|2|もちろんさ。パフォーマーの要望に耳を傾けるのも演出家の務めだからねえ
+data_ws/emu_voice/voice_card_ev_shuffle_08_16_4b_13_14.wav|0|あ、動画に映ってるかな！どの人？
+data_ws/rui_voice/voice_card_ev_wonder_09_15_4a_24_16.wav|2|……それにしても、こんな時間にどうしたんだろうね？
+data_ws/emu_voice/voice_card_ev_wonder_06_14_4b_30_14.wav|0|（やっぱり、今のままじゃダメ！だって、最高のショーにしたいもん）
+data_ws/emu_voice/voice_card_15_3b_41_14.wav|0|寧々ちゃんといっぱいお話できて楽しいな～って思って！
+data_ws/rui_voice/voice_ev_wonder_01_5_32_16.wav|2|…………
+data_ws/emu_voice/voice_card_ev_wonder_08_15_4a_10_14.wav|0|あ、でもでも、司くん今、い～～～っぱいトルペのこと考えてるんだよね？
+data_ws/nene_voice/voice_sc_ev_wonder_05_07_39_15.wav|1|（世界中でショーをやるなんて、すっごく大変で、怖そうだけど——）
+data_ws/rui_voice/voice_ev_wonder_02_3_07_16.wav|2|うん、それがいいと思うよ。司くんだけじゃなく……寧々もね
+data_ws/nene_voice/voice_ev_shuffle_22_08_59_15.wav|1|今日はすっごく楽しかったし——みんなを笑顔にできてよかった
+data_ws/tsukasa_voice/voice_card_ev_wonder_08_16_4b_51_13.wav|3|あの頃の、愚かな自分とも向き合うことになるが……
+data_ws/nene_voice/voice_ev_wonder_07_02_12_15.wav|1|ちょっと、変なことはしないでよね。はぁ……このメンバーだと、楽しみ半分心配半分って感じ……
+data_ws/tsukasa_voice/voice_card_ev_wonder_06_13_3a_27_13.wav|3|そうだ！　特に、ショーの最中にヤツらが現れてみろ！観客の注意がヤツらに持っていかれるかもしれん！
+data_ws/tsukasa_voice/voice_ev_wonder_04_02_25_13.wav|3|仕方あるまい！行くぞ！
+data_ws/emu_voice/voice_ev_wonder_03_01_28_14.wav|0|お兄ちゃんがふたりと、お姉ちゃんがひとりいるんだよ！
+data_ws/nene_voice/voice_card_ev_wonder_07_16_2a_23_15.wav|1|どうしよう。えむに声かけてみる？
+data_ws/rui_voice/voice_ev_wonder_02_2_14_16.wav|2|まあ、時節柄どこも同じような内容になるだろうとは予想していたし、僕は問題はないと思うよ
+data_ws/tsukasa_voice/voice_card_ev_shuffle_01_14_4b_12_13.wav|3|……まったく、ただでさえ嵐みたいなヤツだが、ここ最近は狂ったように忙しそうだな
+data_ws/emu_voice/voice_card_ev_wonder_04_13_4b_18_14.wav|0|えっとね！　大事なことだから、ちゃんといろいろ話しあって決めるんだって
+data_ws/rui_voice/voice_ms_wonder17_18_16.wav|2|『僕もこんな風に、素敵なショーをしてみたい！』
+data_ws/emu_voice/voice_card_ev_wonder_05_16_4a_35_14.wav|0|ええー！　そんなの絶対ダメだよ！あたし、今日から毎日てるてる坊主作る！！
+data_ws/nene_voice/voice_ev_shuffle_22_05_69_15.wav|1|（少しずつ消せはしてるけど、それでも……！）
+data_ws/nene_voice/voice_card_ev_wonder_05_15_4b_14_15.wav|1|うん、そうだね
+data_ws/rui_voice/voice_card_ev_wonder_03_16_4b_01_16.wav|2|（あれから数日たったが、えむくんのお兄さん達にまだ目立った動きはない……）
+data_ws/rui_voice/voice_ms_wonder9_01_16.wav|2|うん。この台本の筋は把握したよ。『ツカサリオン』はオーソドックスな英雄譚だね
+data_ws/rui_voice/voice_ev_shuffle_19_07_58_16.wav|2|（派手さはないけど、表現したいことが伝わるし何より赤組のみんなの士気をこれ以上ないほど高めている）
+data_ws/rui_voice/voice_card_bd_202208_20_4b_79_16.wav|2|おや？　青柳くんがやるならと進んで協力してくれた、と白石くんから聞いているよ？
+data_ws/nene_voice/voice_card_26_01b_10_15.wav|1|…………あ
+data_ws/nene_voice/voice_ev_wonder_06_06_36_15.wav|1|始まったら呼ぼうと思ってたけど、待ちきれなくて来ちゃったんだね
+data_ws/emu_voice/voice_card_14_01b_41_14.wav|0|……大丈夫？　疲れてる？元気の出る歌、歌おっか？
+data_ws/nene_voice/voice_ev_wonder_06_01_87_15.wav|1|うん。ちゃんと頼ってよね、類
+data_ws/tsukasa_voice/voice_ms_wonder10_48_13.wav|3|おお、類。戻ったか。演技のヒントも掴めたことだ、そろそろ帰……
+data_ws/rui_voice/voice_ev_wonder_01_3_06_16.wav|2|このあいだ掃除をしている時、偶然見つけたんだ
+data_ws/tsukasa_voice/voice_ev_shuffle_17_05_01_13.wav|3|（な、なんだ！？どうして泣きだしたんだチョコ太！？　いや浜野さん！）
+data_ws/emu_voice/voice_ms_wonder2_21_14.wav|0|司くんの話なら、オーディションの時に聞いたよ？
+data_ws/nene_voice/voice_card_ev_wonder_08_15_4b_34_15.wav|1|……ねえ、あいつ何言ってんの？尊敬のまなざしって、本気？
+data_ws/nene_voice/voice_ms_wonder17_01_15.wav|1|ショーはひとりじゃできない……。類、そんなこと言ってたんだ……
+data_ws/emu_voice/voice_card_ev_shuffle_16_22_3a_14_14.wav|0|洗い物運ぶの、あたしも手伝うよー
+data_ws/tsukasa_voice/voice_ev_shuffle_16_05_47_13.wav|3|いや、それはこっちのセリフだぞ
+data_ws/tsukasa_voice/voice_ev_wonder_08_05_64_13.wav|3|トルペはここで、絶望しているんだぞ？
+data_ws/tsukasa_voice/voice_card_ev_wonder_08_13_4b_36_13.wav|3|では、次の宣伝公演が決まるまでは、また通常公演をしながら、オレ達なりのショーを磨いていくぞ！
+data_ws/nene_voice/voice_card_ev_shuffle_22_15_4a_16_15.wav|1|（でも、わたしもだいぶ慣れてきたし、この速さならまだついていける）
+data_ws/nene_voice/voice_ev_shuffle_04_04_40_15.wav|1|…………
+data_ws/emu_voice/voice_ev_shuffle_04_08_43_14.wav|0|わ、リンちゃんだ！今日のショー、見てくれた？
+data_ws/rui_voice/voice_ev_wonder_01_4_62_16.wav|2|……いや
+data_ws/tsukasa_voice/voice_card_bd_202208_20_4b_76_13.wav|3|誕生日パーティーを大いに盛り上げられて、オレは満足だ。暁山も、いい笑顔だったしな！
+data_ws/rui_voice/voice_ev_wonder_02_7_61_16.wav|2|え？
+data_ws/emu_voice/voice_selfep_wonder_04_14.wav|0|この名前は、あたしがいつも笑顔でいられますようにって意味とね
+data_ws/emu_voice/voice_ev_wonder_04_08_29_14.wav|0|『みんなを笑顔にする』フェニックスワンダーランドを、これからもずっと、残し続けていきたい！
+data_ws/rui_voice/voice_card_ev_wonder_03_15_4b_31_16.wav|2|これは僕らの出番のようだね。寧々、ちょっとこっちに
+data_ws/tsukasa_voice/voice_ms_wonder5_21_13.wav|3|（……しかし、あいつは良さそうだな）
+data_ws/rui_voice/voice_card_20_01b_24_16.wav|2|フフ、癖みたいなものだからね
+data_ws/nene_voice/voice_ev_shuffle_22_07_19_15.wav|1|はいはい。普通に呼んでくれていいから
+data_ws/emu_voice/voice_ev_night_09_06_23_14.wav|0|あっ、あたしはこれからショーをやるんです！実はここでショーキャストしてて！
+data_ws/emu_voice/voice_card_ev_shuffle_02_26_4b_30_14.wav|0|他にもおもしろいロミオがたくさんいるよ！
+data_ws/emu_voice/voice_sc_ev_wonder_05_06_40_14.wav|0|ええっ！？寧々ちゃん、歌いだしたよ！
+data_ws/tsukasa_voice/voice_card_ev_wonder_08_16_4b_40_13.wav|3|“人々を守る”というのは、ゴールの見えない道をひたすら走るようなものだ
+data_ws/rui_voice/voice_sc_ev_wonder_05_01_57_16.wav|2|そのステージなら、少しだけ知っているよ。海や浜辺に直接つながっているんだ
+data_ws/rui_voice/voice_card_fes_202112_16_4a_59_16.wav|2|（とりあえず、異変の原因はあの光る玉だろうけれど）
+data_ws/tsukasa_voice/voice_ev_wonder_07_02_96_13.wav|3|ほう。たしかにそれはオレも興味があるな。ならば、６時にみんなで聞くとしよう！
+data_ws/tsukasa_voice/voice_card_ev_wonder_04_13_4a_41_13.wav|3|ん？　お前から選んでいいんだぞ？
+data_ws/emu_voice/voice_ms_wonder2_34_14.wav|0|うう〜、一緒にやろうよ〜
+data_ws/emu_voice/areatalk_2_202_002.wav|0|さんとら……三匹のトラ？　がおーんっ♪
+data_ws/tsukasa_voice/voice_ev_wonder_06_01_24_13.wav|3|そ、そうだったのか……！！
+data_ws/emu_voice/voice_ev_shuffle_22_06_34_14.wav|0|そうだね！この調子でもっともっと盛り上がるといいな～！
+data_ws/rui_voice/voice_card_fes_202112_16_4b_76_16.wav|2|とても……、とても貴重な体験をさせてもらったよ
+data_ws/rui_voice/area3_212_001.wav|2|おや、えむくん。また来たのかい？
+data_ws/tsukasa_voice/voice_card_ev_wonder_05_14_2b_05_13.wav|3|お前が乱入してきた時は驚いたがな
+data_ws/emu_voice/voice_card_ev_band_06_03_4a_28_14.wav|0|えへへ。最初、穂波ちゃんが誰かを怒ってたって聞いて、大変だーってびっくりしちゃったけど——
+data_ws/nene_voice/voice_ms_wonder15_50_15.wav|1|（ここから見ると、ワンダーステージってこんなに広いんだ……）
+data_ws/rui_voice/voice_card_16_3b_48_16.wav|2|ふむ、誰の頭をロバの頭にしようかな？
+data_ws/emu_voice/voice_ev_shuffle_04_03_88_14.wav|0|それじゃあ、あたし達が案内するね！フェニックスワンダーランドの冒険に、しゅっぱーつ☆
+data_ws/rui_voice/voice_card_ev_wonder_06_13_3a_01_16.wav|2|司くん、必要な物はすべて準備完了だ。いつでもリハーサルを始められるよ
+data_ws/tsukasa_voice/voice_ev_shuffle_05_06_08_13.wav|3|しかし、咲希のためにパーティーを盛り上げたい……！今回のひな祭りを最高のものにしてやりたい！
+data_ws/emu_voice/voice_ev_wonder_09_03_82_14.wav|0|上見て、上っ！
+data_ws/tsukasa_voice/voice_card_ev_wonder_06_16_4a_48_13.wav|3|というか……言いたいことでも話したいことでも、この際、全部聞くぞ
+data_ws/rui_voice/voice_card_bd_202205_13_4b_73_16.wav|2|おや？　それはもちろん、そっちのほうがスリリングで面白いからだよ
+data_ws/nene_voice/voice_card_ev_wonder_09_14_4b_10_15.wav|1|はいはい。気を抜いたリハなんてする意味ないでしょ
+data_ws/emu_voice/voice_sc_ev_wonder_05_08_62_14.wav|0|ルカお姉さん見て見て～！花火の色が変わるよ～！
+data_ws/emu_voice/voice_ev_wonder_07_01_24_14.wav|0|——隊長～！アイディアいっぱい持ってきましたっ！
+data_ws/tsukasa_voice/voice_ev_shuffle_05_06_20_13.wav|3|そっ、そんなことはないぞ！オレはいつでも順風満帆！　栄養満点！
+data_ws/rui_voice/voice_ev_shuffle_19_01_18_16.wav|2|応援団に……
+data_ws/rui_voice/voice_ev_shuffle_08_07_58_16.wav|2|東雲くん、白石くん！プランを少し変更する！
+data_ws/rui_voice/voice_ev_shuffle_19_05_43_16.wav|2|——もちろんです
+data_ws/rui_voice/voice_ev_wonder_04_04_35_16.wav|2|ああ。この更衣室を抜けるルートで行けば可能だよ。前に実際に走ってみたからわかる
+data_ws/tsukasa_voice/voice_card_13_3a_34_13.wav|3|（そういえば、あのセカイとやらには、不思議な生き物がいたな）
+data_ws/tsukasa_voice/voice_ev_wonder_08_01_17_13.wav|3|どわっ！？す、すまん……
+data_ws/rui_voice/voice_ev_shuffle_19_08_17_16.wav|2|（このあとは……）
+data_ws/emu_voice/voice_card_ev_wonder_08_15_4a_12_14.wav|0|考えすぎて、プシューってなってないかな？お腹とかもすいてるんじゃないかな？
+data_ws/rui_voice/voice_card_26_01b_23_16.wav|2|それに、歌声にも興味があるんだよ
+data_ws/tsukasa_voice/voice_card_16_01a_38_13.wav|3|お、おう。なんだかよくわからんが、すごいな！
+data_ws/rui_voice/voice_card_ev_wonder_09_16_2a_30_16.wav|2|あともうひとつ——仮に今、僕達が司くんのスマホでセカイに行ったとして……
+data_ws/rui_voice/voice_card_ev_shuffle_07_16_3a_41_16.wav|2|（ということは、さっき瑞希が笑ったのは誤魔化すためではなく、僕のため、か……）
+data_ws/tsukasa_voice/voice_ev_wonder_07_05_29_13.wav|3|——予算か。それだけの工事をして、なおかつ運用できるだけの予算があるかどうかを考えなければな
+data_ws/tsukasa_voice/voice_ev_wonder_08_05_09_13.wav|3|あの時は、悪役をあまりやったことがなかったから、どう演じたものか悩んでいたんだが……
+data_ws/rui_voice/voice_ev_shuffle_19_08_37_16.wav|2|（いいぞ、完璧だ！次は、ターンの遠心力で衣装を翻して——）
+data_ws/tsukasa_voice/voice_ms_wonder18_66_13.wav|3|…………っ
+data_ws/tsukasa_voice/voice_card_ev_wonder_09_15_4b_39_13.wav|3|だから、咲希に聞けばすぐに……だー！そもそも、もう一度連絡先を聞くだけだろうが！
+data_ws/tsukasa_voice/voice_ms_wonder9_59_13.wav|3|ハァ、ハァ、ハァ……。も、もう一歩も動けん……！！
+data_ws/emu_voice/voice_ev_shuffle_01_5_32_14.wav|0|そうだ、もうすぐあたし、二人三脚に出るんだ。ミクちゃんにはそれを応援してもらって——
+data_ws/emu_voice/voice_ms_wonder20_12_14.wav|0|わ……
+data_ws/emu_voice/voice_sc_ev_shuffle_10_01_115_14.wav|0|じゃあ、レッツゴー！！
+data_ws/nene_voice/voice_ev_shuffle_22_03_63_15.wav|1|ううっ、まぶしい……。舞台照明より明るいんじゃない、これ……
+data_ws/tsukasa_voice/voice_ms_wonder13_71_13.wav|3|……静かだな。誰もいないのか？いつもはすぐにミク達がやってくるのに……
+data_ws/emu_voice/voice_ev_shuffle_03_13_2b_25_14.wav|0|くるくる……くる、るるるる～……！あはははっ……！
+data_ws/emu_voice/voice_sc_ev_shuffle_10_07_39_14.wav|0|それじゃあ、このお魚さんを最後は海にかえしてあげましょう！
+data_ws/nene_voice/voice_ms_wonder16_02_15.wav|1|……っごめんなさい！
+data_ws/tsukasa_voice/voice_ev_wonder_06_06_18_13.wav|3|庭も立派だな……！ここだけまるで海外のようだ
+data_ws/nene_voice/voice_ev_wonder_09_08_03_15.wav|1|もう、えむってば。どんな夢見て——
+data_ws/rui_voice/voice_card_ev_shuffle_04_16_2b_40_16.wav|2|フフ、ぬかりはないよ。まずはそこの、茂みの近くまで行こう
+data_ws/tsukasa_voice/area3_204_005.wav|3|だもんって、はぁ……。おい、類からも何か言って……
+data_ws/nene_voice/voice_ev_wonder_01_4_43_15.wav|1|類……？
+data_ws/nene_voice/voice_ev_wonder_09_05_58_15.wav|1|（そういう怖さに比べたら、今は……！）
+data_ws/tsukasa_voice/voice_card_ev_shuffle_05_13_3a_05_13.wav|3|フフフ、新しく、そして綺麗になったアレを見て、咲希も驚くに違いない！
+data_ws/tsukasa_voice/voice_ms_wonder2_29_13.wav|3|っぐええー！
+data_ws/emu_voice/voice_ev_wonder_03_07_09_14.wav|0|（乗るところがかわいいおさかなさんの形してて、ちっちゃい子がいっぱい遊んでて……）
+data_ws/tsukasa_voice/areatalk_2_047_001.wav|3|次のショーの演出なんだが、跳ぶというのはどうだ？
+data_ws/rui_voice/areatalk_2_393_004.wav|2|うん。きっと面倒事に巻き込まれる気配を察知して見てみぬふりをしたんだろうね
+data_ws/tsukasa_voice/voice_card_26_01a_09_13.wav|3|人の背後から急に出てくるんじゃない！
+data_ws/rui_voice/voice_card_ev_shuffle_07_16_3a_27_16.wav|2|（しばらく前に、学校で会った時も感じたけれど、何か……）
+data_ws/nene_voice/voice_card_ev_wonder_03_15_4b_02_15.wav|1|（他の会社と提携しなくてすめば、えむが残したい今のフェニックスワンダーランドを守れる）
+data_ws/nene_voice/voice_card_ev_wonder_04_15_4b_14_15.wav|1|…………
+data_ws/tsukasa_voice/area3_228_001.wav|3|寧々、お前B組だったんだな。じゃあ、冬弥と同じクラスか
+data_ws/rui_voice/areatalk_2_381_003.wav|2|あとは、仕組みがどうなっているのか知りたくてオモチャのロボットや家にあった電子機器はいくつも解体（バラ）してみたね
+data_ws/rui_voice/voice_card_13_3b_07_16.wav|2|おやおや、わざわざ迎えに来てくれたのかい？
+data_ws/nene_voice/voice_ev_wonder_09_03_13_15.wav|1|そんな簡単に、どうにかなるものなの……？
+data_ws/emu_voice/area3_187_004.wav|0|えっ、それホント！？　すごーい！
+data_ws/rui_voice/voice_card_ev_shuffle_01_21_3b_14_16.wav|2|中身は……なるほど、観覧車のおもちゃだね
+data_ws/tsukasa_voice/voice_card_11_3b_08_13.wav|3|ああ、あのぼーっとしていた時のことか。オレは、別に大したことはしていないぞ
+data_ws/rui_voice/voice_card_ev_wonder_01_16_4a_03_16.wav|2|（これまではステージ上を飛ぶ形で使ってきたが、男性アイドルのライブで行われるようなフライングも面白そうだ）
+data_ws/tsukasa_voice/voice_ev_shuffle_05_02_02_13.wav|3|遊びではないぞ、これから練習を——ってコラえむ！　走って行くんじゃなーい！
+data_ws/emu_voice/voice_ev_shuffle_01_6_31_14.wav|0|あれだけ一緒にがんばってきたんだもん！もうあたしと遥ちゃんは、最高のコンビになれてるっ！
+data_ws/emu_voice/voice_ev_shuffle_01_4_37_14.wav|0|（や、やっぱり怖いよ～～～！！）
+data_ws/tsukasa_voice/voice_ev_wonder_09_04_32_13.wav|3|耐えっ……はっ……、耐えてみせっ……る！！
+data_ws/rui_voice/voice_card_ev_wonder_05_15_4b_10_16.wav|2|そして、それを狙ってえむくんのお兄さん達もしっかりHPやSNSで告知したんだろうね
+data_ws/rui_voice/voice_card_20_01b_26_16.wav|2|その友人に似せて作ろうと思うから衣装も、それにあうように作ってもらっていいかな？
+data_ws/emu_voice/voice_ev_wonder_04_02_49_14.wav|0|今まで以上にお客さんをいっぱい呼ぶなら、海外の会社と提携したほうがいいかもしれないってことも……
+data_ws/tsukasa_voice/voice_card_ev_wonder_02_14_2b_34_13.wav|3|なに！？　タイミングをズラしてきただと！？
+data_ws/tsukasa_voice/voice_card_02_3a_34_13.wav|3|なんだなんだ？　元気がないな。あいつらに会うのを一番楽しみにしていたじゃないか
+data_ws/rui_voice/voice_card_14_02b_04_16.wav|2|ふむ。たしかにあの少女には見覚えがあるねえ
+data_ws/emu_voice/voice_card_ev_band_06_03_4a_09_14.wav|0|もし本当だったら、誰かとケンカしちゃったのかなって思って……
+data_ws/emu_voice/voice_ev_wonder_07_01_10_14.wav|0|えへへ♪　とっても嬉しいな～っ！！
+data_ws/tsukasa_voice/voice_ev_shuffle_04_05_45_13.wav|3|そうだな。咲希達の分も買ってくるから、少し待っていてくれ！
+data_ws/rui_voice/voice_card_ev_shuffle_22_15_4b_39_16.wav|2|フフ、僕ならどうするかあらかじめイメージしておいて、比較したら楽しそうだ
+data_ws/emu_voice/voice_ev_wonder_03_03_54_14.wav|0|で、でも……っ！
+data_ws/emu_voice/voice_card_ev_wonder_09_14_4a_38_14.wav|0|ほえ、それだけ？
+data_ws/rui_voice/voice_card_16_01b_22_16.wav|2|はぁ……あ、そういえば司くん、虫が苦手だったねぇ？
+data_ws/emu_voice/voice_ev_wonder_06_06_74_14.wav|0|あたしは大丈夫だよ☆もう１回やってみよー！
+data_ws/emu_voice/voice_card_ev_wonder_02_14_2a_17_14.wav|0|うん！　毎年、着ぐるみさん達と一緒に飾りつけしてたんだけど、今年はみんなとしたいんだ♪
+data_ws/nene_voice/area3_188_001.wav|1|今さらだけど、雲、ピンク色がかってない？
+data_ws/tsukasa_voice/areatalk_2_043_001.wav|3|フッ……！　ハッ……！
+data_ws/rui_voice/voice_ms_wonder9_36_16.wav|2|……へえ。……それじゃあ……
+data_ws/rui_voice/voice_card_ev_wonder_07_15_3a_20_16.wav|2|寧々のお気に入りだからね
+data_ws/rui_voice/voice_sc_ev_wonder_05_01_05_16.wav|2|フフフ。このスター養成スーツは、改良を重ねた結果、ステージの屋根くらいまではジャンプできるようになったんだよ
+data_ws/nene_voice/voice_ev_wonder_09_02_76_15.wav|1|わたし達のために……？
+data_ws/rui_voice/voice_card_ev_wonder_02_16_3a_25_16.wav|2|あった。ちゃんと再生できればいいんだが……
+data_ws/emu_voice/voice_sc_ev_shuffle_10_02_02_14.wav|0|みんなでスイカ割りしてたんだけど、お手伝いとか片づけしてたら遅くなっちゃった……
+data_ws/emu_voice/voice_card_ev_wonder_06_16_4b_03_14.wav|0|ほえ？　あと２公演くらいなら全然へっちゃらだよ♪
+data_ws/nene_voice/voice_ev_wonder_06_02_89_15.wav|1|あ、それは……
+data_ws/emu_voice/voice_ev_shuffle_01_5_50_14.wav|0|（ミクちゃんが応援してくれてるんだから、がんばらなくっちゃ！）
+data_ws/emu_voice/voice_ms_wonder10_71_14.wav|0|でもなんとなく、しょんぼりしてるように見えたんだけどなー？
+data_ws/nene_voice/voice_card_ev_shuffle_22_15_4b_40_15.wav|1|じゃあ、原作のゲーム貸そうか？
+data_ws/tsukasa_voice/voice_ms_wonder15_12_13.wav|3|超がつくレベルの金持ちじゃないか！それがどうしてこんなところで！？
+data_ws/nene_voice/voice_ev_shuffle_22_01_64_15.wav|1|うん。……ありがと
+data_ws/emu_voice/voice_sc_ev_shuffle_10_03_15_14.wav|0|穂波ちゃん、咲希ちゃん、あたし達の準備終わったよー！
+data_ws/rui_voice/voice_ev_shuffle_02_5_26_16.wav|2|フフ。そんな顔をしないでほしいな。今はもう、僕の想いに応えてくれる相手がいるんだ
+data_ws/rui_voice/voice_card_ev_shuffle_01_14_4b_58_16.wav|2|えむくん、体育祭を最高のショーにするんだろう？
+data_ws/rui_voice/voice_card_10_01b_18_16.wav|2|ああこれかい？　フフ……安心してほしいな。学校では決して使用しないとも
+data_ws/tsukasa_voice/voice_card_ev_wonder_03_16_4b_11_13.wav|3|な、なんとか生還した……
+data_ws/tsukasa_voice/voice_ev_shuffle_05_03_81_13.wav|3|そのあと、ひな人形を見に店へ行ったんだが小学生の小遣いでは到底買える代物ではなかった
+data_ws/rui_voice/voice_card_fes_202112_15_4a_06_16.wav|2|フフ、正解だよえむくん
+data_ws/emu_voice/voice_ev_wonder_06_01_64_14.wav|0|すーっごく大きいから、木登りも楽しいんだよ！お兄ちゃん達ともいっぱい登ったよねー！
+data_ws/nene_voice/voice_ev_shuffle_22_06_15_15.wav|1|あ……ありがと。でも、結局負けちゃったわけだし
+data_ws/emu_voice/voice_ev_shuffle_22_05_33_14.wav|0|ここから、ババーンっといっちゃうよー！えーいっ！
+data_ws/tsukasa_voice/voice_ev_wonder_01_4_45_13.wav|3|前回はゾンビロボットに足を引っ張られてしまったが、今回は見事に決めてやるぞ！
+data_ws/rui_voice/voice_card_ev_shuffle_07_16_3a_13_16.wav|2|まあねえ……おや、噂をすれば——
+data_ws/tsukasa_voice/voice_card_14_3a_15_13.wav|3|とにかく、今日、ここに来るように伝えてある。この後ふたりでそいつを迎えるぞ！
+data_ws/rui_voice/voice_ev_wonder_06_06_71_16.wav|2|……ああ。素晴らしいジャンプだったよ、えむくん！
+data_ws/tsukasa_voice/voice_ms_wonder12_49_13.wav|3|な……っ！
+data_ws/emu_voice/voice_ev_wonder_07_08_14_14.wav|0|……でも……
+data_ws/rui_voice/voice_card_ev_wonder_01_16_4b_04_16.wav|2|奥行きと高さも測ったし、次は照明の数だね
+data_ws/nene_voice/voice_card_ev_shuffle_18_26_4a_04_15.wav|1|みんな、いくよ？ワン、ツー、スリー、フォー！
+data_ws/tsukasa_voice/voice_card_ev_shuffle_02_13_3a_31_13.wav|3|おお、だいたいの劇は衣装が遅れがちになるものだが、うちのクラスの衣装班は素晴らしいな！
+data_ws/nene_voice/voice_card_ev_wonder_05_15_4a_22_15.wav|1|（……って、聞き入っちゃダメ！わたし達のショーに使えそうなアイディアを考えないと）
+data_ws/emu_voice/voice_sc_ev_shuffle_10_02_06_14.wav|0|さっき遊んでる時、ピンクのかわいい貝も見つけたんだっ。メイコお姉さん達にもあげたら、きっと喜んでくれると思う！
+data_ws/emu_voice/voice_card_ev_shuffle_10_14_4a_50_14.wav|0|あたし、それぜーんぶやってくる！
+data_ws/rui_voice/voice_card_ev_wonder_01_16_4a_08_16.wav|2|（だが、複数人で同時にできればインパクトもあるし、印象的なシーンにもできる）
+data_ws/rui_voice/voice_ev_shuffle_07_01_118_16.wav|2|……ああ、うん。少しね。それよりどうしたんだい？
+data_ws/emu_voice/voice_card_ev_shuffle_16_14_4b_05_14.wav|0|思いだすと嬉しくなっちゃうなあ
+data_ws/tsukasa_voice/voice_ms_wonder15_23_13.wav|3|え？
+data_ws/tsukasa_voice/voice_ev_shuffle_17_07_38_13.wav|3|浜野さん！
+data_ws/nene_voice/voice_ev_wonder_03_08_57_15.wav|1|うん。ほんと
+data_ws/emu_voice/voice_card_ev_shuffle_01_14_4b_09_14.wav|0|みんなー！
+data_ws/nene_voice/areatalk_2_293_003.wav|1|まあ……確かに、あれはあれで面白いけど
+data_ws/nene_voice/voice_card_ev_shuffle_02_15_3a_28_15.wav|1|類……えっと、神代先輩なら、知りあいだから！わ、わたし、頼んでみる……！
+data_ws/tsukasa_voice/areatalk_2_195_002.wav|3|ああ、お前と類とで準備したとかいうアレか。で、具体的に何が届くんだ？
+data_ws/rui_voice/voice_ev_shuffle_19_03_47_16.wav|2|となると、劉備のイメージと合うのは……
+data_ws/nene_voice/voice_ev_wonder_09_04_60_15.wav|1|それ、もっと早く言ってよ……。……まあ、結果的に採れたからいいけど
+data_ws/tsukasa_voice/voice_sc_ev_wonder_05_04_57_13.wav|3|例の俳優と会っただとぉ！？
+data_ws/nene_voice/voice_card_bd_202207_15_4b_62_15.wav|1|なんか、ちょっと照れくさいよね。高校生にもなって誕生日パーティーなんて
+data_ws/emu_voice/voice_ev_shuffle_01_6_21_14.wav|0|聞いたよ！　このあとの学年対抗リレー出るんでしょ？
+data_ws/emu_voice/voice_card_ev_wonder_08_15_4a_27_14.wav|0|あ！　でも今日は司くんにバレちゃいけないから、挨拶も小さい声にしたんだっ☆
+data_ws/emu_voice/areatalk_2_374_003.wav|0|えへへ、バク宙みたいなアクロバット得意なんだっ☆
+data_ws/tsukasa_voice/voice_card_ev_shuffle_02_13_3a_15_13.wav|3|ん？
+data_ws/nene_voice/voice_ev_wonder_01_6_61_15.wav|1|アイツってすごいバカだし。なんていうんだろ？　ショーバカ？
+data_ws/tsukasa_voice/voice_ev_wonder_09_08_04_13.wav|3|あめんぼ赤いなあいうえおーーー！！！
+data_ws/emu_voice/voice_ms_wonder7_33_14.wav|0|うわー！　足がすっごいスピードでバタバタしてるよ～！
+data_ws/emu_voice/voice_ev_shuffle_15_07_31_14.wav|0|あっ、こっちも大吉！これも大吉だよ～！！　また大吉！！　あっちもこっちも大吉！！
+data_ws/nene_voice/voice_ev_wonder_09_04_41_15.wav|1|（類や司は山菜を採ってくれたし、えむだって木の実を採ってきてくれた。それなのに、まだわたしだけ何もできてない）
+data_ws/nene_voice/area3_197_002.wav|1|は？　急に何を言いだすわけ？
+data_ws/emu_voice/voice_card_ev_wonder_04_13_4b_63_14.wav|0|うん♪　あっ、そーだ！
+data_ws/nene_voice/voice_card_ev_wonder_01_15_2b_48_15.wav|1|……！
+data_ws/tsukasa_voice/voice_card_ev_wonder_04_13_4a_05_13.wav|3|そう！　今のオレ達ならば、フェニックスステージに負けないショーを確実に作れる！
+data_ws/nene_voice/voice_card_ev_wonder_06_16_4b_09_15.wav|1|お客さん達からも歓声あがってたしね
+data_ws/tsukasa_voice/voice_sc_ev_wonder_05_01_85_13.wav|3|さて、それでは早速演目を決めるとしよう！各自、アイディアはあるか？
+data_ws/tsukasa_voice/voice_ms_wonder4_08_13.wav|3|帰る！　オレは帰るぞ！そうだ。あの『Untitled』って曲を止めれば……
+data_ws/tsukasa_voice/voice_card_13_3b_01_13.wav|3|（４人でのステージは大成功だったな。観客も、オレ達も、みんな笑顔になった）
+data_ws/tsukasa_voice/voice_card_16_01a_17_13.wav|3|へ……？
+data_ws/tsukasa_voice/voice_ev_wonder_08_01_31_13.wav|3|へ？
+data_ws/nene_voice/voice_card_ev_shuffle_12_13_4a_17_15.wav|1|えっと……
+data_ws/rui_voice/voice_card_ev_wonder_07_13_4b_26_16.wav|2|特にあのワイヤーアクション……。ワイヤーがあることを感じさせないような、自然な使われかたをしていた
+data_ws/tsukasa_voice/voice_card_ev_wonder_02_16_3b_16_13.wav|3|まあいくつかは……ヒーローステージでは、ヒーロー達が遊園地の平和を守るために悪の怪人と様々なゲームで勝負するショーだったな
+data_ws/emu_voice/voice_card_ev_wonder_08_14_3b_34_14.wav|0|やったー！　司くん、今笑ってくれてたよね！
+data_ws/rui_voice/voice_ev_shuffle_19_04_79_16.wav|2|信頼……
+data_ws/nene_voice/voice_card_ev_wonder_02_14_2b_21_15.wav|1|ほら、飾りの梱包用とかでプチプチなシートもあるし。あれでキャッチすれば手も痛くないし
+data_ws/rui_voice/areatalk_2_065_003.wav|2|なるほど。それで学校で時間潰し、を？
+data_ws/emu_voice/voice_ev_wonder_03_02_33_14.wav|0|……なんで！？うちにだってフェニーくんやポチ公くんがいるのに……！
+data_ws/tsukasa_voice/voice_ev_wonder_03_08_18_13.wav|3|うーーーーむ、しかし、企業との提携か……
+data_ws/tsukasa_voice/voice_ev_wonder_03_06_73_13.wav|3|それはもちろん、この観覧車に乗るためだ！
+data_ws/nene_voice/voice_ms_wonder11_40_15.wav|1|あとは歌って……うん、この流れは大丈夫。……でも、もう１回やっておこう
+data_ws/tsukasa_voice/area3_214_002.wav|3|そうだな。ああいう情報はどこから仕入れてくるんだ？
+data_ws/tsukasa_voice/area3_232_008.wav|3|類にしては安全かつ平和な提案だしな。よし、向こうに戻ってさっそく実験だ！
+data_ws/tsukasa_voice/voice_ev_shuffle_17_01_59_13.wav|3|ああ。オレもそう思って調べてみたところ、ちょっとしたミュージアムを兼ねているようでな
+data_ws/tsukasa_voice/voice_ev_shuffle_05_06_77_13.wav|3|これが落ち着いていられるか！！穂波がわざわざここまで来たということは咲希に何かあったんだろう！？
+data_ws/tsukasa_voice/voice_ev_wonder_07_04_36_13.wav|3|……今、なんと言ったんだ？
+data_ws/nene_voice/voice_card_ev_shuffle_22_15_4a_23_15.wav|1|あ、青柳くん……！？いつの間に……っていうか、今の見てたの！？
+data_ws/tsukasa_voice/voice_ev_shuffle_02_2_20_13.wav|3|……ん？　オレは悲劇のつもりで台本を書いたんだが……
+data_ws/rui_voice/voice_card_16_02a_18_16.wav|2|提案があるんだ。僕にネネロボを、しばらく預からせてくれないかい？
+data_ws/emu_voice/voice_card_ev_wonder_02_25_3b_32_14.wav|0|パレード！？　いいなぁー！それすっごく見たかった～！
+data_ws/tsukasa_voice/voice_card_bd_202205_13_4b_109_13.wav|3|これほどの多くの想いに報いていくのは時間がかかるが、最高のショーという形で返していければと思う
+data_ws/rui_voice/voice_ev_wonder_06_02_50_16.wav|2|そして大臣のせいで、森の人々と町の人々は、大きな戦いをおこそうとしてしまう
+data_ws/rui_voice/voice_ms_wonder11_17_16.wav|2|宣伝も着ぐるみくん達に手伝ってもらって、十分できたからね。きっとお客さんもたくさん集まるはずさ。それと……
+data_ws/tsukasa_voice/voice_selfep_wonder_30_13.wav|3|……違う？　何が違うと言うんだ
+data_ws/rui_voice/voice_card_ev_wonder_09_16_2b_27_16.wav|2|ん？　何がだい？
+data_ws/emu_voice/voice_ev_wonder_04_08_66_14.wav|0|えっ！？
+data_ws/emu_voice/voice_ev_wonder_07_01_39_14.wav|0|はい！　これで全部だよ！
+data_ws/emu_voice/voice_ev_wonder_01_2_35_14.wav|0|『優勝したユニットは、フェニックスワンダーランドの宣伝大使となり、テレビCMに起用される』だって
+data_ws/emu_voice/voice_ev_wonder_01_7_69_14.wav|0|……えへへっ♪類くん、とっても楽しそうだね！
+data_ws/tsukasa_voice/voice_ev_shuffle_05_08_19_13.wav|3|……それに、咲希の気持ちも考えず、勝手にひな人形を取り替えてしまったこともそうだ
+data_ws/tsukasa_voice/voice_ev_shuffle_12_06_38_13.wav|3|ああ、教えるにしても、オレ達がやっている方法がいいと思ってな。では、準備ができ次第始めるぞ！
+data_ws/nene_voice/voice_ev_wonder_09_05_34_15.wav|1|ど……どうしてわたしなの！？
+data_ws/tsukasa_voice/voice_card_21_wonder_02a_35_13.wav|3|だが、型にはまらない、ということ自体は大事なことだな。それに気づけただけでも、ここに来てよかったかもしれないな
+data_ws/nene_voice/voice_card_ev_wonder_06_16_4b_46_15.wav|1|それもいいけど、今日は打ち上げのために来たんでしょ
+data_ws/rui_voice/voice_ms_wonder17_33_16.wav|2|昨日のことかい？それなら、別に話すことはないだろう。それより……
+data_ws/tsukasa_voice/voice_card_13_02a_37_13.wav|3|……おい、オレはこっちからやる。お前はそっちのはしからだ
+data_ws/nene_voice/voice_card_ev_wonder_06_15_4a_15_15.wav|1|次のショー、絶対、成功させたいね。この遊園地のためにも、類のためにも
+data_ws/nene_voice/voice_card_ev_band_03_01_3b_48_15.wav|1|あ……。じゃあ、歌の練習はもう……
+data_ws/rui_voice/voice_card_fes_202112_16_4b_79_16.wav|2|ああ……！やりたい演出が次から次へとわいてくる！
+data_ws/nene_voice/voice_ev_shuffle_04_07_09_15.wav|1|は、話ってなに……？
+data_ws/emu_voice/voice_card_03_01b_16_14.wav|0|……あれ？でも、ただ驚かせるだけじゃ、どっきりじゃないんだっけ？
+data_ws/rui_voice/voice_card_fes_202112_16_4a_52_16.wav|2|……ふむ
+data_ws/rui_voice/voice_ev_wonder_02_7_28_16.wav|2|フフ
+data_ws/rui_voice/voice_card_ev_shuffle_02_26_4b_19_16.wav|2|仮に、この場にいる全員が演者になっても、まだ足りないはずだ
+data_ws/emu_voice/voice_card_ev_wonder_01_14_3a_36_14.wav|0|うん、この子だよ？ちゃりーん♪
+data_ws/tsukasa_voice/voice_ev_shuffle_17_03_20_13.wav|3|どわっ！レ、レン！？
+data_ws/rui_voice/voice_ev_wonder_07_06_68_16.wav|2|今日は、迷子の子と一緒にあちこち見ている時、何かメモをしたり、考えこんでいるような顔をしていたしね
+data_ws/rui_voice/voice_card_ev_wonder_03_16_4a_25_16.wav|2|そして今も、多くの観客にショーと笑顔を届けられている
+data_ws/rui_voice/voice_ms_wonder5_38_16.wav|2|君をずっと見ていたからさ
+data_ws/rui_voice/voice_card_ev_shuffle_19_16_4a_31_16.wav|2|（……ありがとう、みんな。きっと最後までやり遂げてみせるよ）
+data_ws/emu_voice/voice_ev_shuffle_03_13_1_37_14.wav|0|さあ、いくよミクちゃん！
+data_ws/rui_voice/voice_card_ev_wonder_03_16_4a_21_16.wav|2|……仕方ない。じゃあ、かわりに僕の話をしよう
+data_ws/nene_voice/voice_card_ev_shuffle_04_16_2b_04_15.wav|1|はぁ……
+data_ws/rui_voice/voice_ev_shuffle_19_01_60_16.wav|2|……２年の神代類です。よろしくお願いします、団長
+data_ws/emu_voice/voice_ev_shuffle_19_03_57_14.wav|0|あたしも、体育祭の日は遠くからギューンと応援パワーを送るよ！
+data_ws/tsukasa_voice/voice_ev_wonder_07_05_34_13.wav|3|また急に走り出したぞ！どこに行く気だ！？
+data_ws/tsukasa_voice/voice_ev_wonder_01_3_58_13.wav|3|しかし、主人公の危機の演出としては良かった！この調子で、面白い演出を頼むぞ、類！
+data_ws/tsukasa_voice/voice_ev_wonder_09_07_159_13.wav|3|…………
+data_ws/nene_voice/voice_ev_shuffle_12_06_84_15.wav|1|ちょっと。司はともかく、星乃さん達に何する気？少しは加減を——
+data_ws/nene_voice/voice_sc_ev_wonder_05_03_64_15.wav|1|ナ、ナイトチケットも販売中です！
+data_ws/tsukasa_voice/voice_card_ev_shuffle_17_13_4a_37_13.wav|3|それはありがたい。だが……
+data_ws/tsukasa_voice/voice_card_ev_wonder_06_13_3a_28_13.wav|3|最悪、ヤツらの出現によって観客が混乱し、それまでに作った空気が台無しに……いや、ショーが中断される可能性も高い！
+data_ws/emu_voice/voice_card_ev_wonder_08_16_4a_17_14.wav|0|あ！　それあたしももっと知りたいって思ってたんだ！類くん、教えて～！
+data_ws/tsukasa_voice/voice_card_ev_shuffle_02_13_3b_47_13.wav|3|だからこそ、役者の息づかいが、演じる世界が、ダイレクトに見ている人達に届き、そして舞台の世界へと引きこんでいく！
+data_ws/emu_voice/voice_sc_ev_shuffle_10_03_84_14.wav|0|うんっ、そうしよ☆じゃああたし、次の班の子達呼んでくるね～！
+data_ws/emu_voice/voice_ev_wonder_07_04_56_14.wav|0|え？
+data_ws/nene_voice/voice_card_bd_202205_13_4b_102_15.wav|1|今、道連れってはっきり言ったよね
+data_ws/nene_voice/voice_card_15_02a_08_15.wav|1|今日ネネロボは観客役だから、わたしが歌うの、そこで見てて
+data_ws/tsukasa_voice/voice_card_ev_shuffle_02_13_3a_02_13.wav|3|いやこれはむしろ、黙してこの未来のスターの意見を待っているということか！
+data_ws/emu_voice/voice_card_ev_wonder_01_14_3b_36_14.wav|0|このままずっと変わらないで残っててほしいなぁ
+data_ws/emu_voice/voice_card_ev_wonder_08_15_4a_23_14.wav|0|コンコーン。寧々ちゃん、いますかーっ？
+data_ws/emu_voice/voice_ev_wonder_01_3_09_14.wav|0|ならく？
+data_ws/tsukasa_voice/voice_ms_wonder3_26b_13.wav|3|しかしこのステージ、どこかで見たことがあるような……？
+data_ws/nene_voice/voice_card_15_01b_46_15.wav|1|…………ふふ
+data_ws/tsukasa_voice/voice_card_ev_shuffle_01_14_4b_07_13.wav|3|まあ、ショーと言うからには、オレ達には『成功』という二文字しか許されないがな！
+data_ws/rui_voice/voice_ev_wonder_03_08_04_16.wav|2|しかも、契約日は間もなく……。まさかそこまで差し迫っていたなんてね
+data_ws/tsukasa_voice/voice_ms_wonder18_03_13.wav|3|……見てほしいものがある
+data_ws/rui_voice/voice_card_ev_shuffle_02_15_3b_15_16.wav|2|いや……案外いい視点かもしれない。主人公が複数……つまり、群像劇だ
+data_ws/rui_voice/voice_ev_wonder_02_4_37_16.wav|2|……やっぱり、昔のことが原因みたいだね
+data_ws/nene_voice/voice_card_ev_wonder_07_15_3b_31_15.wav|1|（ふふ。星乃さん達分も買っちゃった。今度、歌の練習をする時に渡したいな）
+data_ws/rui_voice/voice_unit_piapro16_07_16.wav|2|本当にいろいろと助けてもらったからねえ。僕からも感謝させてほしいな
+data_ws/emu_voice/voice_card_ev_wonder_06_14_4b_14_14.wav|0|（ジャンプのシーン、ちゃんと成功できてよかった！）
+data_ws/tsukasa_voice/voice_ms_wonder1_03_13.wav|3|まずは今日！　キャストオーディションに余裕の合格ッ！
+data_ws/tsukasa_voice/voice_ev_shuffle_17_04_07_13.wav|3|おお、いいアイディアだな！オレもああいったものを贈ってみるか……？
+data_ws/emu_voice/voice_ev_shuffle_16_04_15_14b.wav|0|わー、ほんとだ！フェニーくんも描きたいな～☆
+data_ws/nene_voice/voice_ms_wonder17_05_15.wav|1|うん。小学生の頃から、家が隣同士だから
+data_ws/tsukasa_voice/voice_ev_shuffle_17_08_39_13.wav|3|ああ、チョコレートファクトリーでショーをやったんだが、そのショーが好評となったため、特別に大きなチョコの作りかたを教えてもらえたのだ！
+data_ws/nene_voice/voice_card_fes_202112_16_4a_06_15.wav|1|ふふっ。なんかすっごいのって、もうちょっと他に言いようがあるでしょ
+data_ws/emu_voice/voice_card_ev_wonder_06_15_4a_38_14.wav|0|どうぞー、座って座って！
+data_ws/tsukasa_voice/voice_card_bd_202205_13_4a_48_13.wav|3|さて……
+data_ws/nene_voice/voice_card_ev_shuffle_02_26_4b_23_15.wav|1|そうじゃなくて。中身の話
+data_ws/tsukasa_voice/voice_card_ev_wonder_01_13_4a_46_13.wav|3|（つまり、それだけ精巧なマスクを保管できる場所があるということか……！）
+data_ws/emu_voice/voice_ms_wonder12_07_14.wav|0|類くん類くん！　みんな笑ってるよ！
+data_ws/tsukasa_voice/voice_card_ev_shuffle_17_23_2a_01_13.wav|3|すまん、レン！電話がかかってきてしまったらしい
+data_ws/emu_voice/voice_ev_wonder_09_03_52_14.wav|0|えへへ、あっちのほうにおいしそうな木の実が落ちててね、しゃがんで拾ってたら草のトンネルを見つけたの！
+data_ws/tsukasa_voice/voice_card_ev_wonder_05_24_4b_49_13.wav|3|ふっ、お前らもよく戦ったが、相手が悪かったなぁ
+data_ws/emu_voice/voice_card_ev_wonder_09_15_4b_65_14.wav|0|うん！　途中で連絡取れなくなっちゃったし、ミクちゃん達に、帰ってこれたよって伝えなくっちゃね！
+data_ws/nene_voice/voice_card_ev_wonder_03_15_4a_01_15.wav|1|……えむ、帰っちゃったけど、本当に大丈夫かな
+data_ws/nene_voice/voice_ev_shuffle_22_04_02_15.wav|1|なんか、どっと疲れた……
+data_ws/tsukasa_voice/voice_ev_wonder_04_08_77_13.wav|3|ああ……いや……。なんと言えばいいんだろうか
+data_ws/rui_voice/voice_ev_wonder_06_06_10_16.wav|2|ああ、バッチリだったよふたりとも！
+data_ws/emu_voice/voice_card_ev_wonder_02_14_2b_08_14.wav|0|あっ！　それ着ぐるみさんも言ってた！写真を撮ってる人すごくたくさんいたんだって！
+data_ws/emu_voice/voice_ev_shuffle_16_03_72_14.wav|0|——あっ！　じゃなくて！おかしなおうちの話とかいいかな～って！
+data_ws/tsukasa_voice/voice_ev_wonder_01_8_13_13.wav|3|それで、結果はどうなんだ！？
+data_ws/rui_voice/voice_ev_shuffle_02_6_46_16.wav|2|それぞれが、それぞれの作ったショーを楽しんでいる
+data_ws/rui_voice/voice_card_16_01b_38_16.wav|2|おや……行ってしまったね
+data_ws/tsukasa_voice/voice_card_15_3a_22_13.wav|3|『コッペリア』だと！？このオレにふさわしい曲じゃないか！よし、採用だ！
+data_ws/nene_voice/voice_sc_ev_wonder_05_03_80_15.wav|1|……え？この声……もしかして——
+data_ws/emu_voice/voice_ev_wonder_02_5_13_14.wav|0|……じゃあ、昔のことをいっぱい思いだせればいいのかな？
+data_ws/rui_voice/areatalk_2_208_005.wav|2|フフ、そんな面白そうな作品があったなんてね。ありがとう、えむくん。参考にさせてもらうよ
+data_ws/emu_voice/voice_card_ev_wonder_04_14_4a_18_14.wav|0|みんな、ありがとう！一緒にがんばろっ！！
+data_ws/nene_voice/voice_ev_shuffle_22_03_69_15.wav|1|えっ、さすがに恥ずかしくない？
+data_ws/tsukasa_voice/voice_card_13_01b_14_13.wav|3|ふふんっ。そうだろう！　そうだろう！
+data_ws/rui_voice/voice_ev_shuffle_07_07_54_16.wav|2|結び目もしっかりしてる。これなら使えるね
+data_ws/nene_voice/voice_card_ev_wonder_08_15_4b_37_15.wav|1|（でも、今回はたしかに——）
+data_ws/nene_voice/voice_card_16_02b_22_15.wav|1|……はぁ。……どどどどど……
+data_ws/rui_voice/areatalk_2_008_003.wav|2|ふむ、ならば10秒ほど待っていてくれ
+data_ws/nene_voice/voice_card_ev_shuffle_01_14_4b_37_15.wav|1|さっきはこのあたりで片づけしてたのに……あ！
+data_ws/nene_voice/voice_card_fes_202112_16_4a_17_15.wav|1|ひとりはわかるかも。類が尊敬してる演出家の人でしょ？
+data_ws/nene_voice/voice_card_ev_shuffle_08_23_4a_32_15.wav|1|カリスマ性が輝くって、何言ってんの？
+data_ws/emu_voice/voice_card_15_3a_06_14.wav|0|おお～、楽しそう！やろやろ！
+data_ws/tsukasa_voice/voice_ev_wonder_01_3_41_13.wav|3|うわーっ！！
+data_ws/tsukasa_voice/voice_ev_wonder_04_08_108_13.wav|3|これは、オレ達の素晴らしいショーを全国に披露するチャンス！というわけだな！
+data_ws/tsukasa_voice/voice_ms_wonder7_51_13.wav|3|こ、こいつ聞こえて……！？オレは世界一のスターになる男だ！　そんな不安、あるわけないだろう！
+data_ws/emu_voice/voice_ev_wonder_01_7_28_14.wav|0|……む？　あそこにハシゴがかかってる！上まで行けちゃいそうだね！
+data_ws/nene_voice/voice_card_13_3b_38_15.wav|1|……かくれんぼしてる途中の子たちをパフォーマンスでおびき出すってなんなの。意味不明
+data_ws/emu_voice/voice_ms_wonder6_33_14.wav|0|わあ～！　昨日のショーの人だ！ようこそわんだほ～い☆
+data_ws/rui_voice/voice_ev_wonder_09_05_36_16.wav|2|そして網を投げるのは、僕とえむくんの役目だ。寧々は猿達に食料がたっぷり入ったバケツをチラつかせながら、うまく僕達の近くに寄ってきてほしい
+data_ws/tsukasa_voice/voice_ev_shuffle_18_06_36_13.wav|3|そういえば……。セカイに花がないわけではないんだな
+data_ws/tsukasa_voice/voice_ms_wonder16_56_13.wav|3|だからオレは……挑戦した勇気のある仲間を責めるようなことは、しちゃいけなかった
+data_ws/nene_voice/voice_ev_wonder_04_01_29_15.wav|1|いや、なんなのこのテンション……。今日するのって、例の方針転換をどうするかって話しあいでしょ？
+data_ws/rui_voice/voice_ev_shuffle_08_01_69_16.wav|2|カーボン抵抗器は、予備も入れてこれくらいかな。ああ、圧着端子も買っておこうか
+data_ws/rui_voice/voice_ev_shuffle_07_08_08_16.wav|2|『ふふ、それは難しいお願いだねえ』
+data_ws/nene_voice/voice_card_ev_shuffle_04_16_2b_08_15.wav|1|ん、まあね……。でも、連絡先とか何も交換しなかったなぁって思って……
+data_ws/nene_voice/voice_card_ev_wonder_05_24_4a_06_15.wav|1|ルカさんは大丈夫？
+data_ws/tsukasa_voice/voice_card_bd_202207_15_4b_23_13_b.wav|3|お、おお、勝手に顔の表情が変わるとは、なかなか面白そうではないか！よければ協力するぞ！
+data_ws/emu_voice/voice_card_ev_shuffle_16_07_4a_31_14.wav|0|お～。バレンタインっぽい！
+data_ws/emu_voice/voice_ev_wonder_04_02_92_14.wav|0|お願いします！あたし達と一緒に、ショーをやってください！
+data_ws/rui_voice/voice_card_ev_wonder_02_16_3b_37_16.wav|2|僕達はうまく演じ分けができているからね
+data_ws/emu_voice/voice_card_ev_wonder_03_14_4a_37_14.wav|0|（ここを大事に思ってくれてるのは、咲希ちゃんだけじゃない）
+data_ws/nene_voice/voice_card_ev_shuffle_10_14_4b_25_15.wav|1|たしかに、話しに来たくなるのもわかるかも
+data_ws/tsukasa_voice/voice_card_13_02a_08_13.wav|3|待て待てーい！突如現れ、矢継ぎ早にしゃべるな！
+data_ws/emu_voice/voice_ev_wonder_07_04_66_14.wav|0|あれ、どうしたのー？あたしの足にぴたーってくっついて
+data_ws/tsukasa_voice/areatalk_2_288_001.wav|3|とうっ……ハッ！どうだ！　オレの渾身のポージング……って、おい！
+data_ws/emu_voice/voice_card_ev_wonder_09_13_4b_39_14.wav|0|あとね！　公演が終わったあと、水上スキーして遊んだんだー♪
+data_ws/rui_voice/voice_card_10_01b_29_16.wav|2|ああ、肝に銘じておくよ
+data_ws/tsukasa_voice/voice_ev_wonder_04_02_17_13.wav|3|えむ！　類！そっちはどうだ？
+data_ws/nene_voice/voice_card_ev_wonder_04_15_4b_10_15.wav|1|えっと……ワ、ワンダーステージっていうところで、一緒にショーをしてるから……
+data_ws/emu_voice/voice_ev_wonder_09_04_66_14.wav|0|うんうんっ、これでみんなお腹いっぱいになれるよね！
+data_ws/rui_voice/voice_ev_shuffle_19_02_58_16.wav|2|（きっと、この熱量を生んでいるのは……）
+data_ws/emu_voice/voice_ev_shuffle_01_3_46_14.wav|0|えへへ♪　次の話しあいには、みんなが笑顔で楽しめちゃう競技をい～っぱい持ってきます！　それじゃあ、いってきまーす！
+data_ws/nene_voice/voice_ev_wonder_09_01_09_15.wav|1|えむ！大丈夫？
+data_ws/emu_voice/voice_unit_piapro16_01_14.wav|0|ミックッちゃーーーーん！！
+data_ws/tsukasa_voice/voice_ev_shuffle_17_06_34_13.wav|3|（……湯せんが終わったら、型に入れ冷やして、トッピングをして——それで終了だ）
+data_ws/rui_voice/voice_card_21_wonder_02a_21_16.wav|2|ああ、元気だよ。司くんもこの通り
+data_ws/emu_voice/voice_ev_shuffle_01_7_40_14.wav|0|そうだ、ミクちゃん！よかったら、これからも学校に遊びに来てほしいな
+data_ws/rui_voice/voice_ev_wonder_07_02_27_16.wav|2|いやぁ、翻訳機能もつけていたから試してみたかったんだけどねえ
+data_ws/nene_voice/voice_ms_wonder17_65_15.wav|1|……司……
+data_ws/emu_voice/voice_card_ev_shuffle_16_14_4b_02_14.wav|0|（お姉ちゃん達へのサプライズも楽しみ♪）
+data_ws/tsukasa_voice/voice_card_ev_wonder_08_14_3b_19_13.wav|3|だが、どうにかして見つけるしかない。とにかく教室に行ってもう一度原作を——
+data_ws/tsukasa_voice/voice_ev_wonder_03_05_08_13.wav|3|……なるほど、妙にイライラしていると思ったらそういうことか。尚更、待たせて悪かったな
+data_ws/tsukasa_voice/voice_card_ev_shuffle_12_13_4a_12_13.wav|3|珍しいな……。まあ、遠慮はいらん。言ってみろ！
+data_ws/nene_voice/voice_ev_wonder_02_6_12_15.wav|1|ふふっ。ヘタだなぁ。音も外れてるし
+data_ws/tsukasa_voice/voice_ms_wonder7_22_13.wav|3|会話できるなら、その草薙寧々とやらに一言言わせてもらおう！
+data_ws/tsukasa_voice/voice_ev_wonder_02_4_53_13.wav|3|新しいショー？今度はどんなのを作ったんだ？
+data_ws/emu_voice/voice_ev_shuffle_01_8_37_14.wav|0|あたしは明日もショーをやるよ！みんなが笑顔になれるようにっ！
+data_ws/rui_voice/voice_card_ev_shuffle_17_13_4a_02_16.wav|2|みんな、かなり仕上がってきたね。この調子なら、次の通常公演も問題なさそうだ
+data_ws/nene_voice/voice_ev_wonder_02_8_86_15.wav|1|ふふ。ショーで雪が降ったら、ミク達も喜んでくれるかもね
+data_ws/emu_voice/voice_ev_wonder_04_08_27_14.wav|0|ごめんなさい！
+data_ws/rui_voice/voice_ev_shuffle_19_01_64_16.wav|2|まずはどんなものを作ろうとしているのか教えていただきたいと思いまして
+data_ws/tsukasa_voice/voice_card_ev_shuffle_12_13_4b_07_13.wav|3|ああ。……ん、そういえばミクがいないな。こういう時、真っ先に会話に入ってきそうなのに
+data_ws/tsukasa_voice/voice_card_ev_wonder_06_22_2a_16_13.wav|3|そうか。ならば心配いらないな
+data_ws/nene_voice/voice_ms_wonder12_25_15.wav|1|どうして？　どうして動かないの？
+data_ws/rui_voice/voice_ev_wonder_03_03_87b_16.wav|2|……それとも、理想を追い求める過程でそれを諦めてしまったのでしょうか？
+data_ws/nene_voice/voice_card_bd_202207_15_4b_01_15.wav|1|——わ、なんか立食パーティーみたいな感じになってる
+data_ws/nene_voice/voice_ev_shuffle_22_04_56_15.wav|1|……！
+data_ws/nene_voice/voice_ev_shuffle_06_01_22_15.wav|1|……うん。わたしも同じだったから、わかるんだ
+data_ws/tsukasa_voice/voice_ev_wonder_02_1_62_13.wav|3|な、なんだと！？ちょっとばかり歌えるからといって調子に乗るな！
+data_ws/nene_voice/voice_card_ev_wonder_04_15_4a_29_15.wav|1|（でも……。わたしの教えかたで、みんな本当にうまくなれるのかな）
+data_ws/rui_voice/voice_card_ev_wonder_06_14_4a_29_16.wav|2|ありがとうございます。ですが、今のところは特にありませんよ
+data_ws/rui_voice/voice_card_10_01b_21_16.wav|2|おや……。知ったら後悔するかもしれないよ？
+data_ws/emu_voice/voice_card_14_3a_17_14.wav|0|それじゃあ、急いでお出迎えの準備をしなくちゃだね！
+data_ws/emu_voice/voice_ev_shuffle_16_06_44_14.wav|0|えへへ♪　今、とーってもスイートな気分だから、歌っちゃいたい気分だなぁって！
+data_ws/rui_voice/voice_ev_wonder_04_01_76_16.wav|2|ズバリ、このショーでは——フェニックスワンダーランドにいるすべてのキャストとスタッフを巻きこもうと思ってるんだ
+data_ws/rui_voice/voice_card_20_01b_17_16.wav|2|衣装……確かに、必要になりそうではあるね
+data_ws/nene_voice/voice_card_ev_wonder_03_15_4a_24_15.wav|1|…………
+data_ws/nene_voice/areatalk_2_038_006.wav|1|はいはい。本当に親切心で教えようって人は、二回も繰り返さないから
+data_ws/nene_voice/voice_ev_shuffle_22_05_67_15.wav|1|（な……こんな連鎖、見たことない……！）
+data_ws/nene_voice/voice_ev_wonder_02_5_54_15.wav|1|え？
+data_ws/rui_voice/areatalk_2_061_001.wav|2|フフフ……司くん、試作品だけど『ポップアップ』を作ってみたんだ。試してみるかい？
+data_ws/emu_voice/voice_ev_wonder_09_08_31_14.wav|0|そうかも！みんなでいろんなことやったしね！
+data_ws/tsukasa_voice/area3_190_002.wav|3|まずはアイディア出しだな
+data_ws/rui_voice/area3_183_004.wav|2|もしや、司くんは裁縫ができるのかい？
+data_ws/nene_voice/voice_ev_shuffle_22_02_64_15.wav|1|うう……
+data_ws/emu_voice/voice_ev_wonder_07_06_39_14.wav|0|きっと、みんなを笑顔にするにはどうしたらいいんだろうって、いっぱいいっぱい考えたんだろうなって思って……
+data_ws/tsukasa_voice/voice_card_ev_wonder_01_14_3a_37_13.wav|3|パンダって、その乗り物のパンダか！？
+data_ws/emu_voice/voice_card_14_02b_06_14.wav|0|やっぱり、みんなも気づいてた？
+data_ws/tsukasa_voice/voice_card_ev_shuffle_04_13_3a_47_13.wav|3|ま、まさか！本物が紛れていたんじゃないだろうな！？
+data_ws/rui_voice/voice_card_ev_wonder_06_16_4a_32_16.wav|2|フフ。昔だからこそ、もう気にしていないと言ったじゃないか
+data_ws/nene_voice/voice_card_ev_wonder_06_15_4b_39_15.wav|1|それに、最近ちょっと体力もついてきたし、できることを増やして、演出の幅も広げられたらって思って
+data_ws/nene_voice/voice_card_15_3a_54_15.wav|1|ホント、変なバカ……
+data_ws/rui_voice/area3_194_004.wav|2|高評価ありがとう、司くん。これは次のショーの演出も腕によりをかけて考えなくてはね
